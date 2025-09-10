@@ -1,8 +1,9 @@
 ```metadata
-title: CLONE - Fate Lost_Continuum_ Guia de lord el melloi a la Magia
-description: ''
+title: Fate Lost_Continuum_ Guia de lord el melloi a la Magia
+description: Traducido al español por Mr. Muffin
 tags: []
-systems: []
+systems:
+  - 5e
 renderer: legacy
 theme: 5ePHB
 
@@ -34,7 +35,338 @@ ___
   style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
 
 <div class='pageNumber'>1</div>
+\page
 
+## Trasfondos
+Los trasfondos son mucho más impactantes aquí que en la 5ta Edicion. Casi pueden considerarse una clase secundaria.
+___
+Tu trasfondo como mago infiere mucho sobre tus rasgos y habilidades, así como tu posición social y posibles alianzas, ademas, también te da competencias, así como la cantidad de riqueza con la que comienzas.
+
+#### Competencias
+Tu mago obtendrá competencias tanto de tu trasfondo como de tu clase principal.
+___
+Si dos fuentes diferentes te otorgan la misma competencia, puedes elegir una competencia diferente mientras sea del mismo tipo (Hechizo o arma).
+
+### Erudito
+
+Un tipo de mago atípico dentro de todos los que se encuentran en la asociación. Tú te has preparado físicamente durante toda tu vida para ser el receptáculo de tu sirviente, estudiando a fondo los sirvientes de la clase de caballeros, sus comportamientos, la época que vivieron y sus doctrinas filosóficas.
+___
+No eres como cualquier mago que es un erudito en las escuelas de magia que domina, sino que tú elegiste el camino de ser un experto en la compatibilidad que se debe tener con el sirviente que te acompañará durante toda la guerra.
+___
+**Importante:** *Este Trasfondo está pensado para jugar siendo un Demi-Sirviente. Habla con tu Director de Juego antes de seleccionar este Trasfondo para tener una mejor experiencia.*
+
+
+#### Competencias
+
+Armas simples.   
+Armas cuerpo complejas.    
+2 competencia a eleccion.
+___
+**Competencia special: Trucos.** Eres competente con todos los trucos y comienzas con un truco extra a tu elección.
+
+#### Riqueza
+
+Comienzas con 6 de riqueza.
+
+#### Cronista
+
+Comienzas con el dote de **Historiador.**
+___
+Además, cuando logras discernir la identidad de un Sirviente por medio de esta habilidad, adquieres permanentemente una habilidad o maniobra que disponga este Sirviente y que puedas imitar, a discreción del DJ. En caso de tener un rango, el rango máximo que eres capaz de copiar es rango C, y en caso de tener un número de usos, dependerá de tu estadística de MNA.
+___
+Si se trata de tu propio Sirviente, pasas automáticamente la tirada.
+
+<div style='margin-top:130px'></div>
+
+#### El elegido
+
+Cuando invocas a un Pseudo-Sirviente, obtienes acceso permanente a todas las habilidades del Sirviente sin la necesidad de usar sellos. Sin embargo, su Noble Phantasm aún seguirá bloqueado, si el Sirviente así lo desea.
+___
+Además, cuando tú o tu Sirviente fallan una tirada, puedes volver a tirar el dado una cantidad de veces igual a la mitad de tu estadística de SUE (redondeado hacia abajo) por descanso.
+
+#### Especialista
+
+Elige una de las cuatro siguientes habilidades como la especialización de tu personaje, adquiriendo sus beneficios:
+
+* **Estudios Fundamentales:** La CD de tus hechizos aumenta en 1, además obtienes 1 hechizo conocido adicional. Este hechizo es olvidado si cambias esta especialización
+* **Cazador:** Obtienes un +2 a tus ataques a distancia.
+* **Guerrero:** Obtienes +2 a tus ataques a cuerpo a cuerpo.
+* **Duro como el acero:** Obtienes 5 a tu HP máximo. Además, una vez por descanso, la primera vez que fueras a caer a 0 de HP, quedas a 1 HP en su lugar.
+
+Puedes cambiar tu elección al finalizar descanso.
+
+<img src='https://i.ibb.co/M5Cckym/imagen-2024-07-15-155837145.png' style="width:500px;position:absolute;right:-30px;bottom:-235px;"/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:400px; right:0px; height:800px; width:816px;' />
+
+
+<div class='pageNumber'>2</div>
+
+\page
+### Estratega
+
+Este mago prefiere usar objetos, trampas y artilugios para combatir, siempre tiene un as bajo la manga y no suele perder en una zona preparada.
+
+
+#### Competencias
+Armas simples.    
+Armas improvisadas.   
+3 competencias a elección.
+
+
+#### Riqueza
+
+Comienzas con 6 de riqueza.
+
+#### Objetos preparados
+Obtienes 5 de riqueza que solo se puedes usar para comprar objetos que no sean armas ni Códigos Místicos.
+
+
+#### Hábil de manos
+
+Puedes usar la acción de usar o lanzar un objeto como acción bonus, esto incluye pero no se limita a Bombas, Pociones. Boleadoras, Abrojos, Redes, Frascos y Trampas. También puedes usar la acción de Huir como acción bonus.
+
+#### Experto en camuflaje
+Cuando estableces una base en el mapa ganas +1 de hide dc mientras estés en ella, además puedes gastar 10 minutos para camuflar una trampa u objeto del mapa, esta no podrá ser detectada a menos que se supere una tirada de SUE DC15.
+
+
+<img src='https://i.ibb.co/L1xQCDZ/imagen-2024-07-15-185056418.pnghttps://static.zerochan.net/Rokka.no.Yuusha.full.1816687.jpg' style='position:absolute; bottom:-100px; right:-160px; width:800px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-10px; right:50px; height:1056px; width:1156px; transform:rotate(-88deg)' />
+
+<div class='pageNumber'>3</div>
+\page
+<style>
+  .phb:after { display:none; }
+</style>
+
+
+## Líder de Culto
+
+Seas su fundador, o uno de sus pesos más pesados, buscas traer la influencia del culto al que perteneces a nuevos territorios; pero no eres ningún civil.
+___
+Tus conocimientos mágicos te hacen la tarea de adquirir fieles y "guiar" a tu rebaño extremadamente más sencilla; esparciendo y propagando tu influencia como si fuera una infección en la sociedad.
+___
+A los ojos de la Asociación, eres una amenaza a la ocultación de la Mística; y a los de la Iglesia, un hereje; por lo que sueles preferir mantener un perfil público bajo.
+
+#### Competencias
+
+Armas simples.	
+Hechizos de tipo encantamiento.	
+1 competencia de tu elección.
+
+#### Riqueza
+
+Comienzas con 6 de riqueza.
+
+#### Organización Religiosa
+
+Como acción gratuita al comienzo de una fase; o durante la fase de preparación de la campaña, puedes elegir una zona en la cual establecer la base de tu culto.  	
+___
+A medida que transcurren los días desde que estableces la base, tu culto crece en tamaño, y la devoción de sus integrantes (civiles) incrementa, proporcionándote información y contribuciones económicas que se representan en los beneficios de la tabla "Beneficios del Culto" al final de este trasfondo.
+
+___
+No obstante, a medida que el culto crece, tendrá una visibilidad mayor frente a otros jugadores. Si la base de tu culto es destruida, o tus fieles son asesinados; el culto se desmantela, y pierdes acceso a todos los beneficios vigentes.
+___
+**Solo puedes construir un culto por partida**, por lo que si tu culto es desmantelado, ya no podrás conseguir beneficios de esta habilidad por el resto de la partida.
+
+
+#### Entendimiento sobre la mente humana
+
+Sea por años de estudio sobre el campo del psicoanálisis, años de interacciones profundas con cientos de personas; o el conocimiento en hechicería de Encantamiento, tienes facilidad para comprender las intenciones de las personas, sus objetivos personales, y como reaccionan ante ciertos estímulos.
+___
+Puedes utilizar esta habilidad para negociar con vendedores, encontrando la forma de conseguir un precio reducido: cada vez que gastes riqueza con un vendedor o entrenador, descuentas 2 de riqueza menor por cada punto de riqueza mayor del valor original de la compra.
+___
+Este beneficio sólo aplica a compras que realices durante el tiempo de la partida; y no para las compras que hagas en la fase de armado del personaje.
+
+
+<img src='https://cdna.artstation.com/p/assets/images/images/024/574/282/large/sol-ferrari-kiara.jpg?1582844129' style='position:absolute; bottom:0px; right:-220px; top: -110px; width:850px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-10px; right:50px; height:1056px; width:1156px; transform:rotate(-88deg)' />
+
+
+<div class='pageNumber'>4</div>
+
+\page
+<div class='wide'>
+#### Libido Rebosante
+Te encuentras en un estado de excitación constante, el cual se contagia con cierta facilidad a quiénes interactúen contigo. Tu mera presencia y actuar son suficientes para alterar el pensamiento cuerdo de tus enemigos, proporcionándote una mayor facilidad para influenciarlos y distraerlos. <br> 	
+La CD de tus hechizos que impongan un estado negativo o que interfieran con la mente o voluntad de sus objetivos aumenta en 1.
+<br>Otros efectos mágicos, como habilidades de clase, también se pueden beneficiar de esta bonificación siempre y cuando utilicen directamente tu salvación de hechizos (10+MNA) a la hora de determinar su CD.
+
+<br>
+Sin embargo, dicho estado ya ha pasado factura en tu propia estabilidad mental, por lo que realizas las tiradas de salvación contra esos mismos efectos aplicando un modificador de -1. 	
+<br> 
+**Versión alternativa - Carisma Inestable:** Los efectos de la habilidad son los mismos, pero los mismos provienen de tu capacidad oratoria, tu carisma para el engaño; así como también una ingenuidad presente en tu ser para el efecto negativo.
+<br>
+<br>
+
+
+
+
+##### Beneficios del Culto
+| Días desde contrucción |Bonus a exploración| Riquezas al alcanzar día | CD Exploración Culto
+|:----:|:-----:|:-----------:|:---------:|
+| 0  |+0| 0 | 11 + SUE
+| 1  | +2 | 2 | 10 + SUE
+| 2 | +3 | 3 | 9 + SUE
+| 3 | +4 | 4 | 8 + SUE
+| 4+ | +7 | 7| 4 + SUE
+
+___
+Además, tras cuatro días transcurridos, tus seguidores alcanzan un nivel de devoción tan alto que algunos se sacrifican voluntariamente por ti, permitiéndote absorber sus almas para ganar los beneficios que aquello implica, sin llamar la atención de las autoridades.
+
+<img src='https://i.pinimg.com/originals/f6/a3/a8/f6a3a8a65f38083119f7ef3b2e3a76ec.jpg' style='position:absolute; bottom:0px; right: 0px; top: 440px;width:900px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-260px;right:0px; height:1046px; width:1156px' />
+  
+</div>
+
+
+
+
+<div class='pageNumber'>5</div>
+
+\page
+### Millonario
+
+Entraste en la guerra más por capricho que por ser realmente capaz, eres de las familias más ricas del mundo y tu fortuna se cuenta por millones, pese a eso, tu capacidad mágica tiene que desear.
+
+
+#### Competencias
+Armas simples.    
+1 competencias a elección.
+
+
+#### Riqueza
+
+Comienzas con 30 de riqueza.
+
+#### Nula Capacidad Mágica
+Similar al mago **Desconocido**, no comienzas el juego con 6 niveles de clase. En cambio, comienzas con 1 nivel de clase y obtienes 1 nivel de clase adicional al final de cada 2 fases que te mantengas vivo, hasta un máximo de 6 niveles.
+
+
+
+#### Nepotismo
+
+ Si usas la acción de 8 horas para “trabajar” ganas 2d4 de riqueza en vez del 1d4 normal por tus inversiones previas.
+
+#### Servicios personalizados
+Gracias a tu red de contactos, puedes acceder a comprar ciertas cosas que otros no, siendo estas:
+
+| Compra | Coste |
+|:----:|:----:|
+| Equipo de rastreo | 2 |
+| Guardaespaldas. | 3 |
+| Servicio antiaéreo. | 3 |
+| Profesor. | 4 |
+| Servicio de inteligencia. | 4 |
+
+*El detalle de estas compras se encuentra en la siguiente página.*
+<img src='https://i.pinimg.com/originals/cd/7d/86/cd7d869099bc5d93d0943b12eb28b40a.jpg' style='position:absolute; bottom:-40px; right:-220px; width:780px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-10px; right:60px; height:1056px; width:1156px; transform:rotate(-88deg)' />
+
+
+
+<div class='pageNumber'>6</div>
+ \page
+  
+  <img src='https://i.ibb.co/D532BRb/yakuza.png' 
+  style='position:absolute;left:-190px;top:60px;height:1000px;width:700px;transform:rotate(0deg)' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png'   
+    style='position:absolute; top:-10px; right:-400px; height:1056px; width:1156px; transform:rotate(90deg)' />
+
+
+
+
+<div style='margin-top:1000px'></div>
+##### Equipo de rastreo
+
+Puedes comprar este servicio para explorar remotamente una zona sin gastar una acción de 8 horas, luego de esas 8 horas te llamarán para avisarte lo que encontraron. Usan tu estadítica de SUE para la exploración.
+
+##### Guardaespaldas.
+Puedes comprar este servicio para llamar a 2 guardespaldas, estos se retiraran pasadas 24 horas de su llamado.
+___
+> ## Guardespaldas
+>*Humanoide Mediano*
+> ___
+> - **Armadura:** 12
+> - **Vida:** 20
+> - **Velocidad:** 30 pies
+>___
+>|FUE|DES|CON|MNA|SRT|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|0|2|2|2|0|
+> ### Habilidades
+> ***Sirviente leal.*** Si el contratador. fuera a ser atacado y el Guardespaldas está a 5 pies de este, el Guardepaldas usar su reacción y ser el nuevo objetivo del ataque.
+> ### Acciones
+> ***Cuchillazo.*** Ataque cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 1d4 + 2 de daño cortante.	
+> ***Disparo.*** Ataque a rango: +4 a impactar, alcance 30 pies, un objetivo. Impacto: 1d6 + 2 de daño perforante.
+
+##### Servicio antiaéreo.
+
+Durante las siguientes 24 horas contratado este servicio tienes los servicios básicos de un satélite no militar a tu disposición. Al inicio de tus turnos, cualquier enemigo que vuele al menos 15 pies sobre el suelo que puedas ver y esté a 60 pies de ti recibirá 1 ataque desde el espacio, con una bonificación de +3 para pegar y de impactar inflige 3d6 de daño de fuego.
+
+##### Profesor.
+Al comprar este servicio gastarás una acción de 8 horas en aprender una nueva competencia a tu elección o subir 1 nivel de clase (máximo hasta nivel 6).
+
+##### Servicio de inteligencia.
+Solo puedes comprar este servicio si sabes la ubicación de otro Maestro o PNJ, una vez pasen 8 horas contratado este servicio, se te dará información respecto las clases del Maestro o PNJ seleccionado, así como información adicional que se pueda recopilar del mismo a discreción del DJ.
+
+
+
+\page
+### Tatuaje alquimico
+
+Un hechicero, descendiente de una antigua tradición monástica de Asia, utiliza una aguja mágica ancestral para inscribir en tu piel un tatuaje dotado de la capacidad única de potenciar el flujo de maná en tu cuerpo. Este arte milenario amplifica tus habilidades más allá de los límites convencionales, permitiéndote canalizar la energía almacenada en los intrincados diseños grabados en tu piel. Los tatuajes actúan como receptáculos sensibles, facilitando la absorción de maná del éter circundante. Cada vez que desatas sus poderes, los tatuajes resplandecen con un brillo especial, perdiendo esta luminosidad conforme agotas sus facultades, en concordancia con sus características particulares.
+
+#### Competencias
+Armas simples.    
+3 competencias a elección. 
+___
+**Competencia especial: Armas.** Se te considera competente con la Séptima Escritura Sagrada y las Llaves Negras. **Trucos.** Aprendes un truco de tu elección y se te considera competente con él. Si dicho truco inflige daño, este inflige un dado de daño adicional.
+
+#### Riqueza
+
+Comienzas con 7 de riqueza.
+
+#### Conjuro marcial
+El maná ha incrementado tu habilidad natural para el combate, por lo que tus puños infligen 1d4 + tu modificador de DES, FUE o MNA, a tu elección. Debido a tu habilidad para usar el maná externo, eres capaz de combinar eficazmente el uso de hechizos con tu mejorada habilidad física. Si utilizas un truco cuyo tiempo de lanzamiento sea una acción, puedes hacer un ataque de arma como acción bonus (incluyendo ataques desarmados).
+
+#### Flujo místico grabado
+
+Debido a tu habilidad de manipulación poco convencional, puedes moldear ligeramente el maná externo. **Cuando tú o una criatura a 60 pies recibe daño de ácido, frío, fuego, fuerza, rayo o trueno**, puedes usar tu **reacción** para desviar una parte de esa energía y **reducir el daño a la mitad**. Esta energía desviada se almacena en uno de tus tatuajes y puedes usarla para que tu siguiente ataque o hechizo realice 1d8 de daño adicional del mismo tipo del daño reducido con esta habilidad. Si el hechizo o ataque daña a más de una criatura a la vez, solo una recibe ese daño adicional (tú eliges cuál). Esta habilidad solo se puede utilizar una vez por descanso, o una vez adicional sin descansar utilizando una ranura de hechizo.
+
+<div style='margin-top:150px'></div>
+
+#### Apoteosis manántica
+
+El maná acumulado en tus tatuajes puede fusionarse momentáneamente con tu ser, permitiéndote entrar en un estado de éxtasis que rompe tus limitaciones físicas por un tiempo limitado. Como acción bonus, puedes entrar en este estado de éxtasis, obteniendo los siguientes beneficios:
+
+* Tu probabilidad de conseguir un golpe crítico aumenta, considerándose un Golpe Crítico cuando el dado d20 en la tirada de ataque resulte en un 19 o 20. Cualquier habilidad u objeto que reduzca la chance para asestar un golpe crítico se acumula con esta habilidad.
+* Al asestar un golpe crítico con un ataque cuerpo a cuerpo, recuperas una ranura de hechizo, ya que los tatuajes absorben el maná de la criatura golpeada. Solo puedes recuperar una ranura de hechizo por ronda con esta habilidad.
+* Si puedes realizar más de un ataque, puedes reemplazar cualquiera de estos ataques con un truco cuyo tiempo de lanzamiento sea una acción.
+___
+ Este estado de éxtasis dura un minuto y puede usarse una vez por descanso o gastando 2 ranuras de hechizo para usarlo sin haber descansado.
+
+<img src='https://i.ibb.co/LdN6wmw/ciel-tsukihime.png" alt="ciel-tsukihime' style="width:500px;position:absolute;right:-60px;bottom:-350px;"/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:400px; right:0px; height:800px; width:816px;' />
+
+<div class='pageNumber'>8</div>
 \page
 
 ## Apóstol muerto
@@ -109,7 +441,8 @@ No puedes alternar caminos.
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:200px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>2</div>
+
+<div class='pageNumber'>9</div>
 
 \page
 
@@ -163,7 +496,8 @@ ___
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:420px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>3</div>
+
+<div class='pageNumber'>10</div>
 	
 \page
 
@@ -221,14 +555,15 @@ ___
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:220px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>4</div>
+
+<div class='pageNumber'>11</div>
 
 \page
-
-## Astrapimante
+  
+## Astralopitecus
 Magos que atraen la llamada de la tormenta, manejan el poder del rayo y lo infunden en sus circuitos mágicos para alterar sus habilidades físicas y su hechicería.
 ___
-Los astrapimantes rivalizan con los piromantes en el puro poder destructivo de sus hechizos.
+Los mosquitos rivalizan con los piromantes en el puro poder destructivo de sus hechizos.
 
 ### Lanzador de hechizos
 Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
@@ -240,6 +575,8 @@ Hechizos de tipo Evocacion
 Al nivel 1 por cada 10 pies de movimiento que hagas en combate obtienes una carga de batería, pudiendo tener un maximo de 3 cargas de batería.
 ___
 El próximo ataque o hechizo que realices inflige 1d4 de daño por rayo adicional por carga de batería. Pierdes todas las cargas de batería al final de tu turno.
+___
+Ademas, la estetatica produce musica 24/7. A menudo interfieren con las ondas de radio causando que la musica se escuche en las radios cercanas.
 
 ### Estática
 Al nivel 2 infligir daño de rayo a una criatura les otorga un estado llamado Estática.
@@ -282,7 +619,8 @@ Puedes usar Choque de Rayos una vez por descanso.
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:340px; right:0px; height:1056px; width:816px;' />
 
-<div class='pageNumber'>5</div>
+
+<div class='pageNumber'>12</div>
 
 \page
 
@@ -293,10 +631,10 @@ Los criomantes son  híbridos de daño y utilidad, ya que su hielo helado les pe
 Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
 
 ### Competencias
-Hechizos de tipo Evocacion
+Hechizos de tipo Evocacion   
 
 ### Borde escalofriante
-Al nivel 1, cuando infliges daño por frío, obligas a la criatura a realizar una tirada de salvación de RES. Si falla, se ralentiza hasta el final de su siguiente turno. La criatura puede repetir esta tirada de salvación al final de su turno.
+Al nivel 1, cuando infliges daño por frío, obligas a la criatura a realizar una tirada de salvación de RES. Si falla, se ralentiza. La criatura puede repetir esta tirada de salvación al final de cada uno de sus turnos.
 ___
 Si infliges daño a una criatura ralentizada con esta habilidad, esta recibe 1d6 de daño por frío adicional.
 
@@ -325,22 +663,24 @@ Además, obtienes inmunidad al daño por frío.
 ### Bloque de hielo
 Al nivel 5 puedes congelar el aire que te rodea, convirtiéndote en un bloque de hielo y recuperando tu fuerza.
 ___
-Una vez por descanso, como acción o reacción, te conviertes en una columna de hielo. Hasta el final de tu próximo turno estás petrificado, otorgándote cobertura media, inmunidad a estados negativos y estas incapacitado. Mientras estás dentro del bloque de hielo, ganas la mitad de tus puntos de vida máximos inmediatamente.
+Una vez por descanso, como acción o reacción, te transformas en una columna de hielo. Hasta el inicio de tu siguiente turno, quedas petrificado, obtienes cobertura total y el bloque de hielo se vuelve impenetrable, incluso contra efectos que normalmente atraviesan estructuras. Inmediatamente recuperas la mitad de tus puntos de vida máximos. Si la curación supera tus puntos de vida máximos, obtienes el excedente como puntos de vida temporales (acumulable con otras fuentes). Además, cualquier efecto negativo que te afectaba se disipa al activar este pilar.
 ___
 Puedes elegir poner a otra criatura dentro del bloque de hielo mediante tu acción. Las criaturas voluntarias obtienen los mismos efectos que tú al estar en el bloque de hielo mientras que las criaturasno voluntarias u hostiles deben realizar una tirada de salvación de MNA. Si fallan, quedan petrificadas. Las criaturas no voluntarias u hostiles sepultadas en el bloque de hielo  reciben 5 puntos de daño por frío al inicio de sus turnos. Las criaturas pueden repetir esta tirada de salvación al final de sus turnos.
 ___
 Armadura Helada refleja el daño cuerpo a cuerpo mientras estás dentro del bloque de hielo.
 
 
-<img src='https://i.pinimg.com/originals/17/b6/d9/17b6d9a780198adce6818bbce02e5599.png' style='position:absolute; bottom:-0px; right:-100px; width:600px;'/>
+<img src='https://i.pinimg.com/originals/17/b6/d9/17b6d9a780198adce6818bbce02e5599.png' style='position:absolute; bottom:-50px; right:-100px; width:600px;'/>
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
-  style='position:absolute; bottom:390px; right:0px; height:1056px; width:816px;' />
+  style='position:absolute; bottom:320px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>6</div>
+	
+
+<div class='pageNumber'>13</div>
 
 \page
 
@@ -359,9 +699,9 @@ ___
 Obtienes un numero de Puntos de Flujo igual a tu MNA. Estos puntos se usan para habilidades que otorga esta clase. Los Puntos de Flujo se gastan al ser usados y se recuperan tras un descanso.
 
 ### Llovizna
-Al nivel 1 puedes creas un Campo Delimitado de Clima como accion, eligiendo cualquier rango hasta 120 pies. Al elegir el efecto Niebla o Nublado comienza a llover.
+Al nivel 1 puedes creas un Campo Delimitado de Clima como accion bonus, eligiendo cualquier rango hasta 120 pies. Al elegir el efecto Niebla o Nublado comienza a llover.
 ___
-Además, mientras llueva, puedes gastar 1 Punto de Flujo para enviar un fuerte torrente de lluvia sobre un enemigo. Realiza un ataque de hechizo a distancia. Si impactas, infliges 3d8 de daño por frío.
+Además, mientras llueva, como acción puedes gastar 1 Punto de Flujo para enviar un fuerte torrente de lluvia sobre un enemigo. Realiza un ataque de hechizo a distancia. Si impactas, infliges 3d8 de daño por frío.
 
 ### Seguir la corriente
 Al nivel 2 obtienes velocidad de nado de 30 pies y puedes caminar sobre el agua a voluntad sin hundirte. Ademas, si esta lloviendo, obtienes +10 pies de movimiento adicionales y un bonificador a tu CA de +1.
@@ -385,7 +725,7 @@ Cuando eres atacado por una criatura a 30 pies de ti que puedes ver, puedes usar
 ### Mareas menguantes
 Al nivel 4, después de golpear con éxito a un objetivo usando un hechizo, habilidad o efecto, puedes gastar 1 punto de flujo para invocar una ola de agua que rebota en tu objetivo y otro a 15 pies de distancia o menos.
 ___
-El objetivo original recibe 2d6 puntos de daño por frío y el hechizo o efecto se replica en el nuevo objetivo. En caso de elegir un aliado, el objetivo original no recibe daño.
+El objetivo original recibe 2d6 puntos de daño por frío y el hechizo o efecto se replica en el nuevo objetivo. En caso de elegir un aliado, el objetivo original no recibe daño. Esta habilidad no puede afectar al mismo objetivo dos veces el mismo turno.
 
 ### Alma tormentosa
 Al nivel 5 puedes gastar 1 flujo durante un clima lluvioso para hacer que un torrente comience a llover y durante 1 minuto tienes puntos de flujo ilimitados.
@@ -397,15 +737,16 @@ Durante este minuto ocurre lo siguiente:
 * Todas las criaturas ganan resistencia al daño por fuego.
 * Cuando usas la habilidad Llovizna, ahora realizas dos ataques de hechizos a distancia y obtienes un bonificador a la tirada de ataque igual a tu MNA.
 
-<img src='https://s1.zerochan.net/Foreigner.%28Katsushika.Hokusai%29.600.2292678.jpg' style='position:absolute; bottom:-40px; right:-0px; width:420px;'/>
+<img src='https://s1.zerochan.net/Foreigner.%28Katsushika.Hokusai%29.600.2292678.jpg' style='position:absolute; bottom:-80px; right:-0px; width:420px;'/>
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
-  style='position:absolute; bottom:200px; right:0px; height:1056px; width:816px;' />
+  style='position:absolute; bottom:180px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>7</div>
+
+<div class='pageNumber'>14</div>
 
 \page
 
@@ -413,7 +754,8 @@ Durante este minuto ocurre lo siguiente:
 La Agencia de Entierros es una seccion conformada por inquisidores especiales reunidos por la Iglesia que se especializa en la erradicación de enemigos monstruosos.
 ___
 El director maneja siete agentes primarios que gozan de total libertad en su accionar gracias al permiso de un arzobispo.
-
+___
+**Especial:** *Esta clase puede usar todos los Código Místicos que tengan como requisito de clase  Ejecutor de la Iglesia.*
 ### Lanzador de hechizos
 Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
 
@@ -445,7 +787,7 @@ daño si tienen éxito.
 Puedes gastar 1 punto de juicio para realizar la acción de Esquivar, Huir o Correr como acción bonus.
 
 #### Mago de batalla
-Puedes gastar 1 punto de juicio como acción bonus para realizar un ataque con arma después de haber lanzado un hechizo de tipo Sacramento.
+Después de haber realizado un ataque, puedes gastar 1 punto de juicio y una ranura de hechizo (si no es un Truco) como acción bonus para lanzar un hechizo de tipo Sacramento.
 
 <div style='margin-top:140px'></div>
 
@@ -457,7 +799,7 @@ ___
 Cuando realizas la acción de Atacar durante tu turno con un golpe desarmado o una Llave Negra, puedes realizar un golpe desarmado como acción bonus.
 
 ### Marca de la muerte
-Al nivel 4 la primera vez que ves una criatura monstruosa (Demonio, Vampiro, Constructo, No-muerto) aprendes sus debilidades, tipo de magia y estadísticas, si las tiene.
+Al nivel 4 la primera vez que ves una criatura monstruosa (Demonio,Vampiro,Constructo,Espiritu,No-muerto) aprendes sus debilidades, tipo de magia y estadísticas, si las tiene.
 ___
 Lanzas Marca del Cazador sobre estas criaturas de manera automatica y el daño del hechizo pasa a ser radiante.
 
@@ -482,7 +824,8 @@ Si el efecto requiere una tirada de salvación, la CD es igual a 12 + tu MNA. Pu
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:60px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>8</div>
+
+<div class='pageNumber'>15</div>
 
 \page
 
@@ -507,20 +850,18 @@ Las ganancias de puntos de enjambre aumentan cuando los cadáveres utilizados so
 Al nivel 1, cuando lanzas un hechizo, puedes gastar un punto de enjambre y 5 puntos de vida para aumentar el daño infligido en 1d8.
 
 ### Cascaron de gusano cuchilla
-Al nivel 2 aprendes un hechizo, exclusivo para entomancers.
-Puedes lanzarlo a voluntad usando una ranura de hechizo o gastando 1 punto de enjambre.
-
+Al nivel 2 aprendes un hechizo, exclusivo para entomancers. No gasta ningun material ni spell slot para lanzarse.
 #### Enjambre de langostas
 *Nigromancia*
 ___
-**Tiempo de lanzamiento:** 1 acción	
+**Tiempo de lanzamiento:** 1 acción bonus	
 **Alcance:** 30 pies	
 **Componentes:** V, S	
-**Duración:** Instantáneo, Concentración
+**Duración:** Instantáneo, 
 ___
-Invocas un enjambre de langostas en un cubo de 10x10 pies dentro del alcance. Las criaturas en el area o si una criatura termina su turno dentro del area deben realizar una tirada de salvación de RES. Si fallan, reciben 2d6 de daño necrótico, o la mitad del daño si tienen exito.
+Si lanzas un hechizo con tu accion, puedes usar esto como accion bonus Invocas un enjambre de langostas en un cubo de 10x10 pies dentro del alcance. Las criaturas en el area o si una criatura termina su turno dentro del area deben realizar una tirada de salvación de RES. Si fallan, reciben 2d6 de daño necrótico, o la mitad del daño si tienen exito.
 ___
-Puedes mover todo el enjambre hasta 10 pies en cualquier dirección mediante tu acción bonus. Si entra en contacto con una nueva criatura después de ser movida, esta debe realizar la tirada de salvación.
+<div style='margin-top:140px'></div>
 
 ### Explosión de cadáver
 Al nivel 3, cuando una criatura que puedas ver muere, puedes usar 1 punto de enjambre para hacer que el cadáver explote en una nube de veneno. Las criaturas en un radio de 10 pies del cadáver reciben 2d6 de daño por veneno.
@@ -557,9 +898,11 @@ Si fallan, quedan envenenados. Los objetivos pueden repetir esta tirada de salva
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:45px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>9</div>
+
+<div class='pageNumber'>16</div>
 	
 \page
+
 
 ## Marionetero
 Estos magos dedican su vida creando figuras humanoides compensar su falta de destreza en el combate o incluso para mejorarla hasta cierto punto.
@@ -574,26 +917,20 @@ Obtienes competencia en todos los trucos, aumentando su dado de daño en un nive
 ___
 Obtienes esto incluso si solo tienes un nivel en esta clase.
 
-### Hilos arcanas
+### Hilos arcanos
 Tus hilos son extensiones de tu alma entretejidas en hebras de pura energía mágica. Sirven no solo como una atadura a las marionetas que construyes, sino como tu único medio para utilizar tus habilidades.
 ___
 Al nivel 1 obtienes 1 marioneta basica, pudiendo determinar su apariencia y material de construccion; Esta elección no afecta sus estadísticas.
 ___
-Tu marioneta se usa como una extensión de tu personaje. Como acción bonus la activas durante 1 hora, hasta que la descartes como acción bonus o hasta que estes incapacitado. Mientras está activa puedes usar tu accion, accion bonus o reaccion para activar las habilidades de la marioneta.
-___
-Tu marioneta no puede ser curada para recuperar puntos de vida perdidos, sino que recupera sus puntos de vida después de estar desactivada durante 1 hora. Cuando los puntos de vida de tu marioneta se reducen a 0, esta deja de funcionar durante 1 hora, después de lo cual puede ser reactivada.
-___
-Además, puedes usar tus hilos arcanos como si usaras constantemente el truco Mano de Mago con un alcance	
-de 30 pies, pudiendo intentar agarrar objetivos dentro	
-del alcance mediante tus cuerdas, usando las mismas	
-reglas como si estuvieras agarrando normalmente.
+Tu marioneta se usa como una extensión de tu personaje. Como acción bonus la activas durante 1 hora, hasta que la descartes como acción bonus o hasta que estes incapacitado. Mientras está activa puedes usar tu acción, acción bonus o reacción para activar las habilidades de la marioneta. No puede ser curada para recuperar puntos de vida perdidos, sino que recupera sus puntos de vida después de estar desactivada durante 1 hora. Cuando los puntos de vida de tu marioneta se reducen a 0, esta deja de funcionar durante 1 hora, después de lo cual puede ser reactivada.
+
+### Truco especial
+Puedes usar tus hilos arcanos para lanzar el truco Mano de Mago con un alcance de 30 pies, pudiendo intentar agarrar objetivos dentro	 del alcance mediante tus cuerdas, usando las mismas reglas como si estuvieras agarrando normalmente.
 
 ### Tamiz de hechizos
 Al nivel 2 tus marionetas adquieren la capacidad de lanzar hechizos hasta cierto punto.
 ___
-Al final de tus descansos solo puedes elegir dos hechizos en todo el juego y otorgarle a tu títere la capacidad de lanzarlos una vez cada uno a través de pergaminos de tamiz de hechizos que implantas dentro de ellos.
-
-<div style='margin-top:140px'></div>
+Al final de tus descansos solo puedes elegir dos hechizos en todo el juego y otorgarle a tu títere la capacidad de lanzarlos una vez cada uno a través de pergaminos de tamiz de hechizos que implantas dentro de ellos. Si este ya tiene otros hechizos los remplaza por los nuevos.
 
 ### Espejo de transposición
 Al nivel 2, cuando un efecto que puedes ver te obliga a ti o a un aliado a 60 pies de ti a realizar una tirada de salvación, y no a tu marioneta, puedes usar tu reacción para cambiar de lugares y que la marioneta realice la tirada de salvación.
@@ -611,7 +948,7 @@ ___
 >*Constructo Mediano*
 > ___
 > - **Armadura:** 15
-> - **Vida:** 30 + (Tu RES + tu nivel de Marionetero x 2)
+> - **Vida:** 30 + (Tu MNA + tu nivel de Marionetero x 2)
 > - **Velocidad:** 30 pies
 >___
 >|FUE|AGI|RES|MNA|SUE|
@@ -631,8 +968,7 @@ ___
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:30px; right:0px; height:1056px; width:816px;' />
-
-<div class='pageNumber'>10</div>
+<div class='pageNumber'>17</div>
 
 \page
 
@@ -696,7 +1032,8 @@ Elige cualquier habilidad de Ojos Misticos. Tú y tu marioneta ahora la poseen.
 ___
 Además, tu marioneta obtiene la capacidad de recolectar los ojos místicos de criaturas que hayan muerto en las ultimas 24 horas, obteniendo acceso permanente a ellos además de sus propios ojos místicos, sin límite máximo.
 
-<div class='pageNumber'>11</div>
+
+<div class='pageNumber'>18</div>
 
 \page
 
@@ -746,7 +1083,7 @@ Puedes atacar dos veces en lugar de una cuando usas tu acción para Atacar duran
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:350px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>12</div>
+<div class='pageNumber'>19</div>
 	
 \page
 
@@ -806,7 +1143,7 @@ Tus hilos pueden agarrar objetivos en un rango de 60 pies. Los objetivos agarrad
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:160px; right:0px; height:1056px; width:816px;' />
 
-<div class='pageNumber'>13</div>
+<div class='pageNumber'>20</div>
 
 \page
 
@@ -875,7 +1212,7 @@ Cuando realizas un ataque cuerpo a cuerpo, puedes gastar cualquier número de pu
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:270px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>14</div>
+<div class='pageNumber'>21</div>
 
 \page
 
@@ -890,7 +1227,7 @@ Armas simples y complejas.
 ### Potencial latente
 Al nivel 1 tu potencial te posiciona sobre tus compañeros y oponentes por igual.
 ___
-Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica mientras que esta no sea SUE o MNA.
+Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica. (No puede superar el limite de 5)
 
 ### Maestro de armas
 Al nivel 1 comienzas con cualquier arma mientras que seas competente con ella.
@@ -924,7 +1261,7 @@ Cuando recibes daño, puedes usar tu reacción para realizar un ataque con arma 
 ### Acción súbita
 Al nivel 5 puedes reunir la fuerza necesaria para entrar en acción en situaciones de vida o muerte.
 ___
-Una vez por descanso, puedes usar tu reacción para recargar inmediatamente tu movimiento y realizar otra vez una acción o una acción bonus.
+Una vez por descanso, puedes usar tu reacción para recargar inmediatamente tu movimiento y realizar otra vez una acción o una acción bonus. Si realizas la acción de Ataque con esa acción adicional se limita a un ataque. Esta habilidad te permite tomar tu turno inmediatamente en cualquier momento cuando es usada.
 
 ### Disparo de adrenalina
 Al nivel 5, puedes soltar los limitadores de tu cuerpo una vez por descanso para entrar en trance de batalla.
@@ -942,15 +1279,15 @@ Al inicio de cada turno que te encuentres bajo los efectos de Disparo de Adrenal
 ___
 Una vez que finaliza el disparo de adrenalina quedas ralentizado hasta que realices un descanso.
 
-<img src='https://cdn.donmai.us/original/7d/d9/7dd9c9f0a192db5393ffe05455b3c362.png' style='position:absolute; bottom:-80px; right:-0px; width:400px;'/>
+<img src='https://cdn.donmai.us/original/7d/d9/7dd9c9f0a192db5393ffe05455b3c362.png' style='position:absolute; bottom:-80px; right:0px; width:330px;'/>
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
-  style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+  style='position:absolute; top:0px; right:85px; height:1206px; width:1056px; transform:rotate(-90deg)' />
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
-  style='position:absolute; bottom:135px; right:0px; height:1056px; width:800px;' />
+  style='position:absolute; bottom:135px; right:0px; height:850px; width:800px;' />
 
-<div class='pageNumber'>15</div>
+<div class='pageNumber'>22</div>
 
 \page
 
@@ -980,7 +1317,7 @@ ___
 No requiere de sintonización para su uso y existe como	
 un recipiente de alquimia especial utilizado para fabricar munición avanzada. Puedes poner cualquier munición que poseas dentro de él, otorgándole un efecto especial.
 ___
-Como accion puedes transformar una bala, flecha o virote en cualquier tipo de municion existente u otorgarles un tipo de daño elemental. La municion elemental inflige 1d4 de daño adicional del tipo elegido.
+Como accion puedes transformar una bala, flecha o virote y otorgarles un tipo de daño elemental. La municion elemental inflige 1d6 de daño adicional del tipo elegido.
 ___
 Puedes usar la Caja de Munición Mágica un numero de veces igual al doble de tu nivel de Tirador por descanso
 
@@ -989,8 +1326,7 @@ Al nivel 3 obtienes un traje especial que te otorga
 beneficios de sigilo para emboscar a tu enemigo.
 ___
 Mientras tengas equipado el traje obtienes un bonificador de +2 a tu CD de exploracion y puedes realizar la accion de Esconderte como accion bonus.
-___
-Ademas, cuando realizas un ataque mientras te encuentres escondido obtienes ventaja en tu ataque incluso si tu objetivo es inmune a ser sorprendido.
+
 
 ### Maestro de armas a distancia
 Al nivel 3 obtienes un bonificador de +2 a las tiradas de ataque que realices con un arma a distancia o arrojadiza.
@@ -1019,7 +1355,7 @@ Ademas, el daño adicional de Ataque Furtivo aumenta a 2d6.
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:250px; right:0px; height:1056px; width:816px;' />
 	
-<div class='pageNumber'>16</div>
+<div class='pageNumber'>23</div>
 
 \page
 
@@ -1082,12 +1418,12 @@ ___
 ### Histeria
 Al nivel 5, te conviertes en la encarnación de la noche.
 ___
-Cuando una criatura inicia su turno o termina su turno sumido en oscuridad o penumbra dentro de un rango de 60 pies de ti, debe hacer una tirada de salvación de MNA contra tu Spell DC vs quedar cegada hasta que salga de la oscuridad, debiendo repetir la tirada al final de sus turnos en caso de fallarla.
+Cuando una criatura enemiga inicia su turno o termina su turno sumido en oscuridad o penumbra dentro de un rango de 60 pies de ti, debe hacer una tirada de salvación de MNA contra tu Spell DC vs quedar cegada hasta que salga de la oscuridad, debiendo repetir la tirada al final de sus turnos en caso de fallarla.
 ___
 Ademas, las criaturas que se encuentren a 60 pies de ti, reciben 3d6 de daño psíquico al inicio de sus turnos por cada uno de los efectos mentales y físicos que estén sufriendo.
 
 
-<img src='https://oir.mobi/uploads/posts/2020-01/1578316571_1-3.png' style='position:absolute; bottom:-500px; right:-150px; width:700px'/>
+<img src='https://i.ibb.co/mzMn2T6/salter-sakura.jpg' style='position:absolute; bottom:-100px; right:-120px; width:600px'/>
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
@@ -1095,7 +1431,7 @@ Ademas, las criaturas que se encuentren a 60 pies de ti, reciben 3d6 de daño ps
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; bottom:25px; right:0px; height:1056px; width:816px;' />
 		
-<div class='pageNumber'>17</div>
+<div class='pageNumber'>24</div>
 
 \page
 
@@ -1103,7 +1439,7 @@ Ademas, las criaturas que se encuentren a 60 pies de ti, reciben 3d6 de daño ps
 Un dote representa un talento o área de especialización que otorga al personaje capacidades especiales. Las dotes son principalmente rasgos físicos, pero hay algunos que afectan las habilidades mágicas del personaje.
 
 #### Agil
-*Costo de entrenamiento: 4 de riqueza o 1 nivel de clase*
+*Costo de entrenamiento: 3 de riqueza o 1 nivel de clase*
 ___
 Tu pensamiento rápido y tu agilidad te permiten moverte y actuar rápidamente. Obtienes los siguientes beneficios:
 
@@ -1113,7 +1449,7 @@ Usar un Objeto como acción bonus.
 * Cuando eres el objetivo de un ataque, puedes gastar tu reacción y obtener un bonificador a tu CA igual a tu SUE. Puedes usar esto un número de veces igual a tu SUE.
 
 #### Arco de fuerza
-*Costo de entrenamiento: 4 de riqueza o 1 nivel de clase*
+*Costo de entrenamiento: 3 de riqueza o 1 nivel de clase*
 ___
 Usas tu arco de una manera brutal, que usa tu fuerza bruta en lugar de la precisión. Obtienes los siguientes beneficios:
 
@@ -1123,20 +1459,20 @@ Usas tu arco de una manera brutal, que usa tu fuerza bruta en lugar de la precis
 * Una vez por turno, puedes aplicar el efecto de un ataque cuerpo a cuerpo a un ataque a distancia.
 
 #### Compañero animal
-*Costo de entrenamiento: 5 de riqueza o 1 nivel de clase*
+*Costo de entrenamiento: 4 de riqueza o 1 nivel de clase*
 ___
-Has hecho bien en comunicarte con un animal mágico que está atado a ti por la eternidad.
-___
-Elige una bestia mediana a tu elección, convirtiéndola en tu compañero jurado. Tu compañero obedece todas las órdenes verbales que le das como accion gratuita lo mejor que puede. Tira su propia iniciativa como cualquier otra criatura, pero tú determinas sus acciones, decisiones, actitudes, etc.
+Has hecho bien en comunicarte con un animal mágico que está atado a ti por la eternidad. Elige una bestia mediana, convirtiéndola en tu compañero jurado. Tu compañero obedece todas las órdenes verbales que le das como accion gratuita lo mejor que puede. En combate comparte iniciativa contigo, pero actúa después de ti. Tú determinas sus acciones, decisiones, actitudes, etc.
 ___
 Si te encuentras incapacitado o ausente, tu compañero actúa por su cuenta. Mientras estás en combate con tu compañero animal, obtienes los siguientes beneficios:
 
-* Cuando realizas la acción de ataque, tu compañero puede usar su reacción para realizar un ataque cuerpo a cuerpo.
+* Una vez por ronda, cuando realizas la acción de ataque, tu compañero puede realizar un ataque cuerpo a cuerpo.
 
 
-* Cuando tu compañero es el objetivo de un ataque, puedes usar tu reacción, si estas a 5 pies de tu compañero, para convertirse en el nuevo objetivo del ataque. Tu compañero puede hacer lo mismo.
+* Cuando eres objetivo de un ataque, tu compañero puede usar su reacción para moverse hasta la mitad de su movimiento sin provocar ataque de oportunidad, ubicarse a 5 pies de ti y ser el nuevo objetivo.
+
+* Si usas un hechizo cuyo alcance sea Uno Mismo, este también afecta al compañero, como si se originara de él. Si requiere concentración, tú la mantienes por ambos como si te concentraras en ti mismo.
 ___
-Si tu compañero animal llega a morir, puedes pasar 8 horas y gastar 1 riqueza para invocar el espíritu de tu compañero y crearle un nuevo cuerpo.
+Si tu compañero animal llega a morir, puedes pasar 8 horas para invocar el espíritu de tu compañero y crearle un nuevo cuerpo o fuera de combate gastar 1 ranura de hechizo y 1 minuto para invocarlo nuevamente.
 
 ___
 > ## Compañero Animal
@@ -1144,7 +1480,7 @@ ___
 > ___
 > - **Armadura:** 14
 > - **Vida:** 50
-> - **Velocidad:** 30 pies
+> - **Velocidad:** 40 pies
 >___
 >|FUE|AGI|RES|MNA|SUE|
 >|:---:|:---:|:---:|:---:|:---:|
@@ -1152,27 +1488,41 @@ ___
 > ___
 > ***Oído y olfato agudos.*** El compañero tiene un bonificador de +5 a las pruebas de exploración.
 > ___
-> ### Actions
-> ***Morder.*** *Ataque cuerpo a cuerpo:* +4 para impactar, alcance 5 pies, un objetivo. Impacto: 1d6+4 de daño perforante. Si el objetivo del ataque es una criatura, debe realizar una tirada de salvación de FUE CD13. Si falla, queda Tumbada.
+> ### Acciones
+>**Multiataque**
+> El Compañero Animal puede hacer 2 ataques, uno de Morder y otro de Garra.
 >
-> ***Garra.*** *Ataque cuerpo a cuerpo:* +4 para impactar, alcance 5 pies, un objetivo. Impacto: 1d10+4 de daño cortante.
+> ***Morder.*** *Ataque cuerpo a cuerpo:* +6 para impactar, alcance 5 pies, un objetivo. Impacto: 1d6+4 de daño perforante. Si el objetivo del ataque es una criatura, debe realizar una tirada de salvación de FUE CD15. Si falla, queda Tumbada.
 >
-> ***Asistencia.*** Tu compañero gasta su acción para Ayudar, otorgándote ventaja en tus ataques hasta el final de tu siguiente turno.
+> ***Garra.*** *Ataque cuerpo a cuerpo:* +6 para impactar, alcance 5 pies, un objetivo. Impacto: 1d10+4 de daño cortante.
+>
+> ***Asistencia.*** Tu compañero gastar su acción bonus para realizar la acción de Ayuda.
 
-#### Maestro en armaduras
-*Costo de entrenamiento: 4 de riqueza o 1 nivel de clase*
+
+<img src='https://i.ibb.co/61K6WWG/cu-perro.png' style='position:absolute; bottom:-80px; right:-0px; width:400px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:80px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:135px; right:0px; height:1300px; width:800px;' />
+  
+<div class='pageNumber'>25</div>
+\page
+#### Maestro en Armaduras
+*Costo de entrenamiento: 3 de riqueza o 1 nivel de clase*
 ___
-Entrenas hasta dominar el uso de armaduras, obteniendo los siguientes beneficios:
+Al obtener esta dote, también recibes una armadura no mágica del Manual del Jugador a tu elección. Además, mientras lleves equipada una armadura, disfrutas de los siguientes beneficios dependiendo del tipo de armadura equipada:
 
-* Mientras tengas equipada Armadura Ligera, tu CA base se convierte en 12.
-
-* Mientras tengas equipada Armadura Media, no tienes un penalizador en las pruebas de habilidad ni en las tiradas de salvación de AGI.
-
-* Mientras tengas equipada Armadura Pesada, reduces todo el daño físico que recibes en 2.
+* **Armadura Ligera:** Mientras tengas equipada una armadura ligera, tu CA base se convierte en 12.
+* **Armadura Media:** Mientras lleves armadura media, no sufres penalización en las pruebas de habilidad ni en las tiradas de salvación de Destreza. Además, puedes agregar hasta 3 puntos a tu CA, en lugar de 2, si tu Destreza es lo suficientemente alta.
+* **Armadura Pesada:** Mientras lleves armadura pesada, reduces todo el daño recibido en 5 puntos (excepto si provienen de condiciones o Noble Phantasm). Además, no puedes ser Derribado o Empujado contra tu voluntad mientras estés consciente y tienes ventaja en las tiradas de salvación de Fuerza.
 * Puedes equiparte y quitarte la armadura como una acción.
 
+<div style='margin-top:1000px'></div>
+
 #### Resistente
-*Costo de entrenamiento: 5 de riqueza o 1 nivel de clase*
+*Costo de entrenamiento: 4 de riqueza o 1 nivel de clase*
 ___
 Tus innumerables batallas te han hecho muy resistente al arte del combate. Obtienes los siguientes beneficios:
 
@@ -1180,8 +1530,12 @@ Tus innumerables batallas te han hecho muy resistente al arte del combate. Obtie
 
 * Mientras estes Ensangrentado, elige un tipo de daño elemental y entre Cortante, Contundente o Perforante. Obtienes resistencia a esos tipos de daño hasta que ya no estás ensangrentado.
 
-<div class='pageNumber'>18</div>
-
+<img src='https://c4.wallpaperflare.com/wallpaper/281/80/836/anime-crossover-bedivere-fate-grand-order-berserker-fate-zero-wallpaper-preview.jpg' style='position:absolute; bottom:0px; right:-45px; top: 550px;width:1000px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-260px;right:0px; height:1100px; width:1156px' />
+  
+<div class='pageNumber'>26</div>
 \page
 
 ## Códigos místicos
@@ -1206,18 +1560,18 @@ ___
 Utilizar esta venda te otorga de manera permanente el estado de cegado, aun asi puedes realizar ataques con normalidad. Obtienes visión ciega en un rango de 60 pies y obtienes un bonificador a tu CA de +3 contra ataques a distancia.
 
 #### Antiguo colgante de corazon
-*Código Místico, 5 de riqueza*
+*Código Místico, 4 de riqueza*
 ___
 Una reliquia creada a través de la infusión de magia y gemas milenarias. Se desconoce el verdadero poder del colgante, pues su verdadero potencial nunca se ha desbloqueado.
 ___
-La primera vez que mueres, la magia del colgante se libera y hace que la gema se rompa. Tu cuerpo entra en un capullo mágico indestructible y eres revivido 8 horas después.
+La primera vez que mueres, la magia del colgante se libera y hace que la gema se rompa. Tu cuerpo entra en un capullo mágico indestructible y eres revivido 8 horas después con los efectos de un descanso y te curas de todos los efectos negativos.
 ___
 También puedes otorgar esto a una criatura muerta, dándole el mismo efecto. Este efecto purifica completamente a una criatura, cambiando su tipo de criatura de vampiro, demonio, constructo o bestia a humano. Las habilidades obtenidas por ser de estos tipos de criaturas se sellan permanentemente si la criatura es revivida de esta forma.
 
 <div style='margin-top:200px'></div>
 
 #### Artista del escape
-*Código Místico, 4 de riqueza, Requisito: Tu clase principal debe ser Astrapimante*
+*Código Místico, 3 de riqueza, Requisito: Tu clase principal debe ser Astrapimante*
 ___
 Brazales con diseño de máquina que contienen varios artilugios y viales de metal. Requiere electricidad para funcionar, a pesar de no tener forma de ser alimentado.
 ___
@@ -1250,6 +1604,18 @@ Como accion de fase sintonisas el astrolabio con una criatura que hayas visto an
 <div class='pageNumber'>19</div>
 
 \page
+#### Bastón del morelo
+*Código Místico, 5 de riqueza, Requisito: Conocer al menos un hechizo curativo*
+___
+Un bastón antiguo con un pergamino de papel flotando en la parte superior. Como acción gratuita en tu turno, puedes activar la magia sobrenatural contenida en el pergamino, desenrollándolo para desatar su verdadero poder. Mientras está activado, los hechizos de sanación que lances, en lugar de curar, infligen daño necrótico al objetivo igual a la cantidad de puntos de vida que habrían sido restaurados. Además, el daño infligido por este bastón maldice al objetivo, reduciendo a la mitad toda la sanación que reciba hasta su próximo descanso.
+
+#### Bordes destrozados
+*Código Místico, 3 de riqueza*
+___
+Un par de katanas dobles, melladas y desgastadas por batallas interminables. Las katanas tienen las estadísticas de una espada larga con la propiedad de Sutil. Mientras empuñes estas espadas, obtienes la Dote de **Combatiente con dos armas**.
+
+* Mientras las criaturas no estén Ensangrentadas, obtienes +2 a las tiradas de daño.
+* Mientras las criaturas estén Ensangrentadas, obtienes +2 a las tiradas de ataque.
 
 #### Brazal con atadura
 *Código Místico, 4 de riqueza*
@@ -1258,7 +1624,43 @@ Un brazalete de metal con joyas y grabados costosos.
 ___
 Cualquier arma que estés sosteniendo gana una correa invisible de 30 pies unida al brazalete. El arma que tengas tiene una distancia de lanzamiento de 30 pies y regresa a tus manos al final de tu turno.
 ___
-La atadura también se usa para atraer criaturas hacia ti. Como acción puedes lanzar la correa invisible a una criatura a 30 pies de ti, obligándola a realizar una tirada de salvación de FUE CD 15. Si falla, la criatura es arrastrada a un espacio entre ustedes a tu eleccion.
+La atadura también se usa para atraer criaturas hacia ti. Cuando realizas tu Acción de ataque, puedes reemplazar uno de tus ataques para lanzar la correa invisible a una criatura a 30 pies de ti, obligándola a realizar una tirada de salvación de FUE CD 15. Si falla, la criatura es arrastrada a un espacio entre ustedes a tu eleccion.
+___
+Alternativamente, puedes reemplazar uno de tus ataques para realizar un golpe giratorio con el arma, haciéndola balancear y golpear todo lo que toca. Todas las criaturas alrededor de 30 pies de ti deben hacer una tirada de salvación de AGI DC 12 + tu FUE o tu DES (a elección), o recibir el daño de tu arma junto a todos los bonificadores de daño que esta tenga, pero no aplica propiedades especiales, si las tiene (como aplicar la reducción de vida de una daga de Hidra o el daño especial de las Llaves Negras).
+
+<div style='margin-top:340px'></div>
+
+#### Brújula de Rastreo de Maná
+*Código Místico, 2 de riqueza*
+___
+Una brújula que sirve como referencia para el usuario que la porta para identificar si se encuentran seres mágicos o hechizos en el distrito en el que se encuentra. Este Código Místico no requiere sintonía.
+___
+Todo jugador que explore un área poseyendo ese objeto, obtendrá un bonificador a la exploración igual a su modificador de MNA (hasta un máximo de 5). En el caso de hallarse más de un ser con circuitos mágicos superiores a 1 en dicha zona, la brújula girará rápidamente cada tanto, pero apuntará fijamente al usuario que posea mayor maná (en caso de pasar el Hide DC de dicha criatura).
+
+#### Catalizador flexible
+*Coste: 3 de riqueza, Requisito: Trasfondo de Erudito.*
+___
+
+Tu entrenamiento ha perfeccionado un arma que canaliza las habilidades mágicas de tu pseudo-servant, facilitando el acceso a sus habilidades natas y apoyando las tuyas propias. Si tu servant tiene un arma, armadura o escudo, el Catalizador toma una forma similar a una de estas.
+
+- Puedes tener hasta dos especialidades diferentes con el rasgo de **Especialista**.
+- Si tu sirviente tiene un arma, armadura o escudo, el Catalizador se transforma para asemejarse a uno de estos objetos, adquiriendo las mismas bonificaciones y habilidades adicionales del objeto, si las tiene y el sirviente lo permite. Tiene el mismo tipo y dado de daño de ser un arma y los mismos bonificadores al AC de ser una armadura o escudo.
+- Si el sirviente no permite el uso de su arma, puedes usar una acción bonus para transformarlo en cualquier arma del manual (excepto Llaves Negras y otros códigos místicos). Esta arma tiene +1 a las tiradas de ataque y daño, y genera munición normal automáticamente si la necesita, desapareciendo una vez cambia de forma nuevamente. No puede convertirse en armas descartables (como granadas). También puede ser una armadura de cualquier tipo o un escudo, con un bono de +1 al AC.
+___
+Las armas creadas utilizando el Catalizador, sean o no originarias del Servant, utilizan tu FUE, DES o MNA a tu elección para sus tiradas de ataque y daño. Si se creó una armadura, ignora sus requisitos de FUE, en caso de tenerla, e ignora penalizaciones al usarla.
+
+<img src='https://i.ibb.co/VMvgb9S/IMG-20211226-121719.png' style='position:absolute; bottom:-80px; right:-10px; width:440px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:140px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:-40px; right:0px; height:1200px; width:800px;' />
+
+
+<div class='pageNumber'>20</div>
+
+\page
 
 #### Cresta de inmortalidad
 *Código Místico, 4 de riqueza, Requisito: Tu clase principal debe ser Entomante*
@@ -1271,6 +1673,21 @@ Mientras te encuentras en la Puerta de la Muerte puedes actuar con normalidad mi
 ___
 Cada vez que un Entomante sale de la Puerta de la Muerte, gana 1d4 puntos de enjambre.
 
+
+#### Cruz Santa Bendita
+*Códdigo Místico, 2 de riqueza. Requisitos: No ser un demonio, vampiro o no muerto.*
+___
+Una cruz de plata que ha sido bañada en las aguas benditas de un miembro de La Iglesia para compartir así la buena fe y voluntad de Dios. Los poderes imbuidos en esta cruz se podrán usar siempre y cuando su usuario la esté llevando en algún lugar que sea visible a los ojos de todos, ya que Dios no apoyará a quienes constantemente rehúyan o nieguen de él.
+___
+Una vez por descanso, el usuario de esta Cruz puede utilizar un hechizo de tipo sacramental a elección sin gastar ranura de hechizo y se le considera competente, aún y cuando no sea un lanzador de hechizos. Sin embargo, de utilizar nuevamente la reliquia sin haber descansado, se consumirán 3 ranuras de hechizo para lanzar un hechizo sacramental utilizando esta Cruz.
+___
+Demonios, vampiros y no muertos no pueden portar ni utilizar esta reliquia. En caso de que dichas criaturas toquen la reliquia, deberán pasar una tirada de salvación de END DC17 o recibir 1 punto de daño radiante que les obligará a soltarla.
+___
+Además, el usuario de esta reliquia puede optar por usar su reacción dando un grito de Fe, incitando a la reliquia a romperse y bañar todo un área de 20 pies alrededor de él con una luz radiante enceguecedora. Todas las criaturas que se encuentren en dicha área, deberán hacer una tirada de salvación de AGI DC17 vs quedar enceguecidos hasta el final de su próximo turno.
+
+<div style='margin-top:340px'></div>
+
+
 #### Daga de hidra
 *Código Místico, 3 de riqueza*
 ___
@@ -1279,8 +1696,21 @@ ___
 La daga inflige 1d4 de daño por ácido adicional si impacta.	
 El daño infligido por esta arma reduce permanentemente los puntos de vida máximos de una criatura hasta el momento en que la daga sea destruida.
 
-<div style='margin-top:200px'></div>
 
+#### Driver On
+*Código Místico, 5 de riqueza*
+___
+Una armadura mediana de cuerpo completo compuesta principalmente por maná, la armadura no tiene requisitos de fuerza para poder usarse y el usuario no sufre penalizaciones. La fuente de este mana es un cinturón llamado Driver. El usuario puede manifestar o desvanecer la armadura durante su turno como acción gratuita, otorgándole los siguientes beneficios al estar manifestada:
+___
+Al llevar la armadura agrega la mitad de tu estadística de MNA (redondeado hacia abajo) a la CA, tus golpes desarmados infligen 1d4 de daño contundente, puediendo usar tu FUE o DES a elección para las tiradas de ataque y daño. Si tus golpes desarmados ya infligen daño igual o superior, entonces su dado de daño aumenta una categoría. También, tus golpes desarmados infligen daño adicional igual a tu MNA.
+___
+Cuando el Driver es usado por primera vez, le permite al usuario guardar cualquier hechizo del manual en la armadura, independiente de los hechizos que tenga normalmente. Lanzar este hechizo no cuesta una Ranura de Hechizo, pero sólo puede ser lanzado 4 veces, recuperando sus usos tras un descanso. Si se realiza la Acción de ataque, se puede reemplazar uno de estos ataques con el hechizo almacenado, siempre y cuando su tiempo de lanzamiento sea de 1 acción.
+
+
+
+
+<div class='pageNumber'>21</div>
+\page
 #### D-50
 *Código Místico, 5 de riqueza*
 ___
@@ -1302,6 +1732,48 @@ ___
 ___
 Como parte de tu ataque con arma, puedes reemplazar tus balas con gandr avanzado. Realiza un ataque con arma a distancia contra una criatura que puedas ver. Si impacta, el objetivo recibe 3 + tu MNA de daño por fuerza y debe lanzar un d4, restando el resultado obtenido a su próxima tirada de ataque o tirada de salvación.
 
+
+
+#### Espada de la fría noche
+*Código Místico, 4 de riqueza*
+___
+Una espada corta maldita por un nigromante que canalizó toda su energía oscura en el filo de esta arma. Aquél que la porta se vuelve resistente al daño frío y necrótico. Esta espada tiene +1 a sus tiradas de ataque y daño, también, debido a sus propiedades sombrías, el daño que inflige es de tipo necrótico, pero los hechizos o habilidades que mejoran el equipamiento no tienen efecto en esta arma.
+___
+Una vez por descanso puedes crear un Campo Delimitado de Oscuridad como acción, eligiendo cualquier rango hasta los 120 pies. Puedes ver a través de esta oscuridad mágica con normalidad.
+___
+Además, siempre que te encuentres bajo una sombra densa o en completa oscuridad, sientes como la energía que se encuentra sellada en el arma empieza a canalizarse en su interior. Siempre que estés bajo una sombra densa o en completa oscuridad, el dado de daño del arma se incrementa a 2d6, tu alcance se incrementa a 10 pies y si usaste tu acción de ataque este turno, puedes usar tu acción bonus para liberar una descarga de energía necrótica a un objetivo dentro de un área de 30 pies. El objetivo debe hacer una tirada de salvación de AGI DC 15 o recibir 2d8 de daño necrótico y quedar asustado hasta el inicio de tu próximo turno.
+
+<div style='margin-top:340px'></div>
+
+#### Espada del sol radiante
+*Código Místico, 4 de riqueza*
+___
+Una espada corta bendecida por un monje que canalizó toda su energía sagrada en el filo de esta arma. Aquél que la porta se vuelve resistente al daño de fuego y radiante. Esta espada tiene +1 a sus tiradas de ataque y daño, tmbién, debido a sus propiedades sagradas el daño que inflige es de tipo radiante, pero los hechizos o habilidades que mejoran el equipamiento no tienen efecto en esta arma.
+___
+Una vez por descanso puedes puedes creas un Campo Delimitado de Clima (Soleado) como acción, eligiendo cualquier rango hasta los 120 pies. Este Campo no solo potencia los daños de fuego, sino que también los daños de tipo radiante, incluyendo los de esta arma.
+___
+Además, siempre que te encuentres bajo una luz brillante, sientes como la energía que se encuentra sellada en el arma empieza a canalizarse en su interior. Siempre que estés bajo una fuente de luz fuerte, el dado de daño del arma se incrementa a 2d6, tu alcance se incrementa a 10 pies y si usaste tu acción de ataque este turno, puedes usar tu acción bonus para liberar una descarga de energía radiante a un objetivo dentro de un área de 30 pies. El objetivo debe hacer una tirada de salvación de AGI DC 15 o recibir 2d8 de daño radiante y quedar cegado hasta el inicio de tu próximo turno.
+
+
+
+#### Espada demoniaca
+*Código Místico, 4 de riqueza*
+___
+Un gran espadón con una hoja hecha de obsidiana oscura. Un aura oscura y maligna rodea la hoja. Una vez que la espada demoníaca ha sido sintonizada, pierdes la competencia en todas las armas (incluidos tus puños) que no sean la Espada demoníaca.
+___
+La primera vez que te encuentras en el estado Ensangrentado, se activa la verdadera naturaleza de la espada demoníaca, lo que te otorga las siguientes características:
+
+* Tu tipo de criatura se convierte en demonio.
+* La espada se agranda e inflige 2d8 de daño en vez de su daño normal. Cuando una criatura recibe daño a través de la Espada demoníaca, las criaturas adyacentes reciben la mitad del daño infligido.
+* Cuando realizas un ataque con arma sobre una criatura, puedes elegir realizar un ataque a distancia con un alcance de 60 pies. Este ataque usa FUE como modificador. Si impactas, infliges 2d6 puntos de daño necrótico. Este ataque aplica efectos sobre la espada demoníaca.
+* La espada demoníaca absorbe toda la vida de las criaturas dentro del alcance de la espada al final de sus turnos. Todas las criaturas reciben 5 puntos de daño necrótico.
+* Debes usar tus turnos para matar a un enemigo lo mejor que puedas.
+
+No sales de este estado demoníaco hasta que un enemigo caiga inconsciente o huya del combate. Una vez que sales de este estado, la espada demoníaca queda inactiva hasta tu próximo descanso.
+
+
+
+\page
 #### Marca de la luz de la luna
 *Código Místico, 5 de riqueza o nivel de clase 1,	
 Requisitos: Tu clase principal debe ser Apóstol muerto*
@@ -1312,12 +1784,21 @@ Con esto, se otorga a los Apóstoles más jóvenes el poderoso dominio que otorg
 
 * Obtienes los efectos que te otorga el Nivel 1 incluso mientras estás bajo la luz del sol.
 
-* Obtienes los efectos de Fuerza de Ogro y Patron de Brujo cuando subes de nivel.
-* Tu nivel no puede exceder el Nivel 3.
+* Cuando llegas al nivel 4 de vampiro obtienes las habilidades de Nivel 2 incluso mientras estás bajo la luz del sol.
 
-<div class='pageNumber'>20</div>
+* Cuando llegas al nivel 5 de vampiro obtienes las habilidades de Nivel 3 incluso mientras estás bajo la luz del sol.
 
-\page
+
+#### Megalomanía
+*Código Místico, 10 de riqueza, Requisito: Trasfondo de Millonario.*
+___
+No eres adepto en la magia, sin importar cuántos profesores tengas hay cosas que no podrás obtener: *el linaje*, *la experiencia* y *el prestigio* de las familias de magos que llevan generaciones en la taumaturgia... ¿o sí? Con cientos de científicos y magos trabajando para ti, estás listo para resolver cualquier problema con una sola orden. Esto es el fruto de todas tus inversiones pasadas.
+___
+El "Código Místico" es un maletín al cual le son transportadas mágicamente inyecciones en su interior, capaces de reestructurar tus circuitos mágicos y tu propio ser, logrando así lo impensable: volverte un mago experimentado con solo unas inyecciones. Obtienes un Rasgo Mágico y un Ojo Místico a elección, los cuales no cuentan para el límite normal que puedes adquirir. Cuando encuentras un mago muerto, puedes llevar su cadáver a tu base, donde un equipo lo triturará y extraerá sus preciados circuitos mágicos. Al final de la siguiente fase, la siguiente inyección llega. Al usarla, aprendes inmediatamente 1 nivel de su clase principal y 1 competencia que tenía a tu elección. Si tenía un Rasgo Mágico o un Ojo Místico, también los adquieres, y estos tampoco cuentan para tu límite normal. Al adquirir un nivel de clase con esta inyección, te vuelves competente con los Códigos Místicos que requieran como clase principal la clase que adquiriste.
+___
+Estas inyecciones están especialmente diseñadas para ti, por lo que nadie más puede usarlas. Si alguien lo intenta, sufre 30 de daño necrótico que no se puede reducir de ninguna manera. Si has sido mejorado por estas inyecciones en 3 ocasiones o más, la modificación genética pasa factura. Aunque tu cuerpo no se vea necesariamente alterado, ahora eres considerado una aberración, y todas las criaturas que te vean sentirán lo corrupto y abominable que se ha vuelto tu cuerpo tras tanta experimentación.
+
+<div style='margin-top:290px'></div>
 
 #### Piedras vivas
 *Código Místico, 4 de riqueza*
@@ -1339,6 +1820,7 @@ El poder destructivo de este codigo mistico rivaliza con el de las Llaves Negras
 ___
 Mientras usas Cerraduras de ceniza obtienes un bonificador de +1 a tu CA. Estas armas infligen daño radiante en lugar de su tipo normal.
 
+
 #### Sagrada escritura de artillería 
 *Código Místico, 5 de riqueza*
 ___
@@ -1348,20 +1830,158 @@ El daño por dispersión de la escopeta inflige daño radiante. Las criaturas da
 Las criaturas malditas reciben 1d6 de daño radiante al inicio de sus turnos. Como acción puedes disparar al aire rayos de luz radiante para bombardear a una sola criatura maldita. Las criaturas malditas reciben 2d10 de daño radiante y luego dejan de estar malditas. Estos bombardeos trascienden la distancia y la cobertura.
 ___
 Los no entrenados pueden usar esta arma, a su propio costo. Criaturas no afiliadas a la iglesia siempre estan malditas al empuñar la Sagrada Escritura de Artillería.
+\page
+#### Símbolo del ídolo
+*Coste: 4 de riqueza, Requisito: Trasfondo del Líder de Culto.*
+___
+Un símbolo que representa el objeto de adoración de tus fieles. Su apariencia y tamaño se definen al iniciar la partida, pero mínimo debe ser de 1 pie de alto (30cm). Si una criatura intentar moverlo, debe primero superar una prueba de habilidad de FUE DC 15, si falla la tirada un aviso telepático proveniente del ídolo durmiente en el Símbolo te avisa de lo ocurrido. Para ti, el Símbolo pesa lo mismo que una pluma.
+___
+Mientras el Símbolo exista, el Culto puede ser reconstruido indefinidamente, pero solo puede haber una base del Culto al mismo tiempo. Si se inicia su construcción con el Símbolo presente, empiezas con el día 1 en la tabla de Beneficios del Culto, obteniéndo sus beneficios inmediatamente (La Riqueza adicional no es aplicable en la construcción de personaje). A medida que avanza la construcción del culto, el Símbolo da beneficios adicionales dependiendo de los días transcurridos, basándose en la Tabla de Beneficios del Culto, siempre y cuando el Símbolo esté en la base del mismo.
 
-<div style='margin-top:140px'></div>
+- **Segundo día:** El Símbolo crea un campo protector para sus fieles. La base del culto está rodeada con un Campo Delimitado de Privacidad y otro de Clima (Niebla) de 120 pies de radio, aun y cuando no se puedan superponer normalmente. Los devotos del Culto y tu ven a través de la Niebla con normalidad, por lo que enemigos no podrán beneficiarse de la ventaja para escapar de la zona. Todos los Campos Delimitados creados por el Símbolo no pueden ser destruidos con Disipar Magia.
+- **Tercer día:** También hay un campo de Tierra Sagrada, pero en vez de expulsar varios tipos de criaturas, solo puedes seleccionar 1 tipo de criatura cualquiera (excepto espíritus) el cual será considerado como hereje. Las criaturas herejes tienen desventaja en todas las salvaciones que provengan de ti o los seguidores del Culto, además tanto tu como tus cultistas tienen los efectos de **Protección energética**, pudiendo cambiar el tipo de energía como acción en cada uno de tus turnos. 
+- **Cuarto día o superior:** El Símbolo ha absorbido suficiente poder, es momento de que el ídolo se alce. Puedes hacer sacrificios y ofrecer las almas al Símbolo como si fuera un Sirviente alimentado por el Consumo de Almas. Al hacerlo tienes la opción de invocar al Idolo que representa tu culto, su apariencia, tamaño y demás detalles que tengan "variable" dependen del DJ, ya que cada ídolo varía según su Culto. El Idolo obedece tus comandos y los Campos Delimitados invocados por el Símbolo, si aún están presentes, se mueven con él. Sin embargo, una vez el Idolo se alza, el Símbolo se hace polvo. El DJ puede agregarle habilidades y/o debilidades adicionales si lo ve conveniente.
+___
+> ## Símbolo del ídolo
+>*Código Místico, Constructo, tamaño variable*
+> ___
+> - **Armadura:** 18
+> - **Vida:** 50
+> - **Velocidad:** 0 pies
+>___
+>|FUE|AGI|RES|MNA|SUE|
+>|:---:|:---:|:---:|:---:|:---:|
+>| 5 | 1 | 1 | 1 | 1 |
+>___
+> - **Resistencia a daño.** contundente, cortante y perforante no magico.
+> - **Inmunidad a daño.** psíquico y veneno.
+> - **Inmunidad a condiciones.** todos las condiciones de estados alterados.
+___
+___
+___
+> ## Idolo
+>*Servant (constructo), tamaño variable, clase variable*
+> ___
+> - **Armadura** 20
+> - **Vida** 200
+> - **Velocidad** Variable
+>___
+>|FUE|AGI|RES|MNA|SUE|
+>|:---:|:---:|:---:|:---:|:---:
+>|5|5|5|5|5
+>___
+> - **Immunidad a condicion** Interferencia mental
+> - **Sentidos** Variable
+> - **Nivel de Poder.** EX
+> ___
+> ***Drenado.*** No sufres drenado de vida una cantidad de fases igual a las fases que le diste sacrificios, pero no obtiene el resto de beneficios del Consumo de Almas.
+>
+> ***Expansión de Dominio.*** Cuando se entra en contacto con Campos Delimitados se realiza una prueba enfrentada de MNA, si tiene éxito el Campo Delimitado enemigo pasa a ser controlado por el Idolo. Si falla, el campo enemigo se destruye. No hay límite para los Campos que pueda controlar de esta forma.
+>
+> ***Resistencia Mágica A.*** El Idolo tiene resistencia a todo daño mágico y obtiene una bonificación de +5 a las tiradas de salvación contra hechizos y efectos similares a hechizos.
+> ### Acciones
+> ***Multiataque.*** *Puede atacar 3 veces con Golpe, puede reemplazar uno de estos con Rugido, si está disponible.*
+>
+> ***Golpe.*** *+11 para golpear, alcance variable, 3d6+8 de daño contundente.*
+>
+> ***Rugido (recarga 5-6).*** *cono de 30 pies, salvación RES DC 16, en un fallo reciben 5d6 de daño de Trueno y son empujados 15 pies, quedando tumbados. Reciben la mitad en una salvación exitosa y no son empujados ni tumbados.*
+>
+> ### Noble Phantasm
+>
+>**Ciclo sin fin.** *Si fuera a morir, puede convertirse en un Símbolo del Ídolo, y comenzar el ciclo nuevamente.*
+
+
+
+\page
+#### Sin sangre
+*Código Místico, 4 de riqueza*
+___
+Una antigua naginata oriental, con pelaje teñido de rojo en la base de la hoja. Cuando realizas un ataque de arma con Sin sangre, la criatura obtiene un efecto de estado especial conocido como Desgarrar. Desgarrar se acumula hasta 5 veces y causa 1 punto de daño al comienzo del turno de la criatura por cada acumulación de Desgarrar. Cuando realizas un ataque de arma contra una criatura con Desgarrar al máximo, el objetivo explota en una lluvia de sangre. La criatura recibe 5d10 puntos de daño de fuerza adicionales, comienza a estar **Sangrado** y se eliminan todas las acumulaciones de Desgarrar.
+
+#### Taller Especializado
+*Código Místico, 2 de riqueza, Requisito: Trasfondo de Estratega.*
+___
+Este kit único, probablemente diseñado por ti mismo, se instala en tu base usando una acción de fase, funcionando de manera similar a la habilidad de Creación de Territorio de un Servant. Si lo compraste durante la creación del personaje, se considera que ya está instalado en tu base, pero no puedes usar sus habilidades de creación hasta que inicia la partida. Puedes gastar un minuto para desinstalar el Taller y convertirlo en un kit portátil; sin embargo, esto desactiva la segunda habilidad descrita a continuación. Este Código Místico no requiere sintonía.
+
+* Gracias a tu amplia gama de herramientas y la eficiencia de tu taller, puedes construir cualquier objeto no mágico del manual gastando la mitad del precio listado (redondeado hacia arriba) y 10 minutos de trabajo.
+
+* Mientras es un taller puedes crear cualquier objeto no mágico siguiendo las mismas reglas anteriormente descritas, pero también puedes optar por crear objetos que no estén en el manual. Ejemplo de creación son: C4, sogas metálicas, ropa de camuflaje, etc. También puedes mejorar objetos no mágicos ya existentes, como trampas con daños aumentados o efectos adicionales implementados en munición normal (como empujar tras ser impactado por una bala). Sin embargo, no puedes crear armas de destrucción masiva capaces de destruir una ciudad o más (Como una bomba de hidrógeno o una bomba atómica). Dependiendo de su complejidad, el DJ determinará su tiempo de construcción o mejora. Por ejemplo: una mina explosiva demoraría 10 minutos, pero un auto 8 horas, mientras que un tanque demoraría 16 horas.
+
+<div style='margin-top:300px'></div>
+
+#### **Tatuaje del Flujo Arcano**
+*Código Místico, 4 de riqueza, Requisito: Trasfondo de Tatuaje Alquimico.*
+___
+Has alcanzado un dominio avanzado del éter y ahora estás preparado para que tu cuerpo soporte el uso de tatuajes más poderosos, complementando aquellos que ya adornan tu piel. Estos tatuajes avanzados permiten que el éter fluya libremente por todo tu ser, desafiando incluso la lógica de los magos más experimentados. Esta inscripción especial te otorga las siguientes habilidades:
+
+* Tus puños infligen 1d6 de daño contundente, tienen un bono de +1 al ataque y daño y son considerados como arma mágica .
+
+* Cuando utilizas **Apoteósis Manántica**, tus ataques infligen 1d8 de daño de fuerza adicional y tus ataques cuerpo a cuerpo tienen un alcance de 15 pies. También, si recuperas una ranura de hechizo con el rasgo de **Apoteosis Manántica**, el objetivo debe hacer una salvación de RES DC 15 o perderá una ranura de hechizo, si no tenía ranuras de hechizo entonces recibe 10 de daño necrótico en su lugar.
+
+* Al final de cada descanso, puedes seleccionar cualquier hechizo del manual y almacenarlo en uno de tus tatuajes, lo aprendes y se te considera competente con ese hechizo. Si ya tenías un hechizo almacenado lo reemplazas con el nuevo. La primera vez que lanzas ese hechizo no gastas ranura de hechizo y no realizas sus componentes somáticos ni verbales para lanzarlo, después puedes lanzarlo normalmente gastando una ranura de hechizo junto a sus respectivos componentes. Si usaste tu Acción de ataque, puede lanzar el hechizo guardado como acción bonus, siempre y cuando su tiempo de lanzamiento original haya sido de 1 acción.
+
+
+
+
+
+
+
+
+\page
+#### Tres Reyes
+*Código Místico, 4 de riqueza, escopeta de doble cañón (munición 3)*
+___
+Esta arma da +1 a las tiradas de ataque y daño.
+___
+**Triple Barril:** Esta arma gasta 3 de munición cuando es disparada.
+___
+**Corona de tres puntas:** Cuando recargas esta arma, eliges uno entre 3 tipos de daño: Fuego, ácido o frio. Cuando Tres Reyes golpéa a una criatura a 5 pies de ti, inflige 3d6 del tipo de daño elegido en vez del 1d8 de daño perforante .
+___
+Una criatura dañada por **Corona de tres puntas** debe hacer una Salvación de MNA DC17, o sufrir uno de los siguientes efectos, dependiendo del daño seleccionado.
+
+* Quemado (Fuego).
+* Envenenado (Ácido).
+* Ralentizado (Frio).
+___
+Estos efectos pueden acumularse entre sí y duran 1 minuto. Una criatura con cualquiera de estos efectos puede repetir su salvación al final de su turno, terminando todos lo efectos en una salvación exitosa.
+___
+**Sinfonía de Maná:** Cuando golpeas a una criatura con esta arma, obtienes HP temporal igual al daño realizado.
+
+<div style='margin-top:600px'></div>
 
 #### Tomo de los dioses antiguos
 *Código Místico, 5 de riqueza*
 ___
 Algunos magos obtienen acceso a poderosa magia arcaica que se remonta a la Era de los Dioses, lo que les permite aprovechar la antigua magia salvaje que los magos modernos no pueden controlar hoy en día. Debido a la fuerza de estas habilidades se deben almacenar en Tomos de Eldritch y solo se pueden usar una cantidad limitada de veces.
 ___
-Una vez por descanso puedes abrir el libro como acción para invocar la magia almacenada en su interior. Creas una cúpula de energia de 500 pies que se origina a tu alrededor y hasta el final de tu siguiente turno ocurre una magia de sellado. TODAS las criaturas que dañen a otra criatura mientras la cupula esta activa reciben 8d8 de daño psíquico. Este daño no puede ser reducido.
+Cuando termines un descanso, puedes abrir el libro. Al abrirlo, tira 1d10. El tomo se llena de hechizos desconocidos para ti, adquiriendo conocimiento de una escuela de magia según el resultado obtenido.
+
+| Resultado | Hechizos |
+|:----:|:----|
+| 1| Abjuración |
+| 2 | Conjuración |
+| 3 | Adivinación |
+| 4 | Encantamiento |
+| 5 | Evocación |
+| 6 | Necromancia |
+| 7 | Transmutación |
+| 8 | Ilusión |
+| 9 | Sacramento |
+| 10 | Tu eliges |
 ___
-Solo puedes invocar el poder de este tomo tres veces. Después de su tercer uso, el tomo se marchita y la magia se pierde para siempre.
+Aprendes todos los hechizos conocidos de esta escuela de magia, siguiendo las mismas reglas para lanzar cada hechizo. Si sale una escuela repetida vuelve a lanzar. Sólo puedes invocar el poder de los hechizos de este tomo tres veces. Después del tercer uso, el tomo se cierra hasta tu próximo descanso.
 
-<div class='pageNumber'>21</div>
 
+
+
+<img src='https://i.ibb.co/LpVQRgy/dgzg9uq-7cb9993d-d3fe-4685-9196-87c2b7860081.jpg' style='position:absolute;left:230px;bottom:-30px;width:700px' />
+
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:300px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:95px; right:0px; height:1300px; width:800px;' />
 \page
 
 ## Ojos Místicos
@@ -1601,7 +2221,7 @@ Si falla, recibe 4d4 de daño psíquico y debe usar su reacción, si está dispo
 *Encantamiento*
 ___
 **Tiempo de lanzamiento:** 1 acción	
-**Alcance:** 60 pies	
+**Alcance:** Uno mismo (Radio de 60 pies)	
 **Componentes:** V	
 **Duración:** Concentración, hasta 1 hora
 ___
@@ -1697,7 +2317,7 @@ ___
 ___
 Te vuelves invisible al mismo tiempo que un doble ilusorio de ti aparece donde estás parado. El doble permanece activa mientras dure el hechizo, pero tu invisibilidad termina si atacas o lanzas un hechizo.
 ___
-Como accion en tu turno puedes mover a tu doble y hacer que hable y se comporte de la forma que elijas. Puede atacar, pero estos ataques no causarán daño al objetivo. Puedes ver y escuchar a través de sus ojos y oídos como si estuvieras ubicado donde está el, quedando ciego y sordo a tu entorno real mientras lo haces.
+Como accion bonus en tu turno puedes mover a tu doble y hacer que hable y se comporte de la forma que elijas. Puede atacar, pero estos ataques no causarán daño al objetivo. Puedes ver y escuchar a través de sus ojos y oídos como si estuvieras ubicado donde está el, quedando ciego y sordo a tu entorno real mientras lo haces.
 ___
 También puedes intercambiar lugares con el Doppelganger como una acción si puedes verlo. El Doppelganger desaparece cuando recibe daño.
 
@@ -1811,21 +2431,6 @@ Para lanzar este hechizo, debes realizar una prueba de habilidad de MNA con una 
 ___
 Si fallas, no sucede nada. Si tienes exito o si gastas una ranura de hechizo adicional recuperas inmediatamente el uso de una habilidad o habilidad que de otro modo tomaría un descanso para recargar.
 
-#### Fuego curativo
-*Sacramento*
-___
-**Tiempo de lanzamiento:** 1 reacción, que tomas cuando ves una fuente de fuego a 60 pies de ti	
-**Alcance:** 60 pies	
-**Componentes:** V, S	
-**Duración:** Instantáneo
-___
-Cuando un hechizo o efecto similar a un hechizo inflige daño de fuego a una o más criaturas, puedes usar tu reacción para transmutar el fuego del hechizo en un estallido curativo.
-___
-Cualquier criatura que fuera a recibir daño de ese hechizo en su lugar no recibe daño, y recupera una cantidad de puntos de vida igual al daño que habría recibido.
-___
-Los no-muertos y constructos no recuperan puntos de vida por este hechizo.
-
-<div style='margin-top:200px'></div>
 
 #### Golpe del cielo
 *Sacramento*
@@ -1839,6 +2444,8 @@ Señalas un espacio dentro del alcance del hechizo, llamando a tu conexión cele
 ___
 Las criaturas en un radio de 5 pies centrado en un punto que elijas a 90 pies que puedas ver deben realizar una tirada de salvación de AGI.	Si fallan, reciben 3d6 de daño por rayo, o la mitad de daño si tienen exito. Si las criaturas dañadas por el rayo no son humanas, o tienen un alineamiento maligno, reciben 3d6 de daño radiante adicional.
 
+<div style='margin-top:200px'></div>
+
 #### Renacimiento del fénix
 *Sacramento*
 ___
@@ -1849,6 +2456,6 @@ ___
 ___
 Cuando eres derribado, todo tu cuerpo surge con una ráfaga de energía ardiente.
 ___
-Cuando reducen a 0 tus puntos de vida, ganas 4d8 puntos de vida en vez de quedar inconsciente. Después de recuperar estos puntos de vida, obtienes una velocidad de vuelo de 30 pies que dura hasta que termina el hechizo.
+Cuando reducen a 0 tus puntos de vida, **pierdes todos tus spells slots**, ganas 4d10 puntos de vida en vez de quedar inconsciente. Después de recuperar estos puntos de vida, obtienes una velocidad de vuelo de 30 pies que dura hasta que termina el hechizo.
 
 <div class='pageNumber'>27</div>
