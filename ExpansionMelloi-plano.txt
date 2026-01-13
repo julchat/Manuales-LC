@@ -1,26 +1,108 @@
+Prefacio
+Fate/Lost Continuum es un juego de rol de mesa creado con las reglas básicas de D&D 5e. En este documento no se usa nada más (Razas, clases, monstruos, etc.).
+
+También se han realizado ajustes y adiciones extras a las reglas básicas para sumergir aún más a los jugadores al Nasuverse en el conjunto de reglas. Estos cambios se
+pueden encontrar en el Manual original.
+
+Hemos recorrido un largo camino y, a pesar de muchos altibajos, todavía estamos tratando de que sea la mejor versión posible. Muchas gracias a todos los probadores y colaboradores a lo largo del camino, sin importar cuán impactante haya sido en el proceso.
+
+Un agradecimiento especial a Doug, Koda y Marie por ser fantásticos creadores de contenido dentro de este sistema.
+
+-- Don
+
+
+
+1
+
+Trasfondos
+Los trasfondos son mucho más impactantes aquí que en la 5ta Edicion. Casi pueden considerarse una clase secundaria.
+
+Tu trasfondo como mago infiere mucho sobre tus rasgos y habilidades, así como tu posición social y posibles alianzas, ademas, también te da competencias, así como la cantidad de riqueza con la que comienzas.
+
+Competencias
+Tu mago obtendrá competencias tanto de tu trasfondo como de tu clase principal.
+
+Si dos fuentes diferentes te otorgan la misma competencia, puedes elegir una competencia diferente mientras sea del mismo tipo (Hechizo o arma).
+
+Erudito
+Un tipo de mago atípico dentro de todos los que se encuentran en la asociación. Tú te has preparado físicamente durante toda tu vida para ser el receptáculo de tu servant, estudiando a fondo los sirvientes de la clase de caballeros, sus comportamientos, la época que vivieron y sus doctrinas filosóficas.
+
+No eres como cualquier mago que es un erudito en las escuelas de magia que domina, sino que tú elegiste el camino de ser un experto en la compatibilidad que se debe tener con el servant que te acompañará durante toda la guerra.
+
+Importante: Este trasfondo está diseñado para jugar como un Demi-Servant, pero no es obligatorio. Si prefieres otro trasfondo para tu personaje como Demi-Servant, puedes elegirlo sin problema. En cualquier caso, consulta con tu DJ para asegurar la mejor experiencia de juego. Si decides jugar como un Demi-Servant, recuerda que debes seguir sus reglas específicas, por lo que se recomienda leer dicho apartado antes de construir tu personaje.
+
+Competencias
+Armas simples.
+Armas cuerpo complejas.
+2 competencia a eleccion.
+
+Competencia special: Trucos. Eres competente con todos los trucos y comienzas con un truco extra a tu elección.
+
+Riqueza
+Comienzas con 7 de riqueza.
+
+Cronista
+Comienzas con el dote de Historiador.
+
+Además, cuando logras discernir la identidad de un Servant mediante ese Dote, adquieres permanentemente una habilidad o maniobra que ese Servant posea y que puedas imitar, a discreción del DJ. El rango máximo de habilidad que puedes copiar es C. Si tiene un número de usos, el número de usos dependerá de tu estadística de MNA.
+
+Si se trata de tu propio Servant, la tirada se considera exitosa automáticamente.
+
+El elegido
+Cuando estás conectado a tu Servant, obtienes acceso permanente a todas sus habilidades sin la necesidad de usar sellos. Sin embargo, su Noble Phantasm permanecerá bloqueado, a menos que el Servant decida desbloquearlo.
+
+Además, cuando tú o tu Servant fallen una tirada, puedes volver a tirar el dado una cantidad de veces igual a la mitad de tu estadística de SUE (redondeado hacia arriba) por descanso.
+
+Especialista
+Elige una de las cuatro siguientes habilidades como la especialización de tu personaje, adquiriendo sus beneficios:
+
+Cazador: Obtienes un +2 a tus ataques a distancia.
+Duro como el acero: Obtienes 5 a tu HP máximo. Además, una vez por descanso, la primera vez que fueras a caer a 0 de HP, quedas a 1 HP en su lugar.
+Estudios Fundamentales: La CD de tus hechizos aumenta en 1, además obtienes 1 hechizo conocido adicional. Este hechizo es olvidado si cambias esta especialización.
+Guerrero: Obtienes +2 a tus ataques a cuerpo a cuerpo.
+Puedes cambiar tu elección al finalizar descanso.
+
+Sello de obediencia
+Compartir tu cuerpo con un espíritu heroico puede ser complicado. El Servant puede intentar sobreponerse a tu voluntad y tomar el control de tu cuerpo, sofocando tus intentos de actuar o hablar.
+
+Por esta razón, el Grial te otorga un sello extra. Este sello solo puede usarse para calmar la personalidad del Servant, reduciendo el control que tienen sobre tu cuerpo y permitiéndote asumir el control durante 8 horas. El Servant también puede usar un sello para tomar el control de tu cuerpo de forma similar.
+
+Si usas este sello adicional para controlar a tu Servant, lo recuperarás después de 24 horas (3 fases).
+
+Dependiendo del Servant al que hayas obligado a obedecer, este podría intentar tomar represalias. Usa este poder con cautela.
+
+
+
+4
+
 Estratega
 Este mago prefiere usar objetos, trampas y artilugios para combatir, siempre tiene un as bajo la manga y no suele perder en una zona preparada.
 
 Competencias
 Armas simples.
 Armas improvisadas.
-3 competencias a elección.
+3 competencias a elección
 
 Riqueza
 Comienzas con 6 de riqueza.
 
+Experto en camuflaje
+Cuando estableces una base en el mapa obtienes +1 al CD de Escondite mientras estés dentro de tu base. También puedes gastar 10 minutos para camuflar una trampa u objeto del mapa, esta no podrá ser detectada a menos que se supere una tirada de SUE CD 15.
+
+Hábil de manos
+Puedes usar la acción de Desenganchar, usar o lanzar un objeto como acción bonus. Esto incluye, pero no se limita a: bombas, pociones, boleadoras, abrojos, redes, frascos y trampas.
+
 Objetos preparados
 Obtienes 5 de riqueza que solo se puedes usar para comprar objetos que no sean armas ni Códigos Místicos.
 
-Hábil de manos
-Puedes usar la acción de usar o lanzar un objeto como acción bonus, esto incluye pero no se limita a Bombas, Pociones. Boleadoras, Abrojos, Redes, Frascos y Trampas. También puedes usar la acción de Huir como acción bonus.
+Truco bajo la manga
+Cuando realizas una tirada de ataque con un objeto no mágico obtienes +2 a la tirada de ataque. Si un objeto no mágico fuerza una tirada de salvación, obtiene +1 a su CD.
 
-Experto en camuflaje
-Cuando estableces una base en el mapa ganas +1 de hide dc mientras estés en ella, además puedes gastar 10 minutos para camuflar una trampa u objeto del mapa, esta no podrá ser detectada a menos que se supere una tirada de SUE DC15.
-
+Los beneficios de esta habilidad no incluyen armas, munición u otro objeto similar a los mencionados. Sin embargo, esta habilidad incluye objetos como los frascos de veneno.
 
 
-3
+
+
 
 Líder de Culto
 Seas su fundador, o uno de sus pesos más pesados, buscas traer la influencia del culto al que perteneces a nuevos territorios; pero no eres ningún civil.
@@ -35,10 +117,17 @@ Hechizos de tipo encantamiento.
 1 competencia de tu elección.
 
 Riqueza
-Comienzas con 6 de riqueza.
+Comienzas con 7 de riqueza.
+
+Entendimiento sobre la mente humana
+Sea por años de estudio sobre el campo del psicoanálisis, años de interacciones profundas con cientos de personas; o el conocimiento en hechicería de Encantamiento, tienes facilidad para comprender las intenciones de las personas, sus objetivos personales, y cómo reaccionan ante ciertos estímulos.
+
+Puedes utilizar esta habilidad para negociar con vendedores, encontrando la forma de conseguir un precio reducido: cada vez que gastes riqueza con un vendedor o entrenador, descuentas 2 de riqueza menor por cada punto de riqueza mayor del valor original de la compra.
+
+Este beneficio sólo aplica a compras que realices durante el tiempo de la partida; y no para las compras que hagas en la fase de armado del personaje.
 
 Organización Religiosa
-Como acción gratuita al comienzo de una fase; o durante la fase de preparación de la campaña, puedes elegir una zona en la cual establecer la base de tu culto.
+Cómo acción gratuita al comienzo de una fase; o durante la fase de preparación de la campaña, puedes elegir una zona en la cual establecer la base de tu culto.
 
 A medida que transcurren los días desde que estableces la base, tu culto crece en tamaño, y la devoción de sus integrantes (civiles) incrementa, proporcionándote información y contribuciones económicas que se representan en los beneficios de la tabla "Beneficios del Culto" al final de este trasfondo.
 
@@ -46,18 +135,11 @@ No obstante, a medida que el culto crece, tendrá una visibilidad mayor frente a
 
 Solo puedes construir un culto por partida, por lo que si tu culto es desmantelado, ya no podrás conseguir beneficios de esta habilidad por el resto de la partida.
 
-Entendimiento sobre la mente humana
-Sea por años de estudio sobre el campo del psicoanálisis, años de interacciones profundas con cientos de personas; o el conocimiento en hechicería de Encantamiento, tienes facilidad para comprender las intenciones de las personas, sus objetivos personales, y como reaccionan ante ciertos estímulos.
-
-Puedes utilizar esta habilidad para negociar con vendedores, encontrando la forma de conseguir un precio reducido: cada vez que gastes riqueza con un vendedor o entrenador, descuentas 2 de riqueza menor por cada punto de riqueza mayor del valor original de la compra.
-
-Este beneficio sólo aplica a compras que realices durante el tiempo de la partida; y no para las compras que hagas en la fase de armado del personaje.
 
 
+10
 
-4
-
-Libido Rebosante
+Líbido Rebosante
 Te encuentras en un estado de excitación constante, el cual se contagia con cierta facilidad a quiénes interactúen contigo. Tu mera presencia y actuar son suficientes para alterar el pensamiento cuerdo de tus enemigos, proporcionándote una mayor facilidad para influenciarlos y distraerlos.
 
 La CD de tus hechizos que impongan un estado negativo o que interfieran con la mente o voluntad de sus objetivos aumenta en 1.
@@ -80,23 +162,23 @@ Además, tras cuatro días transcurridos, tus seguidores alcanzan un nivel de de
 
 
 
-5
+11
 
 Millonario
 Entraste en la guerra más por capricho que por ser realmente capaz, eres de las familias más ricas del mundo y tu fortuna se cuenta por millones, pese a eso, tu capacidad mágica tiene que desear.
 
 Competencias
 Armas simples.
-1 competencias a elección.
+1 competencias a elección
 
 Riqueza
 Comienzas con 30 de riqueza.
 
-Nula Capacidad Mágica
-Similar al mago Desconocido, no comienzas el juego con 6 niveles de clase. En cambio, comienzas con 1 nivel de clase y obtienes 1 nivel de clase adicional al final de cada 2 fases que te mantengas vivo, hasta un máximo de 6 niveles.
-
 Nepotismo
 Si usas la acción de 8 horas para “trabajar” ganas 2d4 de riqueza en vez del 1d4 normal por tus inversiones previas.
+
+Nula Capacidad Mágica
+Similar al mago Desconocido, no comienzas el juego con 6 niveles de clase. En cambio, comienzas con 1 nivel de clase y obtienes 1 nivel de clase adicional al final de cada 2 fases que te mantengas vivo, hasta un máximo de 6 niveles.
 
 Servicios personalizados
 Gracias a tu red de contactos, puedes acceder a comprar ciertas cosas que otros no, siendo estas:
@@ -105,11 +187,9 @@ Compra	Coste
 Equipo de rastreo	2
 Guardaespaldas.	3
 Servicio antiaéreo.	3
-Profesor.	4
-Servicio de inteligencia.	4
+Profesor.	5
+Servicio de inteligencia.	5
 El detalle de estas compras se encuentra en la siguiente página.
-
-6
 
 
 
@@ -134,14 +214,16 @@ Acciones
 Cuchillazo. Ataque cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 1d4 + 2 de daño cortante.
 Disparo. Ataque a rango: +4 a impactar, alcance 30 pies, un objetivo. Impacto: 1d6 + 2 de daño perforante.
 
+Profesor.
+Al comprar este servicio gastaras una acción de 8 horas en aprender una nueva competencia a tu elección o subir 1 nivel de clase (sigue sin poder superar el límite).
+
 Servicio antiaéreo.
 Durante las siguientes 24 horas contratado este servicio tienes los servicios básicos de un satélite no militar a tu disposición. Al inicio de tus turnos, cualquier enemigo que vuele al menos 15 pies sobre el suelo que puedas ver y esté a 60 pies de ti recibirá 1 ataque desde el espacio, con una bonificación de +3 para pegar y de impactar inflige 3d6 de daño de fuego.
 
-Profesor.
-Al comprar este servicio gastarás una acción de 8 horas en aprender una nueva competencia a tu elección o subir 1 nivel de clase (máximo hasta nivel 6).
-
 Servicio de inteligencia.
 Solo puedes comprar este servicio si sabes la ubicación de otro Maestro o PNJ, una vez pasen 8 horas contratado este servicio, se te dará información respecto las clases del Maestro o PNJ seleccionado, así como información adicional que se pueda recopilar del mismo a discreción del DJ.
+
+7
 
 Tatuaje alquimico
 Un hechicero, descendiente de una antigua tradición monástica de Asia, utiliza una aguja mágica ancestral para inscribir en tu piel un tatuaje dotado de la capacidad única de potenciar el flujo de maná en tu cuerpo. Este arte milenario amplifica tus habilidades más allá de los límites convencionales, permitiéndote canalizar la energía almacenada en los intrincados diseños grabados en tu piel. Los tatuajes actúan como receptáculos sensibles, facilitando la absorción de maná del éter circundante. Cada vez que desatas sus poderes, los tatuajes resplandecen con un brillo especial, perdiendo esta luminosidad conforme agotas sus facultades, en concordancia con sus características particulares.
@@ -150,23 +232,34 @@ Competencias
 Armas simples.
 3 competencias a elección.
 
-Competencia especial: Armas. Se te considera competente con la Séptima Escritura Sagrada y las Llaves Negras. Trucos. Aprendes un truco de tu elección y se te considera competente con él. Si dicho truco inflige daño, este inflige un dado de daño adicional.
+Competencia especial: Armas. Se te considera competente con las Llaves Negras y puedes usar la Séptima Escritura Sagrada, cumplas o no el requisito de Clase. Trucos. Aprendes un truco de tu elección y se te considera competente con este. Si dicho truco inflige daño, este inflige un dado de daño adicional.
 
 Riqueza
-Comienzas con 7 de riqueza.
+Comienzas con 8 de riqueza.
 
-Conjuro marcial
-El maná ha incrementado tu habilidad natural para el combate, por lo que tus puños infligen 1d4 + tu modificador de DES, FUE o MNA, a tu elección. Debido a tu habilidad para usar el maná externo, eres capaz de combinar eficazmente el uso de hechizos con tu mejorada habilidad física. Si utilizas un truco cuyo tiempo de lanzamiento sea una acción, puedes hacer un ataque de arma como acción bonus (incluyendo ataques desarmados).
+Conjuro Marcial
+Tu control del maná ha fortalecido tu destreza en combate, permitiéndote potenciar tus ataques físicos.
+
+Tus golpes desarmados infligen 1d4 + tu modificador de DES, FUE o MNA (a tu elección).
+
+Gracias a tu dominio del maná externo, puedes combinar eficazmente magia y combate físico. Si lanzas un truco con un tiempo de lanzamiento de una acción, puedes realizar un ataque de arma como acción bonus (incluyendo ataques desarmados).
 
 Flujo místico grabado
-Debido a tu habilidad de manipulación poco convencional, puedes moldear ligeramente el maná externo. Cuando tú o una criatura a 60 pies recibe daño de ácido, frío, fuego, fuerza, rayo o trueno, puedes usar tu reacción para desviar una parte de esa energía y reducir el daño a la mitad. Esta energía desviada se almacena en uno de tus tatuajes y puedes usarla para que tu siguiente ataque o hechizo realice 1d8 de daño adicional del mismo tipo del daño reducido con esta habilidad. Si el hechizo o ataque daña a más de una criatura a la vez, solo una recibe ese daño adicional (tú eliges cuál). Esta habilidad solo se puede utilizar una vez por descanso, o una vez adicional sin descansar utilizando una ranura de hechizo.
+Debido a tu manipulación poco convencional del maná, puedes moldear ligeramente la energía externa.
+
+Cuando tú o una criatura a 60 pies de ti que puedas ver reciba daño elemental o de fuerza, puedes usar tu reacción para desviar parte de esa energía, reduciendo el daño a la mitad. La energía desviada se almacena en uno de tus tatuajes y se canaliza en el siguiente ataque o hechizo que conecte con éxito, infligiendo 1d8 de daño adicional del mismo tipo que el daño reducido.
+
+Si el hechizo o ataque afecta a múltiples criaturas, solo una de ellas recibe este daño adicional (tú eliges cual). Esta habilidad puede usarse una vez por descanso o una vez adicional consumiendo una ranura de hechizo.
 
 Apoteosis manántica
 El maná acumulado en tus tatuajes puede fusionarse momentáneamente con tu ser, permitiéndote entrar en un estado de éxtasis que rompe tus limitaciones físicas por un tiempo limitado. Como acción bonus, puedes entrar en este estado de éxtasis, obteniendo los siguientes beneficios:
 
-Tu probabilidad de conseguir un golpe crítico aumenta, considerándose un Golpe Crítico cuando el dado d20 en la tirada de ataque resulte en un 19 o 20. Cualquier habilidad u objeto que reduzca la chance para asestar un golpe crítico se acumula con esta habilidad.
-Al asestar un golpe crítico con un ataque cuerpo a cuerpo, recuperas una ranura de hechizo, ya que los tatuajes absorben el maná de la criatura golpeada. Solo puedes recuperar una ranura de hechizo por ronda con esta habilidad.
-Si puedes realizar más de un ataque, puedes reemplazar cualquiera de estos ataques con un truco cuyo tiempo de lanzamiento sea una acción.
+Tu Márgen de Crítico es reducido a 19-20, acumulable con otras fuentes que reduzcan el Márgen de Crítico
+
+Al asestar un golpe crítico con un ataque cuerpo a cuerpo recuperas una ranura de hechizo. Solo puedes recuperar una ranura de hechizo por ronda con esta habilidad.
+
+Si puedes realizar más de un Ataque con tu Acción de Ataque, puedes reemplazar cualquiera de estos con un Truco, cuyo tiempo de lanzamiento sea 1 Acción.
+
 Este estado de éxtasis dura un minuto y puede usarse una vez por descanso o gastando 2 ranuras de hechizo para usarlo sin haber descansado.
 
 
@@ -176,34 +269,21 @@ Este estado de éxtasis dura un minuto y puede usarse una vez por descanso o gas
 Apóstol muerto
 “Vampiros” creados por un Ancestro Verdadero. Magos que se dan un festín con la sangre de otros para su sustento y para alimentar su inmortalidad defectuosa.
 
-Para convertirte en Apóstol Muerto, debes gastar 3 niveles de clase. En esta clase no mejoras usando Niveles de Clase, sino que aumentas tu fuerza a través de medios especiales dentro del juego.
+Para convertirte en Apóstol Muerto, debes gastar 3 niveles de clase. En esta clase no mejoras usando Niveles de Clase, sino que aumentas tu fuerza a través de medios especiales dentro del juego. Puedes jugar esta clase con Desconocido o Millonario, pero pierdes las 2 primeras subidas de nivel de los transfondos. (no puedes acceder a esta clase si tu tipo de criatura no es humanoide)
 
 Competencias
-Dos competencias de tu eleccion.
+Dos competencias de tu elección.
 
 Linaje vampírico
 Tu linaje requiere que te alimentes para mantener tu fuerza inmortal, por lo que debes consumir sangre cada 24 horas para mantener tu poder. Al morder a los mortales, los conviertes en Apóstoles automáticamente.
 
 Si muerdes a una criatura mágica, esta debe realizar una tirada de salvación de RES CD 10. Si falla, queda infectada. Las criaturas indefensas fallan esta tirada de salvación de manera automática. Las criaturas infectadas tienen su RES reducido en 2 de forma permanente. Las criaturas infectadas se convierten en Apóstoles cuando mueren.
 
-La primera vez que te alimentas de sangre cada 24 horas, obtienes un punto que puedes asignar a cualquier estadística. Esta funcion puede superar el limite de 5.
+Para subir de nivel, debes estar 8 horas consumiendo humanos en un distrito habitado, Se generan apóstoles menores igual a tu nivel de Apóstol * 1d4 (si deseas convertirte en apóstol bestia, debes hacer esta acción en un distrito deshabitado). Si pasas 24 horas sin alimentarte, tus estadísticas se reducen a la mitad redondeado hacia abajo hasta que vuelvas a alimentarte, tu nivel se reduce en 1 y pierdes cualquier bonificación del mismo.
 
-La primera vez que te alimentas cada 8 horas subes de nivel. Si pasas 24 horas sin alimentarte, tus estadísticas se reducen a la mitad redondeado hacia abajo de forma permanente, tu nivel se reduce en 1 y pierdes cualquier bonificación.
+La primera vez que te alimentas de sangre cada 24 horas, obtienes un punto que puedes asignar a cualquier estadística. Esta función puede superar el límite de 5.
 
-Apóstol Menor
-Vampiro Mediano
-
-Armadura: 13
-Vida: 10
-Velocidad: 40 pies
-FUE	AGI	RES	MNA	SUE
-3	0	2	2	0
-Resistencia a daño. Contundente, Cortante y Perforante no magico.
-Debilidad a daño. Radiante
-Actions
-Garras. Ataque cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 1d6 + 3 de daño cortante
-
-Nivel 1
+Vampirismo
 Comienzas en este nivel y obtienes los siguientes efectos.
 
 Tu tipo de criatura ahora es vampiro.
@@ -214,109 +294,270 @@ Obtienes visión en la oscuridad en un rango de 60 pies.
 
 Mientras no estés expuesto a luz solar directa, recuperas puntos de vida iguales a tu RES + 2 al inicio de cada uno de tus turnos. Este efecto puede revivirte si tienes 0 puntos de vida.
 
-Mientras no estés expuesto a luz solar directa, tanto tu FUE como tu AGI aumentan en 2. Esta funcion puede superar el limite de 5.
+Mientras no estés expuesto a luz solar directa, tanto tu FUE como tu AGI aumentan en 2. Esta función puede superar el límite de 5.
 
 Tus puntos de vida máximos aumentan en 30.
 
-Te vuelves debil al daño radiante. Cuando recibes daño radiante, las características que funcionan cuando no estás expuesto a luz solar directa se sellan durante 1 minuto como si estuvieras expuesto a luz solar directa.
+Te vuelves débil al daño radiante. Cuando recibes daño radiante, las características que funcionan cuando no estás expuesto a luz solar directa se sellan hasta el final de tu proximo turno como si estuvieras expuesto a luz solar directa.
 
 La falta de sueño no te otorga niveles de agotamiento.
-Nivel 2
-Al nivel 2 puedes optar por seguir uno de dos caminos.
+Disciplinas vampiricas
+Al nivel 2 puedes optar por seguir uno de tres caminos.
 
-Convertirte en un poderoso demonio que usa su habilidad para dominar y destrozar al enemigo, o en un poderoso mago que usa magia vampírica para ser un señor supremo.
+Convertirte en un vampiro Noble, un vampiro Hemomante o un vampiro Bestia.
 
-Obtienes efectos permanentes según la ruta que tomes.
+Obtienes efectos permanentes según la ruta que tomes mientras no estes expuesto al sol.
 No puedes alternar caminos.
 
-
-
-9
-
-Fuerza de ogro
-Nivel 2
-Al nivel 2 realizas con ventaja tiradas relacionadas con FUE.
-
-Tu velocidad de movimiento se convierte en 60 pies. El daño de tus ataques desarmados es igual a 1d6 + FUE cortante. Estos ataques son mágicos para vencer resistencias.
-
-Como acción bonus puedes saltar cualquier distancia dentro de lo que tu movimiento te permita. Además, obtienes un bonificador a tus tiradas de daño cuerpo a cuerpo igual a la mitad de tu FUE redondeado hacia abajo.
-
-Nivel 3
-Al nivel 3 obtienes maniobras vampíricas especiales.
-
-Estas son técnicas especiales exclusivas de tu clase, que pueden emplearse para realizar proezas sobrehumanas. Obtienes un numero de cargas igual a tu FUE o AGI.
-Estas cargas se recuperan cuando te alimentas.
-
-Mordisco deformado: Después de realizar la acción de Atacar, puedes gastar una carga para aparecer junto a otra criatura que puedas ver y realizar un ataque de mordisco.
-Si impacta, infliges 1d8 + FUE de daño perforante y el objetivo debe realizar la tirada de salvacion o ser infectado.
-
-Fuerza inhumana: Puedes gastar una carga como acción bonus para arrojar una criatura. La criatura hace una prueba de fuerza disputada. Si falla, arrojas a la criatura a un espacio dentro de los 30 pies, infligiendo 2d8 de daño contundente y dejando a la criatura boca abajo. Cualquier cosa golpeada por la criatura lanzada recibe el mismo efecto.
-
-Pozo de sangre: Como reacción al recibir daño, puedes gastar una carga para obtener puntos de vida temporales iguales a los puntos de vida perdidos hasta el inicio de tu siguiente turno.
-
-Nivel 4
-Al nivel 4, el daño que infliges erosiona la piel del enemigo.
-
-El daño de tus ataques desarmados reducen los puntos de vida máximos de la criatura según el daño infligido. Si los puntos de vida maximos de una criatura se reducen a 0, muere y se convierte en un Apóstol Menor bajo tu mando.
-
-Puedes gastar una carga de tus maniobras para mejorar tus ataques físicos momentáneamente. Hasta el inicio de tu siguiente turno, tus ataques desarmados infligen 2d6 + FUE de daño cortante.
-
-Nivel 5
-Al nivel 5 pasas automáticamente las tiradas de salvación y pruebas de habilidad de FUE.
-
-Ya no necesitas cargas de maniobras vampíricas para realizarlas y, en su lugar, usa estos dados para potenciarlas. Al realizar una maniobra, obtienen efectos adicionales.
-
-Mordisco deformado: Ahora infliges 2d6 + FUE y te curas el daño infligido por el ataque de mordisco. Este daño no se puede reducir de ninguna manera.
-
-Fuerza inhumana: Ahora desarmas a la criatura que arrojas. Si arrojas a una criatura a un objeto, esta debe realizar una tirada de salvación de FUE CD 15. Si falla, queda aturdida.
-
-Pozo de sangre: Ahora no necesitas gastar tu reacción al recibir daño, pero la cantidad de puntos de vida temporales que obtienes se reducen a la mitad.
-
-
-
-10
-
-Patrón brujo
-Nivel 2
-Al nivel 2 obtienes 6 ranuras de hechizo, 3 hechizos conocidos y aprendes el hechizo Toque Vampírico.
-
-Además, los apóstoles que creas tienen mayor fuerza. Cuando entras en combate, puedes gastar una ranura de hechizo para convocar a un apóstol en tu ayuda con tu acción. Solo puedes tener un apóstol convocado.
-
-Nivel 3
-Al nivel 3 obtienes dominio sobre criaturas infectadas, vampiros, demonios y muertos vivientes. (Los apóstoles menores se consideran criaturas de nivel 1).
-
-Puedes gastar tu acción bonus para comandar cualquier número de estas criaturas, similar a un sello de comando. Las criaturas no dispuestas deben realizar una prueba de habilidad de MNA enfrentada. Si falla, siguen la orden lo mejor que pueden. No puedes obligar a una criatura a infligirse daño a sí misma.
-
-Nivel 4
-Al nivel 4, cuando lanzas un hechizo o efecto que crea un solo esbirro, creas dos en su lugar. Además, ahora puedes tener hasta dos apóstoles convocados.
-
-Puedes consumir el alma del Apóstol Menor que has creado y revigorizarte como tu acción bonus. La curacion es igual a los puntos de vida actuales del apóstol que consumes.
-
-Nivel 5
-Al nivel 5, cuando los puntos de vida de una criatura que has infectado se reducen a 0, fallan dos salvaciones de muerte de manera automatica.
-
-Tu concentración para mantener un hechizo no se puede romper al recibir daño. Cuando ves un hechizo ser lanzado, puedes robar parte del maná requerido para lanzarlo y hacerlo tuyo. El siguiente hechizo o ataque que lances inflige 2d6 de daño psíquico adicional.
-
-Obtienes un bonificador a tus tiradas de salvación de MNA igual a tu MNA. Ademas, recibes la mitad del daño de hechizos o efectos mágicos.
-
-Apóstol Menor (Superior)
+Apóstol Menor
 Vampiro Mediano
 
-Armadura: 15
+Armadura: 13
 Vida: 20
-Velocidad: 40 pies
+Velocidad: 30 pies
 FUE	AGI	RES	MNA	SUE
 4	2	2	2	0
-Resistencia a daño. Contundente, Cortante y Perforante no magico.
+Resistencia a daño. Contundente, Cortante y Perforante no mágico.
 Debilidad a daño. Radiante
-Actions
+Acciones
 Garras. Ataque cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 1d8 + 4 de daño cortante.
 
 Mordisco. Ataque cuerpo a cuerpo: +2 a impactar, alcance 5 pies, un objetivo. Impacto: 1d6 + 3 de daño cortante. El objetivo debe realizar una tirada de salvacion de RES CD 8. Si falla, queda infectada.
 
-Por mi señor. Si tu eres el objetivo de un ataque cuerpo a cuerpo o a distancia mientras el apostol está a 5 pies de tí, el apostol puede usar su reacción para convertirse en el nuevo objetivo del ataque.
+Reacciones
+Por mi señor. Si tu eres el objetivo de un ataque cuerpo a cuerpo o a distancia mientras el apóstol menor está a 5 pies de tí, el apóstol menor puede usar su reacción para convertirse en el nuevo objetivo del ataque.
 
 
+
+2
+
+Noble
+Fuerza de ultratumba
+Al nivel 2 realizas con ventaja tiradas de salvación y pruebas de habilidad relacionadas con FUE y AGI.
+
+Tu velocidad de movimiento aumenta en 10 pies. El daño de tus ataques desarmados es igual a 1d6 + FUE o AGI cortante. Estos ataques son mágicos para vencer resistencias.
+
+Como acción bonus puedes saltar hasta un máximo de 30 pies en cualquier dirección. Además, obtienes un bonificador a tus tiradas de daño cuerpo a cuerpo igual a la mitad de tu FUE o AGI redondeado hacia abajo.
+
+Maniombras vampiricas
+Al nivel 3 obtienes maniobras vampíricas especiales.
+
+Estas son técnicas especiales exclusivas de tu clase, que pueden emplearse para realizar proezas sobrehumanas. Obtienes un número máximo de cargas igual a tu FUE o AGI cuando te alimentas. Estas cargas se recuperan cuando te alimentas nuevamente.
+
+Mordisco deformado: Después de realizar la acción de Atacar, puedes gastar una carga como acción bonus, para aparecer junto a otra criatura que puedas ver a 30 pies y realizar un ataque de mordisco. Si impacta, infliges 1d8 + FUE o AGI de daño perforante y el objetivo debe realizar la tirada de salvación o ser infectado.
+
+Fuerza inhumana: Puedes gastar una carga como acción bonus para arrojar una criatura. La criatura hace una prueba de FUE enfrentada. Si falla, arrojas a la criatura a un espacio dentro de los 30 pies, infligiendo 2d8 de daño contundente y dejando a la criatura tumbada. Cualquier objeto o criatura golpeada por la criatura lanzada recibe el mismo daño.
+
+Pozo de sangre: Como reacción al recibir daño, puedes gastar una carga para obtener puntos de vida temporales iguales a 4d8 hasta el inicio de tu siguiente turno.
+
+Ataque extra
+Al nivel 3 puedes atacar dos veces, en lugar de una, siempre que realices la acción Atacar durante tu turno.
+
+Erocion dañina
+Al nivel 4, el daño que infliges erosiona la piel del enemigo.
+
+El daño de tus ataques desarmados y mordisco reducen los puntos de vida máximos de la criatura igual al daño infligido, se recuperan tras un descanso. Si los puntos de vida máximos de una criatura se reducen a 0, muere y se convierte en un Apóstol Menor bajo tu mando.
+
+Puedes gastar una carga de tus maniobras como acción gratuita para mejorar tus ataques físicos momentáneamente. Hasta el inicio de tu siguiente turno, tus ataques desarmados infligen un dado de daño necrotico adicional.
+
+Lord vampiro
+Al nivel 5 pasas automáticamente las tiradas de salvación y pruebas de habilidad de FUE y AGI.
+
+Ahora el limite de maniobras vampíricas se vuelve tu FUE o AGI + 3 y estas maniobras se mejoran de la siguiente manera
+
+Mordisco deformado: Ahora infliges 2d6 + FUE o AGI y te curas el daño infligido por el ataque de mordisco. Este daño no se puede reducir de ninguna manera.
+
+Fuerza inhumana: Si intentas arrojar a una criatura, esta debe hacer una salvación de FUE CD 10 + FUE. Si falla e impacta contra un objeto u otra criatura, su velocidad se vuelve 0 hasta el final de su siguiente turno.
+
+Pozo de sangre: Ahora los puntos de vida temporal amuentan a 6d8 y si estas dañado te otorgan puntos de vida en su lugar y si sobrepasan tu vida máxima se transforman en puntos de vida temporal.
+
+Bestia sangrienta
+A nivel 5 has llegado a la cúspide de los poderes vampíricos, puedes controlar la sangre en tu cuerpo para entrar en un estado de combate en el que todo tu cuerpo se potencia.
+
+Puedes gastar una accion bonus para entrar en un modo berserker por 1 minuto. Solo puedes hacer esto una vez por descanso.
+
+Tanto tu FUE como tu AGI aumentan en 4. Esta función puede superar el límite de 5 y se acumula con la habilidad del vampiro nivel 1.
+El daño radiante ya no te afecta como si fuera el sol.
+Su velocidad aumenta 15 pies. (se acumula con la habilidad de nivel 2)
+Tu ataque extra aumenta a 3 ataques por turno.
+
+
+3
+
+Hemomante
+Lanzador de hechizos
+Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
+
+Competencias
+Hechizos de tipo Necroticos y Trasmutacion.
+
+Fieles Sirvientes
+A nivel 2 puedes crear mejores apóstoles menores.
+
+Todos los apóstoles menores creados por ti obtienen un bono de +5 a la acción de Scout y tienen un Hide DC de 12. Además, al entrar en combate ganan 5 de vida temporal por cada aliado en combate.
+
+Además puedes optar por remplazar tu mejora de FUE y AGI a MNA y END.
+
+Sangre Cristalizada
+Obtienes la habilidad de lanzar proyectiles de sangre.
+
+A nivel 2 cuando lanzas un hechizo o realizas un ataque puedes, como acción bonus sacrificar 5 HP para forzar a un objetivo que puedas ver dentro de un rango de 120 pies a realizar una tirada de salvación de MNA contra tu DC de hechizos. En caso de fallar, recibirá 2d6 de daño necrótico.
+
+Flujo Sanguíneo
+A nivel 3 aprendes el manejo total de la sangre de tu cuerpo, adquiriendo nuevas habilidades. Los sacrificios de HP no pueden ser mitigados e ignoran HP temporal.
+
+Transfusión: Cuando realizas un hechizo o un ataque que inflige daño, puedes infligirte 5 puntos de daño para que dicho hechizo obtenga 2d6 extra de daño al impacto.
+Pentagrama: Como acción normal, puedes infligirte 10 puntos de daño para dibujar un pentagrama de 15x15 dentro de un rango de 120 pies. Todas las criaturas que se encuentren dentro de esa área deberán hacer una tirada de salvación de RES contra tu DC de hechizos o recibir 4d6 de daño necrótico, la mitad en una salvación exitosa.
+Baño de sangre: Como acción normal, puedes sacrificar la cantidad de puntos de vida que desees, para otorgarle puntos temporales a cualquier criatura (máximo 30) que puedas ver en un rango de 60 pies que duran 8 horas.
+Además, puedes usar la salud de tus apóstoles muertos para cualquier sacrificio de vida. También, todas las criaturas dañadas por tus habilidades de sangre, deben realizar una tirada de salvación de RES igual a tu DC de hechizos u obtener el estado envenenado por 1 minuto.
+
+Campo de Sangre
+Una vez por descanso como acción gratuita, a nivel 4 puedes crear un campo especial único de tu clase. Creas un campo de SANGRE en un radio de mínimo 30 pies y máximo 120 pies a elección, con un corazón gigante en el centro.
+
+Dentro de este campo el suelo se inunda de sangre que proviene del corazón. Este campo no cuenta como un campo delimitado, por lo tanto, se puede superponer a otros campos delimitados existentes, y genera una barrera opaca que impide atravesar los limites mientras esté activo. Si se intenta entrar al campo, deberán pasar una salvación de MNA igual a tu DC de hechizos. Todas las criaturas dentro del campo obtienen el estado de Ensangrentado.
+
+El corazón tiene 300 de HP que puedes utilizar para gastar en tus habilidades o hechizos, si el corazón llega a 0 HP el campo se destruye (este campo no se puede destruir usando Disipar Magia). El corazón es un constructo que puede ser afectado por ataques y hechizos y tiene un AC de 10.
+
+Mientras el campo este activo tu eres uno con el mismo, puedes usar cualquier hechizo o habilidad dentro del campo y aplicar sus efectos en cualquier ubicación, esto incluye hechizos de toque.
+
+Ensangrentados
+A nivel 4, al inicio de tus turnos, puedes elegir a cualquier criatura que se encuentre ensangrentada y que puedas ver para forzarla a hacer una tirada de salvación de MNA igual a tu DC de hechizos o recibir 4d6 de daño necrótico y estar asustados de ti hasta el final de su próximo turno.
+
+Sangre corrupta
+A nivel 5, tus apóstoles muertos se han adaptado a tus habilidades sanguíneas y reciben las siguientes mejoras mientras tengas tu campo de sangre activo:
+
+Pueden usar "Por mi señor" desde cualquier lugar del campo de sangre.
+Sus ataques obtienen 2d8 de daño extra de tipo necrótico al imbuirlos con sangre.
+Cuando un apóstol muere, su cadáver es absorbido por el campo y el corazón se cura 2d8
+Los apóstoles duplican su vida máxima y se curan toda la vida al iniciar el campo.
+Dominio Sanguíneo
+A nivel 5, tu dominio de la sangre mejoró al punto que puedes controlar toda la sangre que toques; adquieres nuevas habilidades:
+
+Ola de sangre: Como acción puedes gastar 20 puntos de vida para lanzar una ola de sangre en una línea de 30 pies de largo y 5 de ancho, forzando una salvación de FUE, en caso de fallarla reciben 7d8 de daño y son tumbados, en caso de pasarla reciben la mitad y no son tumbados.
+Circulación: Como acción de ronda completa, puedes sacrificar 80 puntos de vida del corazón para forzar a TODAS las criaturas que tú elijas dentro del campo, a realizar una tirada de salvación de END DC 20 o recibir 10d8 de daño necrótico, recibiendo la mitad en una salvación exitosa.
+Agarre sanguineo: Como acción bonus puedes sacrificar 15 puntos de vida y tocar a una criatura para atraparla con sangre, forzando una salvación de AGI contra tu DC de hechizos contra estar agarrado, puede repetir la salvación al final de cada uno de sus turnos.
+Bestia
+Linaje bestial
+A diferencia del resto de vampiros, tú te alimentas de sangre de animales. Debido a esto, para subir de nivel de linaje bestial, tu acción de alimentarte debe hacerse en un distrito con pocos humanoides (como un bosque, granjas, etc).
+
+Atienes acceso a Puntos Animales. Cada vez que te alimentas por 8 horas obtienes Puntos Animales igual a 2d6.
+
+Control animal
+Al nivel 2 Puedes canalizar la esencia de los animales que devoras para invocarlos y que te ayuden. (Estos animales se mueven al final de tu turno). Como acción puedes invocar a 5 pies de ti una de las criaturas listadas gastando los puntos animales descritos.
+
+Aguila: 4 puntos.
+Perro: 2 puntos.
+Serpiente: 1 puntos.
+666 bestias
+Al nivel 3 puedes gastar puntos para transformar partes de tu cuerpo y realizar una habilidad dependiendo del animal escogido de la lista de abajo.
+
+Lobo: Usas una acción y realizas un ataque desarmado gastando 1 punto, para incrementar su rango a 15 pies y aumentar su daño a 2d6 + tu DES
+Tiburon: Cuando eres objetivo de un ataque cuerpo a cuerpo, puedes usar tu reacción y gastar 2 puntos, para hacer un ataque contra la criatura con un daño 2d6 + tu DES y obtener resistencia a todo daño, excepto radiante, hasta el inicio de tu siguiente turno.
+Cuervos: Puedes gastar 2 puntos para usar el hechizo Pasaje oscuro sin gastar Ranuras de Hechizos.
+Potenciacion bestial
+A nivel 3 como acción bonus, puedes gastar 5 puntos en potenciar una de tus invocaciones a 120 pies que puedas ver, otorgándole 20 puntos de vida temporales y ventaja en las tiradas de ataque por 1 minuto.
+
+Mejora animal
+Al nivel 4, el número de puntos animales ganados al alimentarte por 8 horas sube a 3d6, y cada vez que invocas un perro, águila o serpiente en vez de invocar uno, invocas dos.
+
+Bestialidad
+Al nivel 4 eres más bestia que no muerto, dejas de ser no muerto y pasas a considerarte bestia, lo que te da las siguientes ventajas:
+
+Las bestias no te pueden a atacar.
+No puedes ser sorprendido.
+Tu armadura base pasa a ser 12+AGI
+Tu velocidad aumenta en 15 pies.
+Obtienes visión a ciegas en un radio de 30 pies.
+Te curas la mitad del daño infligido por tus invocaciones a criaturas enemigas, siempre y cuando estén a 120 pies de ti.
+Poder prehistorico
+Al nivel 5, el número de puntos animales ganados al alimentarte por 8 hora sube a 5d8. Además, puedes invocar animales más poderosos.
+
+T-rex: 20 puntos.
+Mamut: 25 puntos.
+Bestias sangrientas
+Al nivel 5 llegas al control total de tus bestias.
+
+Cuando matas a un master enemigo, puedes alimentar a tus bestias con su cadáver, lo que te otorga 6d8 puntos animales.
+Si tienes una bestia a 120 pies, una vez por turno, como acción gratuita durante tu turno, puedes gastar un número de Puntos Animales igual a otra bestia y transformar a tu invocación en la bestia que elegiste.
+Como acción bonus, puedes gastar 15 puntos en potenciar una de tus invocaciones a 120 pies, otorgándole los efectos del nivel 3 y resistencia todos los tipos de daño (excepto radiante) y ventaja en todas las tiradas y salvaciones que hagan por 1 minuto.
+Puedes gastar 10 minutos y des invocar a todas tus bestias, recuperando todos los Puntos Animales gastados en invocarlas.
+
+
+3
+
+Perro
+Bestia mediana
+
+Armor Class 13
+Hit Points 20
+Speed 40ft.
+FUE	AGI	RES	MNA	SUE
+3	2	3	0	1
+Atack Si tiene un enemigo tumbado a 5 pies o menos, puede usar Mordisco como accion bonus.
+
+Actions
+Mordisco. Ataque de arma cuerpo a cuerpo: +5 a golpear, rango 5ft., un objetivo. Golpe 2d4+4
+
+Salto. Ataque de arma cuerpo a cuerpo: +2 a golpear, rango 10ft. Salta a un objetivo posicionándose a 5 pies de el y haciendo 1d6+4 perforante.
+
+Golpe. Ataque de arma cuerpo a cuerpo: +4 a golpear, rango 5ft.1d6 Tira al suelo, al enemigo. Fuerza una salvación de destreza DC 15, Contra estar agarrado por el Perro.
+
+Aguila
+Bestia mediana
+
+Armor Class 14
+Hit Points 4
+Speed 60ft Vuelo.
+Scout +5
+FUE	AGI	RES	MNA	SUE
+2	4	1	1	1
+Atacar y esconderse Si en este turno ataca a un enemigo, puede hacer la acción de retirarse o esconderse como acción bonus.
+
+Actions
+Picotaso. Ataque de arma cuerpo a cuerpo: +4 a golpear, rango 5ft., un objetivo. Golpe 1d6+4 perforante.
+
+Serpiente
+Bestia mediana
+
+Armor Class 14
+Hit Points 8
+Speed 30ft.
+FUE	AGI	RES	MNA	SUE
+1	3	1	0	0
+Atack Si hay un aliado a 5 pies del objetivo, puede usar Mordisco como acción bon us.
+
+Actions
+Mordisco. Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1d4 de daño perforante y el objetivo debe superar una tirada de salvación de Constitución CD 15; si falla, recibe 2d8 puntos de daño por veneno y es envenenado, si tiene éxito, la mitad y no se envenena.
+
+Mamut
+Bestia Enorme, No alineado
+
+Armor Class 13
+Hit Points 100
+Speed 40 pies.
+FUE	AGI	RES	MNA	SUE
+5	-1	5	0	1
+Cargar y pisotear. Si el mamut se mueve al menos 20 pies en línea recta hacia un objetivo y le impacta con un ataque de cornamenta en el mismo turno, el objetivo debe superar una tirada de salvación de Fuerza CD 18 para no quedar tumbado. Si el objetivo queda tumbado, el mamut puede pisotearlo como acción adicional.
+
+Actions
+Cornamenta Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 4d8+5 puntos de daño perforante.
+
+Pisotear Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, una criatura tumbada. Impacto: 5d8+5 puntos de daño contundente.
+
+Tyrannosaurus Rex
+Bestia Enorme, No alineado
+
+Armor Class 13
+Hit Points 80
+Speed 50 pies.
+FUE	AGI	RES	MNA	SUE
+7	0	3	0	0
+Multiataque. El Tyrannosaurus realiza dos ataques: uno con su mordisco y otro con su cola. No puede realizar ambos ataques contra el mismo objetivo.
+
+Actions
+Mordisco Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 4d12+7 puntos de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, queda agarrada (escapar CD 17). Hasta que la presa termine, el objetivo está apresado y el Tyrannosaurus no puede morder a otro objetivo.
+
+Pisotear Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, una criatura tumbada. Impacto: 5d8+5 puntos de daño contundente.
 
 11
 
@@ -430,6 +671,7 @@ Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como
 
 Competencias
 Hechizos de tipo Evocacion.
+1 tipo de Hechizo a tu elección.
 
 Flujo
 Al nivel 1 obtienes acceso a Puntos de Flujo.
@@ -437,7 +679,7 @@ Al nivel 1 obtienes acceso a Puntos de Flujo.
 Obtienes un numero de Puntos de Flujo igual a tu MNA. Estos puntos se usan para habilidades que otorga esta clase. Los Puntos de Flujo se gastan al ser usados y se recuperan tras un descanso.
 
 Llovizna
-Al nivel 1 puedes creas un Campo Delimitado de Clima como accion bonus, eligiendo cualquier rango hasta 120 pies. Al elegir el efecto Niebla o Nublado comienza a llover.
+Al nivel 1 puedes crear un Campo Delimitado de Clima como acción bonus, eligiendo cualquier rango hasta los 120 pies. Al elegir el efecto Niebla o Nublado comienza a llover.
 
 Además, mientras llueva, como acción puedes gastar 1 Punto de Flujo para enviar un fuerte torrente de lluvia sobre un enemigo. Realiza un ataque de hechizo a distancia. Si impactas, infliges 3d8 de daño por frío.
 
@@ -459,12 +701,12 @@ Al nivel 3 puedes rapidamente interponer corrientes de agua entre tú y un enemi
 Cuando eres atacado por una criatura a 30 pies de ti que puedes ver, puedes usar tu reacción y gastar 1 punto de flujo para distraer al enemigo con una explosion de agua entre los dos, imponiendo desventaja en la tirada de ataque.
 
 Mareas menguantes
-Al nivel 4, después de golpear con éxito a un objetivo usando un hechizo, habilidad o efecto, puedes gastar 1 punto de flujo para invocar una ola de agua que rebota en tu objetivo y otro a 15 pies de distancia o menos.
+Al nivel 4, después de afectar con éxito a un objetivo usando un ataque, habilidad o hechizo puedes gastar 1 punto de flujo para invocar una ola de agua que rebota en tu objetivo y otro a 15 pies de distancia o menos.
 
-El objetivo original recibe 2d6 puntos de daño por frío y el hechizo o efecto se replica en el nuevo objetivo. En caso de elegir un aliado, el objetivo original no recibe daño. Esta habilidad no puede afectar al mismo objetivo dos veces el mismo turno.
+El objetivo original recibe 2d6 puntos de daño por frío y el ataque, habilidad o hechizo se replica en el nuevo objetivo. En caso de elegir un aliado, el objetivo original no recibe daño. Esta habilidad no puede afectar al mismo objetivo dos veces el mismo turno.
 
 Alma tormentosa
-Al nivel 5 puedes gastar 1 flujo durante un clima lluvioso para hacer que un torrente comience a llover y durante 1 minuto tienes puntos de flujo ilimitados.
+Al nivel 5 puedes gastar como acción gratuita 1 Punto de Flujo durante un clima lluvioso para hacer que un torrente comience a llover y durante 1 minuto tienes puntos de flujo ilimitados.
 
 Durante este minuto ocurre lo siguiente:
 
@@ -472,7 +714,8 @@ Las criaturas que no sean tú tienen su vision reducida, realizando ataques a di
 
 Todas las criaturas ganan resistencia al daño por fuego.
 
-Cuando usas la habilidad Llovizna, ahora realizas dos ataques de hechizos a distancia y obtienes un bonificador a la tirada de ataque igual a tu MNA.
+Cuando usas la habilidad Llovizna, ahora realizas dos ataques de hechizos a distancia en lugar de una. y añades tu estadística de MNA a la tirada de daño.
+
 
 
 14
@@ -492,56 +735,53 @@ Armas complejas
 Hechizos de tipo Sacramento
 
 Arsenal Santo
-La Iglesia proporciona Llaves Negras y un Vestido Bendecido a todos sus Enterradores.
+Al nivel 1 la Iglesia le proporciona Llaves Negras a todos sus Enterradores, comenzando con 10 y obtienes 5 adicionales por cada nivel adicional después del primero.
 
-Al nivel 1 comienzas con 10 Llaves Negras y obtienes 5 más por cada nivel que tengas de Enterrador de la iglesia mas alla del primero. Tu Vestido Bendecido es una pieza de equipo que te otorga resistencia a todos los daños no mágicos cortantes, perforantes y contundentes.
+También les da Vestido Bendecido a todos sus Enterradores, que les otorga resistencia al daño físico.
 
 Juicio
-Al nivel 2 obtienes acceso a puntos de juicio.
+Al nivel 2 obtienes acceso a puntos de juicio. Tienes una cantidad de puntos de juicio iguales a tu nivel de Enterrador de la Iglesia, que recuperas tras un descanso. Si tu tipo de criatura no es humano, esta habilidad es sellada.
 
-Usas estos puntos de juicio para mejorar tu magia sagrada para erradicar demonios. Tienes una cantidad de puntos de juicio iguales a tu nivel de Enterrador de la Iglesia.
+Adicionalmente, tus golpes desarmados inflingen 1d4 de daño contundente. Puedes usar FUE o DES para las tiradas de ataque y daño de tus ataques desarmados.
 
-Si tu tipo de criatura no es humano, tus puntos de juicio se sellan permanentemente. Gastas tus puntos de juicio al momento de usarlos y los recuperas tras un descanso.
-
-Adicionalmente, tus golpes desarmados inflingen 1d4 de daño contundente. Puedes usar FUE o AGI para las tiradas de ataque y daño de tus ataques desarmados.
-
-Pilar Sagrado
-Puedes gastar 1 punto de juicio como acción para arrojar un rayo de luz sagrado sobre tu oponente. Las criaturas en un radio de 5 pies de un punto que puedas ver a 60 pies de ti
-se ven obligadas a realizar una tirada de salvación de AGI.
-Si fallan, reciben 3d10 de daño radiante, o la mitad de
-daño si tienen éxito.
-
-Reflejos mejorados
-Puedes gastar 1 punto de juicio para realizar la acción de Esquivar, Huir o Correr como acción bonus.
-
-Mago de batalla
+Peleador santo
 Después de haber realizado un ataque, puedes gastar 1 punto de juicio y una ranura de hechizo (si no es un Truco) como acción bonus para lanzar un hechizo de tipo Sacramento.
 
-Velocidad extrema
+Pilar Sagrado
+Usas tu acción y 1 punto de juicio para lanzar un pilar de luz sagrada. Las criaturas en un radio de 5 pies de un punto que puedas ver a 60 pies de ti se ven obligadas a realizar una tirada de salvación de DES. Si fallan reciben 3d10 de daño radiante, o la mitad de daño si tienen éxito.
+
+Reflejos mejorados
+Puedes gastar 1 pundo de juicio para realizar la acción de Esquivar, Desenganchar o Correr como acción bonus.
+
+Velocidad Extrema
 Al nivel 3 obtienes +10 pies de movimiento.
 
-Puedes usar tu reacción para desviar los ataques con armas a distancia que te golpean. Cuando lo haces, el daño que recibes del ataque se reduce en 1d10 + tu FUE o AGI.
+Cuando realizas la acción de Atque durante tu turno con un golpe desarmado o una Llave Negra, puedes realizar un golpe desarmado como acción bonus.
 
-Cuando realizas la acción de Atacar durante tu turno con un golpe desarmado o una Llave Negra, puedes realizar un golpe desarmado como acción bonus.
+Aegis del justo
+Al nivel 3 cuando fueras a ser dañado, puedes usar tu reacción para invocar una plegaria, envolviendote en una gran esfera de luz sagrada que te protege y repele a tus enemigos. Obtienes 20 puntos de golpe temporales hasta el final de tu próximo turno, y todas las criaturas enemigas en un radio de 10 pies de ti son empujadas 15 pies lejos de ti.
+
+Puedes usar esta habilidad una vez por descanso o gastando un Punto de Juicio sin haber descansado.
+
+Castigo sagrado
+Al nivel 4 aprendes dos hechizos de Sacramento. Además, puedes concentrarte en hasta dos hechizos a la vez, siempre que al menos uno de ellos sea uno de Sacramento.
+
+Cuando impactas con un ataque, puedes gastar un Punto de Juicio o una ranura de hechizo. El ataque inflige 1d8 de daño radiante adicional. Si es una Criatura Hereje o Constructo, el daño aumenta a 2d8 en su lugar.
 
 Marca de la muerte
-Al nivel 4 la primera vez que ves una criatura monstruosa (Demonio,Vampiro,Constructo,Espiritu,No-muerto) aprendes sus debilidades, tipo de magia y estadísticas, si las tiene.
-
-Lanzas Marca del Cazador sobre estas criaturas de manera automatica y el daño del hechizo pasa a ser radiante.
+Al nivel 4 la primera vez que ves una Criatura Hereje o Constructo, aprendes sus estadísticas, resistencias, debilidades e inmunidades, si las tiene. Durante un combate, estas criaturas se consideran bajo los efectos Marca del Cazador, el daño adicional pasa a ser de tipo radiante.
 
 Ataque extra
 Al nivel 5, puedes atacar dos veces en lugar de una cuando usar tu acción para Atacar durante tu turno.
 
-Canalizar divinidad
-Al nivel 5 la fe otorgada a través de tus enseñanzas te otorga un poder especial que puedes invocar una vez por descanso. Elige una de las opciones a continuación.
+Decreto celestial
+Al nivel 5 la fe otorgada a través de tus enseñanzas te otorga un poder especial que puedes invocar una vez por descanso usando tu acción. Si el efecto requiere una tirada de salvación, la CD es igual a 12 + tu MNA. Puedes gastar 2 puntos de juicio para invocar una opción adicional.
 
-Si el efecto requiere una tirada de salvación, la CD es igual a 12 + tu MNA. Puedes gastar 2 puntos de juicio para invocar una opción adicional.
+Elige una de las opciones a continuación.
 
-Arma sagrada. Durante 1 minuto tus ataques y hechizos infligen daño radiante adicional igual a tu MNA si el tipo de la criatura es monstruosa.
-
-Vestido mejorado. Durante 1 minuto tu vestido te otorga resistencia al daño elemental.
-
+Arma sagrada. Durante 1 minuto tus ataques de arma ganan un bono de ataque igual a tu MNA.
 Presión divina. Durante 1 minuto cada vez que una criatura monstruosa finaliza su turno a 30 pies de ti, debera realizar una tirada de salvación de MNA. Si falla, se asusta de ti durante 1 minuto. La criatura puede repetir esta tirada de salvación al final de su turno.
+Vestido mejorado. Durante 1 minuto tu vestido te otorga resistencia al daño elemental.
 
 
 15
@@ -822,22 +1062,24 @@ Magos que practican la manipulación de metales que a menudo son pasados por alt
 
 Estos magos se han entrenado para equilibrar tanto su destreza física con su destreza mágica, de manera que puedan estar al frente en el campo de batalla.
 
-Lanzador de hechizos
-Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
+Medio lanzador de hechizos
+Tu primer nivel de esta clase te da una ranura y un hechizo conocidos, después de este primer nivel, cada dos niveles obtienes una ranura de hechizo y un hechizo conocido.
 
 Competencias
-Armas simples
+Armas complejas
 Hechizos de tipo Transmutacion
-
-Metalurgia
-Al nivel 1 obtienes un numero de puntos de Metalurgia igual a tu nivel en esta clase.
-
-Estos puntos se usan para habilidades que otorga esta clase. Los puntos de metalurgia se gastan al ser usados y se recuperan tras un descanso.
 
 Poder y magia
 Al nivel 1 puedes canalizar tus armas con energía mágica en lugar de tu destreza física.
 
-Puedes usar tu MNA para realizar las tiradas de ataque y daño de tus armas, en lugar de FUE o AGI. Además, estas armas ahora se consideran mágicas.
+Puedes usar tu MNA para realizar las tiradas de ataque y daño de tus armas, en lugar de FUE o DES. Además, estas armas ahora se consideran mágicas.
+
+Si está es tu clase principal puedes usar tu MNA para cumplir cualquier requisito de FUE o DES para armas.
+
+Metalurgia
+Al nivel 2 obtienes un numero de puntos de Metalurgia igual a tu nivel en esta clase.
+
+Estos puntos se usan para habilidades que otorga esta clase. Los puntos de metalurgia se gastan al ser usados y se recuperan tras un descanso.
 
 Caparazón blindado
 Al nivel 2 has aprendido a sintonizarte mágicamente con la armadura que usas.
@@ -854,14 +1096,14 @@ Cuando usas tu acción para lanzar un hechizo de tipo Transmutación, puedes usa
 Tumba metalica
 Al nivel 3 puedes enterrarte en un caparazón de metal para defenderte de los ataques.
 
-Como reacción a recibir daño, obtienes 5 + tu RES puntos de vida temporales por nivel en esta clase, que permanecen hasta el comienzo de tu próximo turno.
+Como reacción a recibir daño, obtienes 30 puntos de vida temporales hasta el inicio de tu siguiente descanso. Además, durante la misma duración, la primera vez que caes a 0 puntos de vida y no mueres instantáneamente, te levantas de nuevo con 1 punto de vida.
 
 Puedes usar Tumba Metalica una vez por descanso.
 
 Transmutación regeneradora
 Al nivel 4 empiezas a reparar tus heridas con el metal afectado por tu magia.
 
-Cuando lanzas un hechizo de tipo Transmutación recuperas 2d8 puntos de vida.
+Cuando lanzas con éxito un hechizo de tipo Transmutación recuperas 2d8 puntos de vida.
 
 Ataque extra
 Al nivel 5 puedes atacar dos veces en lugar de una cuando usar tu acción para Atacar durante tu turno.
@@ -886,13 +1128,13 @@ Armas simples y complejas.
 Potencial latente
 Al nivel 1 tu potencial te posiciona sobre tus compañeros y oponentes por igual.
 
-Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica. (No puede superar el limite de 5)
+Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica mientras que esta no sea SUE o MNA.
 
 Maestro de armas
 Al nivel 1 comienzas con cualquier arma mientras que seas competente con ella.
 
 Si elige un arma de fuego, esta comienza con un accesorio
-de tu eleccion. Mientras empuñas un arma con la que eres competente, aumenta el dado de daño en un nivel.
+de tu eleccion. Mientras empuñas un arma con la que eres competente, tu dado de daño aumenta en una categoría.
 
 Estilo de lucha
 Al nivel 2 obtienes un estilo de lucha. Elige una opción de la lista a continuación, obteniendo la siguiente función.
@@ -903,9 +1145,9 @@ Lucha a ciegas: Obtienes vista ciega en un rango de 15 pies. En este rango, pued
 
 Defensa: Mientras tengas equipada una armadura, obtienes un bonificador de +1 a tu CA.
 
-Duelo: Cuando estás luchando y no hay ningún aliado en un radio de 20 pies del objetivo, obtienes un bonificador de +2 a las tiradas de daño.
+Duelo: Cuando estás luchando y no hay ningún aliado tuyo en un radio de 20 pies del objetivo, obtienes un bonificador de +2 a las tiradas de daño.
 
-Interceptación: Cuando una criatura que puedes ver ataca a un objetivo a 5 pies de ti, puedes elegir usar tu reacción para imponer desventaja en el ataque. Si aun asi el ataque impacta reduces el daño en 1d10. Debes empuñar un arma o escudo para usar esta función.
+Interceptación: Cuando una criatura que puedes ver ataca a un objetivo a 5 pies de ti, puedes elegir usar tu reacción para imponer desventaja en el ataque. Si aun asi el ataque impacta reduces el daño en 1d10 + 3. Debes empuñar un arma o escudo para usar esta función.
 
 Hábil
 Al nivel 3 obtienes dos Dotes. No puedes seleccionar el mismo Dote dos veces.
@@ -913,12 +1155,12 @@ Al nivel 3 obtienes dos Dotes. No puedes seleccionar el mismo Dote dos veces.
 Contraataque
 Al nivel 4 obtienes una acción bonus adicional.
 
-Cuando recibes daño, puedes usar tu reacción para realizar un ataque con arma a tu atacante. Puedes usar esto un número de veces igual a tu RES.
+Cuando recibes daño, puedes usar tu reacción para realizar un ataque con arma a tu atacante. Puedes usar esto un número de veces igual a tu CON.
 
 Acción súbita
 Al nivel 5 puedes reunir la fuerza necesaria para entrar en acción en situaciones de vida o muerte.
 
-Una vez por descanso, puedes usar tu reacción para recargar inmediatamente tu movimiento y realizar otra vez una acción o una acción bonus. Si realizas la acción de Ataque con esa acción adicional se limita a un ataque. Esta habilidad te permite tomar tu turno inmediatamente en cualquier momento cuando es usada.
+Una vez por descanso, puedes usar tu reacción para recargar inmediatamente tu movimiento y realizar otra vez una acción o una acción bonus.
 
 Disparo de adrenalina
 Al nivel 5, puedes soltar los limitadores de tu cuerpo una vez por descanso para entrar en trance de batalla.
@@ -932,7 +1174,7 @@ Tienes ventaja en todas las tiradas de salvación exceptuando las de esta habili
 No puedes quedar Agarrado, Aturdido, Ralentizado, Asustado o Restringido.
 
 Haces todas las tiradas de ataque con ventaja.
-Al inicio de cada turno que te encuentres bajo los efectos de Disparo de Adrenalina debes hacer una prueba de habilidad de RES CD 10. Cada salvación exitosa aumenta la CD en 2 . La primera vez que recibes daño en cada turno, deberas realizar esta prueba de habilidad nuevamente.
+Al inicio de cada turno que te encuentres bajo los efectos de Disparo de Adrenalina debes hacer una prueba de habilidad de CON CD 10. Cada salvación exitosa aumenta la CD en 2 . La primera vez que recibes daño en cada turno, deberas realizar esta prueba de habilidad nuevamente.
 
 Una vez que finaliza el disparo de adrenalina quedas ralentizado hasta que realices un descanso.
 
@@ -1013,50 +1255,47 @@ Hechizos de tipo Conjuración
 Oscuridad
 Al nivel 1 obtienes acceso a Puntos de Oscuridad.
 
-Obtienes un numero de Puntos de Oscuridad igual a tu MNA +1. Estos puntos se usan para habilidades que otorga esta clase. Los Puntos de Oscuridad se gastan al ser usados y se recuperan tras un descanso.
+Obtienes un numero de Puntos de Oscuridad igual a tu MNA + 1. Estos puntos se usan para habilidades que otorga esta clase y se recuperan al finalizar un descanso.
 
 Moldear oscuridad
-Al nivel 1 obtienes la capacidad de moldear oscuridad por un breve periodo de tiempo.
+Al alcanzar el nivel 1, obtienes la capacidad de manipular la oscuridad a tu favor, envolviendo tu cuerpo en sombras por un breve período de tiempo.
 
-Como accion sambuyes tu cuerpo en una profunda oscuridad. Gastando 1 Punto de Oscuridad y tu acción normal en tu turno, puedes obtener los beneficios de encontrarte en oscuridad incluso si estás bajo la luz del día por el resto del combate en el que te encuentres.
+Como acción, puedes sumergirte en una oscuridad absoluta, gastando 1 Punto de Oscuridad. Durante el resto del combate, se te considerará en oscuridad total, incluso si estás bajo la luz del día. Si recibes daño radiante, debes realizar una tirada de salvación de MNA (CD 10 o la mitad del daño radiante recibido, lo que sea mayor). Si fallas, este efecto se disipa.
 
-En caso de recibir daño radiante, debes hacer una tirada de salvación de MNA DC 10 o la mitad del daño radiante recibido, lo que sea más grande, frente este efecto se rompa.
-
-Además, obtienes acceso a la siguiente habilidad que puedes hacer usando un Punto de Oscuridad.
-
-Proyectil del Vacío. Cuando tú o un aliado dentro de un área de 60 pies, que se encuentren sumergidos en oscuridad, reciben un impacto por un proyectil; puedes usar tu reacción para hacer que dicho proyectil sea tragado en la oscuridad y anular el ataque.
+Proyectil del vacío
+Al nivel 1, mientras estés envuelto en oscuridad, si tú o un aliado dentro de un radio de 60 pies (que también esté en oscuridad) son impactados por un proyectil, puedes usar tu reacción y 1 Punto de Oscuridad para absorberlo en las sombras y anular el ataque.
 
 Espectro oscuro
-Al nivel 2 tu poder aumenta al encontrarte en la oscuridad.
+A partir del nivel 2 tu conexión con la oscuridad se fortalece, aumentando el poder de tus hechizos y otorgándote nuevas habilidades.
 
-Cuando estás en la penumbra o la oscuridad, tus conjuros infligen 1d8 de daño necrótico adicional. Este daño aumenta a 2d8 si la criatura dañada es un espiritu. Además, siempre estás bajo los efectos del hechizo Ojo Nocturno.
+Mientras estés en penumbra u oscuridad, tus hechizos infligen 1d8 de daño necrótico adicional. Este daño aumenta a 2d8 si la criatura dañada es un espíritu. Siempre estás bajo los efectos del hechizo Ojo Nocturno.
 
-Además, obtienes acceso a las siguientes habilidades que puedes usar gastando un Punto de Oscuridad.
+Además, puedes gastar 1 Punto de Oscuridad y 1 acción para usar una de las siguientes habilidades:
 
-Bestia de oscuridad. Creas y expulsas desde tu sombra una bestia oscura como la noche que realiza un ataque de miedo contra una criatura que elijas a 30 pies. Dicha criatura debe hacer una tirada de salvación de MNA DC12 vs ser asustada, debiendo repetir la tirada al final de sus turnos en caso de pasarla.
+Bestia de Oscuridad: Desde tu sombra emerges una bestia oscura y aterradora, que ataca la mente de un enemigo a 30 pies de ti. La criatura objetivo debe realizar una tirada de salvación de MNA CD 12 o quedar asustada. Puede repetir la tirada al final de cada uno de sus turnos para intentar resistir el efecto.
 
-Cadenas de oscuridad. Creas en la sombra de una criatura a 30 pies de ti unas cadenas oscuras que la obligan a realizar una tirada de salvacion de AGI DC12. Si falla, queda agarrada hasta el inicio de tu siguiente turno.
+Cadenas de Oscuridad: Invocas cadenas sombrías que emergen de la sombra de una criatura a 30 pies de ti. El objetivo debe hacer una tirada de salvación de DES DC 12. Si falla, queda agarrado hasta el inicio de tu siguiente turno.
 
 Paranoia
-Al nivel 3 aprendes a afectar el plano de la realidad.
+A partir del nivel 3 tu dominio sobre la oscuridad se extiende más allá de lo físico, afectando la misma estructura de la realidad.
 
-Si estás en oscuridad, como accion bonus puedes teletransportarte hasta 30 pies a un espacio desocupado que puedes ver que también está en la penumbra o en la oscuridad.
+Mientras estés en oscuridad, puedes usar tu acción bonus para teletransportarte hasta 30 pies a un espacio desocupado que puedas ver y que también esté en penumbra u oscuridad.
 
 Moldeo superior
 Al nivel 4 tu dominio de la oscuridad aumenta.
 
-Bestia de oscuridad. El DC a superar es aumentado a 17.
+Bestia de oscuridad. La CD a superar es aumentada a 17.
 
-Cadenas de oscuridad. Ahora puedes lanzar las cadenas como acción bonus dentro de la sombra de una criatura en un área de 60 pies de ti, además ahora se aumenta su DC a 15.
+Cadenas de oscuridad. Ahora puedes lanzar las cadenas como acción bonus dentro de la sombra de una criatura en un área de 60 pies de ti, también su CD aumenta a 15.
 
-Proyectil del Vacío. Te curas a ti o a un aliado dentro del rango por la mitad del daño de dicho proyectil.
+Proyectil del Vacío. Al bloquear el ataque, te curas a ti o un aliado dentro del rango de la habilidad igual a la mitad del daño que fuera a recibir el objetivo original del proyectil.
 
 Histeria
-Al nivel 5, te conviertes en la encarnación de la noche.
+Al nivel 5, te conviertes en la encarnación misma de la noche, sumiendo a tus enemigos en la desesperación y el caos.
 
-Cuando una criatura enemiga inicia su turno o termina su turno sumido en oscuridad o penumbra dentro de un rango de 60 pies de ti, debe hacer una tirada de salvación de MNA contra tu Spell DC vs quedar cegada hasta que salga de la oscuridad, debiendo repetir la tirada al final de sus turnos en caso de fallarla.
+Cuando una criatura inicia o termina su turno en penumbra u oscuridad dentro de un radio de 60 pies de ti, debe realizar una tirada de salvación de MNA contra tu CD de hechizos. Si falla, quedará cegada hasta que salga de la oscuridad. La criatura puede repetir la salvación al final de sus turnos para acabar con este efecto sin necesidad de salir de la oscuridad.
 
-Ademas, las criaturas que se encuentren a 60 pies de ti, reciben 3d6 de daño psíquico al inicio de sus turnos por cada uno de los efectos mentales y físicos que estén sufriendo.
+Las criaturas dentro de un radio de 60 pies de ti reciben 3d6 de daño psíquico al inicio de sus turnos por cada estado negativo metal y físico que esté sufriendo.
 
 
 
@@ -1080,8 +1319,14 @@ Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
 
 Usas tu arco de una manera brutal, que usa tu fuerza bruta en lugar de la precisión. Obtienes los siguientes beneficios:
 
-Cuando atacas con un arco corto o largo, puedes usar tu FUE en lugar de AGI para las tiradas de ataque y daño.
-Una vez por turno, puedes aplicar el efecto de un ataque cuerpo a cuerpo a un ataque a distancia.
+Los ataques con arcos realizan un dado de daño adicional.
+
+Cuando atacas con un arco, puedes usar tu FUE en lugar de DES para las tiradas de ataque y daño.
+
+Si realizas un ataque con un arco usando tu FUE, ignoras el CA del objetivo otorgado por su armadura y escudo.
+
+Una vez por turno, cualquier habilidad o maniobra que requiera un golpe cuerpo a cuerpo, puede aplicarse con los ataques de tus arcos.
+
 Compañero animal
 Costo de entrenamiento: 4 de riqueza o 1 nivel de clase
 
@@ -1089,10 +1334,11 @@ Has hecho bien en comunicarte con un animal mágico que está atado a ti por la 
 
 Si te encuentras incapacitado o ausente, tu compañero actúa por su cuenta. Mientras estás en combate con tu compañero animal, obtienes los siguientes beneficios:
 
-Una vez por ronda, cuando realizas la acción de ataque, tu compañero puede realizar un ataque cuerpo a cuerpo.
+Una vez por ronda, cuando realizas un ataque, tu compañero puede realizar un ataque cuerpo a cuerpo.
+
 Cuando eres objetivo de un ataque, tu compañero puede usar su reacción para moverse hasta la mitad de su movimiento sin provocar ataque de oportunidad, ubicarse a 5 pies de ti y ser el nuevo objetivo.
 
-Si usas un hechizo cuyo alcance sea Uno Mismo, este también afecta al compañero, como si se originara de él. Si requiere concentración, tú la mantienes por ambos como si te concentraras en ti mismo.
+Si usas un hechizo cuyo alcance sea Uno Mismo, este también afecta al compañero, como si se originara de él. Si requiere concentración, tú la mantienes por ambos.
 
 Si tu compañero animal llega a morir, puedes pasar 8 horas para invocar el espíritu de tu compañero y crearle un nuevo cuerpo o fuera de combate gastar 1 ranura de hechizo y 1 minuto para invocarlo nuevamente.
 
@@ -1117,25 +1363,36 @@ Asistencia. Tu compañero gastar su acción bonus para realizar la acción de Ay
 
 
 
-25
+18
 
-Maestro en Armaduras
-Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
+Linaje alquímico
+Costo de entrenamiento: 2 de riqueza o 1 nivel de clase
 
-Al obtener esta dote, también recibes una armadura no mágica del Manual del Jugador a tu elección. Además, mientras lleves equipada una armadura, disfrutas de los siguientes beneficios dependiendo del tipo de armadura equipada:
+Eres un heredero del estilo del éter, aunque aún debes perfeccionar tu vínculo con él. Este tatuaje para iniciados fortalecerá tu conexión, ayudándote a comprender el flujo de tus propios circuitos mágicos y cómo moldearlos.
 
-Armadura Ligera: Mientras tengas equipada una armadura ligera, tu CA base se convierte en 12.
-Armadura Media: Mientras lleves armadura media, no sufres penalización en las pruebas de habilidad ni en las tiradas de salvación de Destreza. Además, puedes agregar hasta 3 puntos a tu CA, en lugar de 2, si tu Destreza es lo suficientemente alta.
-Armadura Pesada: Mientras lleves armadura pesada, reduces todo el daño recibido en 5 puntos (excepto si provienen de condiciones o Noble Phantasm). Además, no puedes ser Derribado o Empujado contra tu voluntad mientras estés consciente y tienes ventaja en las tiradas de salvación de Fuerza.
-Puedes equiparte y quitarte la armadura como una acción.
+Aprendes un truco a tu elección que deba infligir daño y un hechizo con el que se te considera conpetente. Este hechizo lo puedes lanzar dos veces por descanso sin gastar ranura de hechizo, si tiene de alcance Toque puedes hacer que su distancia sea de 30 pies en su lugar y puedes cambiar el hechizo aprendido por otro al finalizar un descanso. Al hacerlo, pierdes la competencia con el hechizo anterior, pero la obtienes con el nuevo aprendido.
+
 Resistente
-Costo de entrenamiento: 4 de riqueza o 1 nivel de clase
+Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
 
 Tus innumerables batallas te han hecho muy resistente al arte del combate. Obtienes los siguientes beneficios:
 
 Tus puntos de vida máximos aumentan en 15.
 
-Mientras estes Ensangrentado, elige un tipo de daño elemental y entre Cortante, Contundente o Perforante. Obtienes resistencia a esos tipos de daño hasta que ya no estás ensangrentado.
+Mientras estes Ensangrentado, elige un tipo de daño elemental y otro entre Cortante, Contundente o Perforante. Obtienes resistencia a esos tipos de daño hasta que ya no estás ensangrentado.
+
+Maestro en Armaduras
+Costo de entrenamiento: 2 de riqueza o 1 nivel de clase
+
+Al obtener esta dote, también recibes una armadura no mágica del Manual del Jugador a tu elección. Además, mientras lleves una armadura equipada una armadura, disfrutas de los siguientes beneficios dependiendo del tipo de armadura que lleves equipada:
+
+Armadura Ligera: Mientras tengas equipada una armadura ligera, tu CA base se convierte en 12 y tu velocidad aumenta en 10 pies mientras lleves la armadura.
+
+Armadura Media: Mientras lleves armadura media, no sufres penalización en las pruebas de habilidad ni en las tiradas de salvación de Destreza. Además, puedes agregar hasta 3 puntos a tu CA, en lugar de 2, si tu Destreza es lo suficientemente alta.
+
+Armadura Pesada: Mientras lleves armadura pesada, reduces todo el daño recibido en 5 puntos (excepto si provienen de condiciones o Noble Phantasm). Además, no puedes ser Derribado o Empujado contra tu voluntad mientras estés consciente y tienes ventaja en las tiradas de salvación de Fuerza.
+
+Puedes equiparte y quitarte la armadura como una acción.
 
 
 
@@ -1498,7 +1755,7 @@ Resultado	Hechizos
 8	Ilusión
 9	Sacramento
 10	Tu eliges
-Aprendes todos los hechizos conocidos de esta escuela de magia, siguiendo las mismas reglas para lanzar cada hechizo. Si sale una escuela repetida vuelve a lanzar. Sólo puedes invocar el poder de los hechizos de este tomo tres veces. Después del tercer uso, el tomo se cierra hasta tu próximo descanso.
+Aprendes todos los hechizos conocidos de esta escuela de magia, siguiendo las mismas reglas para lanzar cada hechizo. Si sale una escuela repetida puedes volver a lanzar. Sólo puedes invocar el poder de los hechizos de este tomo tres veces. Después del tercer uso, el tomo se cierra hasta tu próximo descanso.
 
 
 
@@ -1512,13 +1769,13 @@ Son la hechicería más antigua conocida por los humanos, y no se derivan ni de 
 Ojo místico de decadencia
 Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase
 
-Como acción obligas a una criatura que puedes ver a realizar una tirada de salvación de RES CD 17. Si falla, infliges a la criatura los siguientes efectos.
+Como acción obligas a una criatura que puedes ver a realizar una tirada de salvación de CON CD 17. Si falla, infliges a la criatura los siguientes efectos.
 
 Las resistencias de la criatura se anulan y las inmunidades se convierten en resistencia.
 
 El daño infligido por la criatura se reduce a la mitad.
 
-No obtienen ningún beneficio a su CA por su AGI.
+No obtienen ningún beneficio a su CA por su DES.
 Las criaturas afectadas realizan una tirada de salvacion de RES al final de sus turnos para librarse de los efectos.
 
 Solo puedes usar esta habilidad una vez por descanso.
@@ -1529,19 +1786,18 @@ Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase
 Como acción eliges una criatura u objeto que puedas ver en un radio de 60 pies centrado en ti. Si eliges una criatura, esta debe realizar una tirada de salvación DC17 MNA.
 
 Si falla, recibe 6d6 de daño por fuego y todo su cuerpo se envuelve llamas, o recibe la mitad de daño si tienen éxito. Una criatura en llamas recibe 5 de daño por fuego al final
-de sus turnos y debe realizar una tirada de salvación de AGI CD 17 al inicio de sus turnos para apagar las llamas.
+de sus turnos y debe realizar una tirada de salvación de DES CD 17 al inicio de sus turnos para apagar las llamas.
 
-Si una criatura sostiene al objetivo, debe soltarlo o realizar una tirada de salvación de RES CD 17. Si falla, todo su cuerpo se envuelve llamas.
+Si una criatura sostiene al objetivo, debe soltarlo o realizar una tirada de salvación de CON CD 17. Si falla, todo su cuerpo se envuelve llamas.
 
 Esta habilidad tiene una recarga de 5 - 6.
 
 Ojo místico de suspencion
 Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase
 
-Como acción eliges una criatura u objeto que puedas ver dentro del alcance se eleva verticalmente hasta 20 pies.
-El objetivo queda suspendido, considerandose agarrado.
+Como acción eliges una criatura u objeto que puedas ver dentro de 90 pies y se eleva verticalmente hasta 20 pies. El objetivo queda suspendido, considerándose agarrado.
 
-Si eliges una criatura, debe realizar una tirada de salvación de FUE CD 17. Las criaturas repiten esta tirada de salvación al final de sus turnos. Como acción, si una criatura u objeto esta levitando, lo puedes lanzar. El objetivo sufre 5d8 de daño contundente y queda tumbado. Si tu objetivo choca con otro objetivo, este también recibe el daño.
+Si eliges una criatura, debes realizar una tirada de salvación de FUE CD 17. Las criaturas repiten esta tirada de salvación al final de sus turnos. Como acción, si una criatura u objeto está levitando, lo puedes lanzar. El objetivo sufre 5d8 de daño contundente y queda tumbado. Si tu objetivo choca con otro objetivo, este también recibe el daño.
 
 Pasivamente, puedes levantarte y flotar 5 pies sobre el suelo. Mientras levitas, eres inmune al terreno difícil y flotas sobre otros efectos terrestres.
 
@@ -1587,7 +1843,7 @@ Un halo plateado aparecerá flotando unos centímetros por encima de su cabeza, 
 
 Cuando sus puntos de vida sean reducidos a 0, la aureola comenzara a brillar más, imponiendo desventaja a todos los ataques realizados contra el objetivo.
 
-La luz cálida otorga inmediatamente a la criatura una salvación contra muerte exitosa y otorga ventaja en las tiradas de salvación de muerte. Al estabilizarse, la aureola estalla, curando al objetivo una cantidad de puntos de vida igual a 1d8 + su RES, finalizando el hechizo.
+La luz cálida otorga inmediatamente a la criatura una salvación contra muerte exitosa y otorga ventaja en las tiradas de salvación de muerte. Al estabilizarse, la aureola estalla, curando al objetivo una cantidad de puntos de vida igual a 1d8 + su CON, finalizando el hechizo.
 
 La primera vez que la criatura moriría al fallar la tercera tirada de salvación de muerte, la aureola estalla. El fallo se niega, pero el hechizo termina.
 Escudo de platino

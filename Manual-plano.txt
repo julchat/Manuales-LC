@@ -1,62 +1,5 @@
-Prefacio
-Fate/Lost Continuum es un juego de rol de mesa creado utilizando las reglas básicas de D&D 5e. En este documento no se utiliza nada más de 5e (razas, clases, monstruos, etc.).
-
-También se han realizado ajustes y adiciones a las reglas básicas para sumergir aún más al Nasuverso al conjunto de reglas de 5e. Estos cambios se pueden encontrar y se explicaran más adelante en el manual.
-
-El propósito de este juego es recrear una "Guerra del Santo Grial" de la serie Fate de Kinoko Nasu como un PvP TTRPG. Personalmente, no creo que 5e sea el sistema más adecuado, pero valoro mucho su accesibilidad para los recién llegados.
-
-Al leer, ten en cuenta que este documento asume que estás familiarizado con las reglas básicas de 5e, así como con la saga Fate. Fate/Lost Continuum fue creado por Kodakzing con mucha ayuda de algunos amigos increíbles.
-
-Para todos los que leen esto y que han estado allí desde el principio, incluso antes de que existiera este manual, mi corazón está con ustedes. Lo que comenzó como una lista de habilidades y tiradas de dados en un servidor de Discord de 8 personas se ha convertido en algo que ha unido a la gente.
-
-Nunca hubiera imaginado que este juego crecería como lo hizo, y no tengo a nadie más que a ti a quien agradecer por eso. Los amo, chicos, gracias por seguir con esto todo el tiempo que lo han hecho. Que podamos tener juntos muchas grandes Guerras del Grial en el futuro.
-
--- Koda
-
-1
-
-Capítulo 0: Reajustes
-A pesar de usar el conjunto de reglas de D&D 5ta Edicion, Fate/Lost Continuum usa una hoja de personaje diferente.
-
-Se cambian las estadísticas, el equipo, la habilidad con hechizos, la clase de armadura y los valores de puntos de vida de un personaje. Cosas como razas y habilidades se eliminan por completo.
-
-Los personajes de los jugadores, conocidos como Magos, tampoco suben de nivel en el sentido tradicional. En cambio, distribuyen 6 niveles de clase durante la creación de sus personajes. Más allá de eso, no hay forma de "subir de nivel" o de obtener "puntos de experiencia".
-
-Estadísticas
-Como ya se dijo, el juego no utiliza las estadísticas de la quinta edicion. En cambio, Magos, Servants, y hasta los civiles tienen solo 5 estadísticas.
-
-Fuerza (FUE): Estadistica principal para el uso de armas cuerpo a cuerpo.
-
-Destreza (DES): Determina la armadura y sirve como estadistica principal para el uso de armas a distancia.
-
-Constitucion (CON): Determina tu vida máxima.
-
-Mana (MNA): Habilidad principal para lanzar hechizos.
-
-Suerte (SUE): Agregas tu suerte como una bonificación a cada tirada de salvación.
-
-Tienes 12 puntos para distribuir entre todas tus estadísticas hasta un maximo de 5 en cada una.
-
-Por ultimo, en lugar de dividir la puntuación como ocurre en la 5ta edicion, tus estadísticas ya actúan como modificadores.
-
-Abreviaciones
-Debido a la amplitud de D&D5E y la inclusión de elementos de otra franquicia, se optó por usar palabras clave para agrupar características comunes de manera concisa.
-
-Daño Elemental: Es un grupo de tipos de daño, siendo estos: daño por ácido, frío, fuego, rayo y trueno.
-
-Daño Físico: Daño contundente, cortante y perforante de procedencia no mágica.
-
-Dolencia Física: Incluye los estados de Sangrado, Ralentizado, Quemado y cualquier otro que afecte al cuerpo, como Perdición o el Aturdimiento por balas o una granada. No aplica a estados como Agarrado o Tumbado, ni a efectos mentales como Sugestión o Encantar Criatura.
-
-Interferencia Mental: Incluye los estados de Atemorizado y Encantado, además de hechizos y habilidades similares a hechizos que alteren el comportamiento, como Sugestión o los Ojos Místicos de Vinculación, pero no aquellos que no afecten directamente a la psique de individuo, como Perdición.
-
-Estados
-No se eliminan o modifican los estados de DnD 5ta edicion, en cambio, se agregan algunos para ampliar y mejorar la experiencia de rol de los jugadores.
-
-Sangrado: La criatura recibe 5 de daño cortante al final de cada uno de sus turnos. La criatura puede repetir una tirada de salvación de CON con un CD determinado por la fuente de la condición al final de cada uno de sus turnos.
-Ensangrentado: Una criatura se ensangrenta cuando su vida esta debajo del 50% de su máximo. La condición en sí no hace nada, pero hay otras habilidades que juegan con criaturas ensangrentadas.
-Ralentizado: La velocidad de movimiento de la criatura se ve reducida a la mitad y tiene desventaja en todas las pruebas de habilidad y tiradas de salvación de DES.
-Quemado: El objetivo recibe 5 puntos de daño de fuego al inicio de sus turnos, puede quitarse esta condición usando una acción u otra criatura use su acción para apagar las llamas. También se puede deshacer recibiendo daño de frío o hundirse en agua.
+ pruebas de habilidad y tiradas de salvación de DES.
+Quemado: La criatura recibe 5 puntos de daño de fuego al inicio de sus turnos, puede quitarse esta condición usando una acción u otra criatura use su acción para apagar las llamas. También se puede deshacer recibiendo daño de frío o hundirse en agua.
 Hechizos y ranuras de hechizo
 Todos los hechizos siguen compartiendo las mismas reglas de lanzamiento y siguen consumiendo una ranura de hechizo. Ademas, los hechizos no tienen un nivel de hechizo como tal, todos se consideran del mismo nivel.
 
@@ -71,6 +14,13 @@ En cualquier momento, ya sea durante la creacion de tu mago o en el transcurso d
 
 Los vendedores en el mapa ofrecen sus productos a cambio de una cantidad de riqueza. Cosas menores, como vivienda o la comida, se cubren sin consumir ningún tipo de recurso.
 
+Descansar
+Con los cambios realizados en el sistema de personajes de la 5ta edicion, el descanso funciona de manera ligeramente diferente pues no existen los descansos cortos.
+
+Como Mago, tus circuitos mágicos te ofrecen lo suficiente como para renunciar a esas medias tintas. Puedes dedicar 8 horas a tomar un descanso largo (denominado simplemente "descanso" de aquí en adelante).
+
+Al hacerlo, tu vida se regenera al maximo, se recargan las ranuras de hechizo gastadas y los usos de tus habilidades. También te limpiarás de ciertos efectos negativos que aclaren que durarán hasta después de tu próximo descanso.
+
 Competencias
 En lugar de una bonificación por competencia tradicional, Fate/Lost Continuum utiliza un sistema de competencia que fomenta la especialización.
 
@@ -78,19 +28,21 @@ Si utilizas un arma o hechizo con el que no eres competente, haces el ataque con
 
 Si el hechizo obliga a superar una tirada de salvación, los objetivos la realizan con ventaja.
 Si el hechizo causa efectos negativos o positivos a una criatura, la duración y cualquier efecto que brinde se divide por 2 (Redondeado hacia abajo) si corresponde.
-Solo ganas las competencias enumeradas en el Trasfondo y en la Clase Principal que elijas. Si dos fuentes diferentes te otorgan la misma competencia, puedes elegir una competencia diferente mientras sea del mismo tipo (Hechizo o arma).
+Solo ganas las competencias indicadas en tu Trasfondo y Clase Principal. Si recibes la misma competencia de dos fuentes, puedes elegir otra del mismo tipo (hechizo o arma).
+
+Si un arma requiere un trasfondo o clase específica, se te considera competente con esta si cumples los requisitos, tengas o no el tipo de competencia del arma.
 
 Regla opcional: Modificación a la ronda sorpresa.
-En D&D5e, las reglas establecen que los objetivos sorprendidos no pueden realizar acciones ni reacciones durante la primera ronda del encuentro. Sin embargo, dado que este es un juego enfocado en el PvP (Jugador contra Jugador), esto puede llevar a situaciones donde los encuentros terminen sin que el objetivo sorprendido tenga la oportunidad de reaccionar, lo que podría generar una mala experiencia de juego. Por este motivo, se ha ajustado la mecánica de la condición de sorpresa.
+En D&D5e, las reglas establecen que los objetivos sorprendidos no pueden realizar acciones ni reacciones durante la primera ronda del encuentro. Sin embargo, dado que este es un juego enfocado en el JcJ (Jugador contra Jugador), esto puede llevar a situaciones donde los encuentros terminen sin que el objetivo sorprendido tenga la oportunidad de reaccionar, lo que podría generar una mala experiencia de juego. Por este motivo, se ha ajustado la mecánica de la condición de sorpresa.
 
 En este juego, la condición de sorpresa se reduce de una ronda completa a un solo turno para la criatura que sorprende. Esto significa que en lugar de toda una ronda de sorpresa, el atacante únicamente tiene un turno sorpresa, que se le dará al inicio de la primera ronda (además de su turno normal). Tras este turno adicional, el combate sigue de manera normal, permitiendo a todos los participantes actuar según el orden de iniciativa, dicho turno adicional desaparece tras la primera ronda. Las criaturas sorprendidas siguen las mismas reglas de la condición de Sorprendido de D&D5E.
 
-Descansar
-Con los cambios realizados en el sistema de personajes de la 5ta edicion, el descanso funciona de manera ligeramente diferente pues no existen los descansos cortos.
+Acción de ronda completa
+Originaria de ediciones anteriores de D&D, quedó obsoleta al actualizarse el sistema de turnos. Sin embargo, por temas de equilibrio, ha sido adaptada para utilizarse en este sistema.
 
-Como Mago, tus circuitos mágicos te ofrecen lo suficiente como para renunciar a esas medias tintas. Puedes dedicar 8 horas a tomar un descanso largo (denominado simplemente "descanso" de aquí en adelante).
+Algunas habilidades (generalmente Noble Phantasm) requieren una Acción de Ronda Completa para activarse. Esto significa que debes utilizar tu Acción, Acción Bonus y consumir el movimiento de ese turno. Una vez ejecutada la acción, solo puedes moverte hasta 5 pies sin realizar ninguna otra interacción, y tu turno termina inmediatamente.
 
-Al hacerlo, tu vida se regenera al maximo, se recargan las ranuras de hechizo gastadas y los usos de tus habilidades. También te limpiarás de ciertos efectos negativos que aclaren que durarán hasta después de tu próximo descanso.
+Si posees acciones adicionales (como las otorgadas por el hechizo Acelerar), también deben usarse para llevar a cabo la Acción de Ronda Completa.
 
 
 
@@ -116,7 +68,7 @@ Un dia dentro del juego pasa por 3 fases: Día, Tarde y Noche, las cuales duran 
 Acciones fuera de combate
 Después de que se les indique a todos los jugadores en qué fase comienza el juego (Día, Tarde o Noche) y una ubicación de inicio, comienza el juego. Ahora tienes todo el control de tu Mago y puedes hacer lo que quieras.
 
-Ciertas acciones tales como explorar el mapa, preparar un hechizo ritual o descansar tardan 8 horas en realizarse por completo, por lo que si eliges hacer algo que toma 8 horas, eso será todo lo que seras capaz de hacer hasta que el DJ anuncie que el juego ha pasado a la siguiente fase.
+Ciertas acciones tales como explorar el mapa, preparar un hechizo ritual, trabajar o descansar tardan 8 horas en realizarse por completo, por lo que si eliges hacer algo que toma 8 horas, eso será todo lo que seras capaz de hacer hasta que el DJ anuncie que el juego ha pasado a la siguiente fase.
 
 Los juegos de Fate/Lost Continuum están destinados a tener lugar durante varios días de la vida real, lo que significa que no todos los jugadores deben estar activos para que alguien envíe una acción. Si hay una batalla entre jugadores, solo las partes relevantes deben estar disponibles.
 
@@ -193,13 +145,13 @@ También pueden localizarse vendedores simples, no mágicos, según el mapa en e
 Cada vez que exploras, puedes optar por buscar un vendedor magico o normal. Hacerlo lleva 8 horas y no se necesita una tirada de exploracion para localizarlos.
 
 Adquirir un vehículo
-Puedes comprar un vehículo con puntos de riqueza cuando creas tu personaje en la sección de Artículos y Equipo.
+Puedes comprar un vehículo con puntos de riqueza cuando creas tu personaje en la sección de Artículos y Equipo. Estos cuentan como monturas para habilidades que requieran una.
 
 Sin embargo, también puedes comprarle a uno de ciertos proveedores durante el juego o robar uno según el area en la que estés jugando. Para robar un vehículo, debes realizar dos pruebas de habilidad de DES. La primera es una tirada de Sigilo y la siguiente es para robar el vehículo.
 
 En caso de que seas atrapado robando un vehículo, ganaras una recompensa pública por tu cabeza.
 
-Conducir un vehículo otorga una bonificación de +2 a todas las tiradas de exploración, y cuando exploras varias áreas, la penalización se reduce a -1.
+Explorar con una montura otorga una bonificación de +2 a todas las tiradas de exploración, y cuando exploras varias áreas, la penalización se reduce a -1.
 
 Recompensas por el jugador
 Tus acciones no están exentas de consecuencias solo porque estás luchando en una Guerra del Santo Grial. Si cometes delitos a plena luz del día y te ven, se emitirá una recompensa pública por ti.
@@ -266,6 +218,13 @@ Los servants de la clase Berserker tienen una gran ventaja sobre los demás en l
 
 Esta habilidad se puede activar solo una vez por descanso, y sólo al final del turno de una criatura. Al hacerlo, el Servant puede utilizar una acción o acción bonus. Como comparativa: es similar a una "acción legendaria" de D&D5E.
 
+Al borde del abismo
+Los Servants son seres invocados por el Grial para luchar en una Guerra que puede decidir el curso del mundo, por lo que, por más débiles que estos sean en comparación a sus iguales, tienen la resiliencia suficiente para intentar seguir manteniéndose en este mundo.
+
+Normalmente los PNJ (Personajes no Jugables) no tienen salvaciones de muerte, a menos que el DJ lo considere necesario para algún PNJ importante, pero los Servants, debido a sus caracterícticas sobrehumanas, pueden realizar salvaciones de muerte, siguiendo sus reglas con normalidad..
+
+Si el DJ lo considera pertinente, puede considerar que, debido a historia de un Servant particular, contexto de la situación en la Guerra u otros factores, un Servant no tiene salvaciones de muerte. Se recomienda en este caso dar previo aviso a los jugadores involucrados.
+
 
 
 6
@@ -275,22 +234,20 @@ Todos los Servants necesitan la energía mágica que les proporcionan sus Master
 
 Asesinar a los vivos y permitir que tu Servant consuma sus almas es una de esas formas. Aunque este es un proceso muy dudoso debido a la atención que en definitiva atraerá hacia ti y tu Servant, puede ser una alternativa a la que recurrir si llegas a necesitarla.
 
-Tanto Magos y Servants tienen la capacidad de acabar con la vida de civiles en cuestion de segundos. No habrá ningún combate involucrado aquí. En cambio, mientras estás fuera de combate, puedes pasar 8 horas en una sola área del mapa recolectando almas. Después de hacerlo, cualquier drenaje de estadísticas que tengas se anulará durante 24 horas.
+Tanto Magos como Servants tienen la capacidad de acabar con la vida de civiles en cuestion de segundos. No habrá ningún combate involucrado aquí. En cambio, mientras estás fuera de combate, puedes pasar 8 horas en una sola área del mapa recolectando almas. Después de hacerlo, cualquier drenaje de estadísticas que tengas se anulará durante 24 horas y se obtiene un uso de Noble Phantasm adicional. También fortaleces a tu Servant por la misma duración: obtendrá puntos de vida temporal igual a 50 + su CON x 10, acumulable con otras fuentes y +3 a sus tiradas de ataque y daño.
 
-El consumo de almas también puede ser una manera para fortalecer a tu Servant, incluso aunque ya le proporciones suficiente energía mágica. Después de 8 horas de recolectar almas de civiles, tu Servant también obtendrá puntos de vida temporal igual a 20 + su CON.
-
-Ten en cuenta que matar a inocentes siendo un mago es extremadamente divisivo. Si otros magos se enteran de tales actos, tendrán una razón para ir tras de ti. Si se informa a la Iglesia, esta le otorgará una recompensa a los otros Masters participantes si se encargan de ti.
+Ten en cuenta que, aunque los beneficios obtenidos a través del consumo de alma son muy buenos, matar a inocentes siendo un mago es extremadamente divisivo. Si otros magos se enteran de tales actos, tendrán una razón para ir tras de ti. Si se informa a la Iglesia, esta le otorgará una recompensa a los otros Masters participantes si se encargan de ti.
 
 Noble Phantasm
 El Noble Phantasm de un Servant es una habilidad especial unica que poseen y que encarna una parte de su leyenda.
 
 Muchos Servants tienen múltiples Noble Phantasms, y al ser habilidades con un poder inmenso, también requerirán una inmensa cantidad de energía mágica.
 
-Un Servant tendrá energía mágica para alimentar un único uso de Noble Phantasm cada 24 horas. Los usos múltiples de un Noble Phantasm requieren energía mágica del Master. Para esto, el Master debe hacer una prueba de MNA con una CD dada por el DJ.
+Un Servant tendrá energía mágica para alimentar un único uso de Noble Phantasm cada 24 horas. Los usos múltiples de un Noble Phantasm requieren energía mágica del Master. Para esto, el Master debe hacer una prueba de MNA con una CD dada por el DJ. Se recomienda que la CD sea igual a la salvación que corresponde al rango del Noble Phantasm, pero puede ser mayor o menor dependiendo de como el DJ interprete la situación para forzar su uso.
 
-Si logras superar la prueba de habilidad el Noble Phantasm se libera y la CD aumenta en 2 hasta el final del siguiente descanso del Master. Si fallas la prueba de habilidad el Noble Phantasm aún se libera, pero el Master queda incapacitado durante 8 horas.
+Si logras superar la prueba de habilidad el Noble Phantasm se libera y la CD aumenta en 2 hasta el final del siguiente descanso del Master. Si fallas la prueba de habilidad el Noble Phantasm aún se libera, pero el Master queda inconsciente durante 8 horas.
 
-En cambio, si el resultado de la prueba de habilidad llega a ser un fallo crítico, el Noble Phantasm no se llega a liberar y el Master muere.
+En cambio, si el resultado de la prueba de habilidad llega a ser un fallo crítico (1 natural en el d20), el Noble Phantasm no se llega a liberar y el Master muere. Esta muerte no puede ser evitada por ningún medio.
 
 Estado del Servant
 Tu Servant y tú pueden comunicarse telepáticamente entre sí sin importar la distancia que los separa. Además, puedes leer libremente el estado de tu Servant si tan solo lo imaginas en tu mente. Sabrás de inmediato sus estadísticas y habilidades de clase al ser convocados, pero las habilidades personales y Noble Phantasm no se revelan a menos que el propio Servant te lo permita saber o que tú mismo seas testigo de la habilidad.
@@ -298,21 +255,21 @@ Tu Servant y tú pueden comunicarse telepáticamente entre sí sin importar la d
 También puedes ver los estados de los Servants enemigos que puedes ver usando una acción en tu turno. Las mismas reglas se aplican a lo que se le revela en su hoja de estado.
 
 Demi-Servants
-Hay algunos Servants que no pueden ser convocados con una forma física. En este caso, buscarán poseer el cuerpo de su Master durante el ritual de invocación. Cuando un mago se convierte en un recipiente para un espíritu heroico, se le conoce como un Pseudo-Servant.
+Hay algunos Servants que no pueden ser convocados con una forma física. En este caso, buscarán poseer el cuerpo de su Master durante el ritual de invocación. Cuando un mago se convierte en un recipiente para un espíritu heroico, se le conoce como un Demi-Servant. Convertirse en un Demi-Servant es una tarea complicada, por lo que es una rareza extrema.
 
 Jugar como un Demi-Servant es diferente a jugar como un dúo tradicional Master / Servant. Tu, como Master, te vuelves enormemente poderoso debido al espíritu heroico, ganando sus habilidades como Servant además de las habilidades que ya tenías como mago.
 
-Tus estadísticas se reemplazan por los del Servant, pero puedes elegir una sola estadística y aumentarla en un solo rango para representar sus parámetros anteriores.
+Tus estadísticas se reemplazan por los del Servant, pero puedes elegir una sola estadística y aumentarla en un solo rango para representar sus parámetros anteriores (esto puede superar el límite de 5). Tus puntos de vida máximo aumentan en 50 puntos.
 
-En lugar de que el DJ controle al Servant en combate, compartes el control de ti mismo como Pseudo-Servant. Normalmente, tendrás el control total. Sin embargo, puede haber ocasiones en las que el espíritu heroico decida que debe intervenir y el DJ se hará cargo.
+Sigues las reglas de Servant en vez de Master (incluyendo sus puntos de vida base), con la excepción de los apartados de vivir sin un Master, ya que tu eres tu propio Master, y Forma Espiritual, porque pese a tener un espíritu heróico dentro tuyo, no eres un Espíritu, por lo que conservas tu raza (constructo, demonio, humano, etc), a menos que dicho Servant sea clasificado de otra manera, en dicho caso eres tu raza actual y la del Servant a la vez. Las reglas generales de Servants están descritas en la siguiente página
+
+En lugar de que el DJ controle al Servant en combate, compartes el control de ti mismo como Demi-Servant. Normalmente, tendrás el control total. Sin embargo, puede haber ocasiones en las que el espíritu heroico decida que debe intervenir y el DJ se hará cargo.
 
 Compartir tu cuerpo con un espíritu heroico puede resultar complicado. Quizás buscarán anular tu voluntad y desfilarán con tu cuerpo, sofocando tus intentos de actuar o hablar.
 
 Por esta razón puedes intentar restarle valor a la cantidad de información que tienen sobre tu cuerpo al obligarlos a hacer una tirada de salvación de MNA. Si fallan, asumirás el control hasta el final de tu próximo turno. El espíritu heroico puede hacer lo mismo.
 
 Con el uso de Sellos de Comando puedes obtener un control total sobre tu cuerpo durante 8 horas.
-
-Convertirse en un Demi-Servant es una tarea complicada, por lo que es una rareza extrema. Algunos Espíritus Heroicos que necesitan una vasija humana pueden incluso preguntarte de antemano si estás dispuesto a fusionarte con el para asi convertirte en un Pseudo-Servant, materializándose con una vasija aleatoria si no lo estás.
 
 7
 
@@ -335,13 +292,13 @@ Letra	Estadística
 E-D	No hay efecto
 C-B	Una vez por descanso puede volver a lanzar una salvación
 A-EX	Una vez por descanso puede salvar con éxito cualquier salvación.
-El valor numérico de la suerte no influye en la salvación, sino la letra, por lo que un Servant de suerte D+, aunque su valor sea igual a la de suerte C, no podrá volver a lanzar una salvación.
+El valor numérico de la suerte no influye en la salvación, sino la letra, por lo que un Servant de suerte B+, aunque su valor sea igual a la de suerte A, no tendrá la salvación exitosa.
 
 Defendiendo a su Master
 Cuando eres es el objetivo de un ataque o hechizo, tu Servant puede usar su reacción para ocupar un espacio dentro de los 5 pies cerca tuyo, siempre que tu estés dentro de su línea de visión y dentro del rango de su movimiento, convirtiéndose así en el nuevo objetivo del ataque o hechizo. Si la reacción se utiliza en respuesta a una tirada de salvación de un ataque de daño en área, el Servant falla automáticamente, pero a cambio, pasas automáticamente la Salvación
 
 Forma espiritual
-Aunque frecuentemente se puede olvidar, hay que recordar que los Servants carecen de un cuerpo propio, teniendo que usar el maná para estar físicamente en este mundo, por lo que son tratados como espíritus.
+Los Servants carecen de un cuerpo propio, teniendo que usar el maná para estar físicamente en este mundo, por lo que son tratados como Espíritus.
 
 Un Servant puede asumir una forma inmaterial como acción cuando está fuera de combate. En esta forma se vuelve invisible para todas las criaturas, permitiéndole moverse sin ser detectado y eludir peligros.
 
@@ -361,10 +318,6 @@ Resiliencia Espiritual
 Los Servants son conocidos por algunos como "El familiar definitivo", y con justa razón: sus habilidades superan por mucho lo que cualquier mago común podría siquiera soñar
 
 La diferencia es tan grande entre un Servant y un Mago corriente, que los Servants son considerados como Resistentes a todo daño proveniente de algún Master y, además, tienen resistencia al daño contundente, cortante y perforante no mágico.
-
-
-
-
 
 
 
@@ -412,7 +365,7 @@ Si alguien intenta realizar una acción que infringiría los términos escritos,
 Sellos de Comando
 Se otorgan a los magos al momento de ser elegidos por el Santo Grial para luchar siendo un Master. Son hechizos de un uso que se materializan en alguna parte del cuerpo del mago como una marca física.
 
-Son extremadamente poderosos, muy similares en poder a la hechicería y, como sugiere su nombre, el uso principal de los Sellos de Comando es ordenar temporalmente la obediencia de tu Servant convocado.
+Son extremadamente poderosos, muy similares en poder a la hechicería y, como sugiere su nombre, el uso principal de los Sellos de Comando es ordenar temporalmente la obediencia de tu Servant convocado. No es posible lanzar Contrahechizo o habilidades similares para interrumpir su lanzamiento.
 
 Comienzas el juego con 3 Sellos de Comando.
 
@@ -426,7 +379,7 @@ Como parte del lanzamiento de este hechizo, dale una orden a tu Servant. Si no e
 
 Otro uso de los Sellos de Comando es darle a tu Servant un aumento de poder de manera temporal.
 
-Los Sellos de Comando son liberaciones extremadamente grandes de energía mágica, por lo que darle a tu Servant esta energía puede permitirle desempeñarse en combate mucho más allá de sus límites.
+Los Sellos de Comando son liberaciones extremadamente grandes de energía mágica, por lo que darle a tu Servant esta energía puede permitirle desempeñarse en combate mucho más allá de sus límites. A continuación hay comandos comunes que se utilizan en combate. Cabe destacar que también es posible usarlos como Acción.
 
 Comando de mejora
 Hechiceria
@@ -434,7 +387,7 @@ Tiempo de lanzamiento: 1 reaccion
 Rango: N/A
 Componentes: V, S, M (Un sello de comando)
 Duración: Instantaneo
-Como parte del lanzamiento de este hechizo, dale una orden a tu Servant eligiendo de la lista a continuación. Este hechizo sigue las mismas reglas que un Sello de comando.
+Como parte del lanzamiento de este hechizo, dale una orden a tu Servant eligiendo de la lista a continuación.
 ¡Da tu próximo golpe con todas tus fuerzas! - El siguiente ataque de tu Servant gana un bonificador +10 a las tiradas de ataque y daño. Si el ataque de tu Servant fuerza una tirada de salvación, la CD de salvación aumenta en 5.
 ¡Cura tus heridas! - Tu Servant gana una cantidad de puntos de vida temporal igual a 50 + tu MNA. Si el Servant esta incapacitado, revive con 1 punto de vida.
 ¡Usa tu Noble Phantasm! - Tu Servant libera inmediatamente su Noble Phantasm usando la energía proporcionada por el sello de comando. Esto no cuenta para su lanzamiento único de noble phantasm cada 24 horas ni te obliga a hacer ninguna tirada de salvación.
@@ -450,7 +403,7 @@ Rango: N/A
 Componentes: V, S, M (Un sello de comando)
 Duración: Instantaneo
 Como parte del lanzamiento de este hechizo, dale una orden a tu Servant elegido de la lista a continuación.
-¡Ven! - Tu Servant será transportado a tu ubicación actual, sin importar en dónde se encuentres. Aparece en un espacio libre a 10 pies de ti. Si usas esto como reacción al ser el objetivo de un ataque, tu Servant puede interceptar el ataque y convertirse en el nuevo objetivo.
+¡Ven! - Tu Servant será transportado a tu ubicación actual, sin importar en dónde se encuentres. Aparece en un espacio libre a 10 pies de ti. Si usas esto como reacción al ser el objetivo de un ataque, tu Servant puede interceptar el ataque y convertirse en el nuevo objetivo. Si era un hechizo o habilidad de daño en área, entonces el Servant falla automáticamente la salvación y previene todo el daño hacia su Master.
 ¡Prepárate! - Tu Servant gana inmunidad al siguiente daño que reciba y resistencia a todos los demás daños hasta el comienzo de su siguiente turno.
 ¡Corre! - Tu Servant puede moverse el doble de su velocidad de movimiento en cualquier dirección.
 
@@ -481,7 +434,7 @@ Armas simples.
 Armas cuerpo a cuerpo complejas.
 
 Riqueza
-Comienzas con 6 de riqueza.
+Comienzas con 8 de riqueza.
 
 Mano firme
 Tus puños infligen 1d6 de daño contundente y puedes atacar con ellos usando FUE o DES. Además, tienes un bonificador de +2 a todas las tiradas de ataque cuerpo a cuerpo.
@@ -553,19 +506,19 @@ Comienzas con 4 de riqueza.
 Reflejos competentes
 Tu destreza fisica y reacciones rápidas son probablemente la única razón de que sigas vivo.
 
-Realizas con ventaja las pruebas de habilidad y tiradas de salvación de AGI.
+Realizas con ventaja las pruebas de habilidad y tiradas de salvación de DES.
 
 Potencial ilimitado
 A diferencia de cualquier otro personaje, no comienzas el juego con 6 niveles de clase.
 
-En cambio, comienzas con 1 nivel de clase y obtienes 1 nivel de clase adicional al final de cada 2 fases que te mantengas vivo, hasta un máximo de 7 niveles.
+En cambio, comienzas con 1 nivel de clase y obtienes 1 nivel de clase adicional al final de cada 2 fases que te mantengas vivo, hasta un máximo de 8 niveles.
 
 Adicional a esto, también ganas una nueva competencia con arma o un tipo de hechizo de tu elección cada 3 fases, hasta un máximo de 3 competencias.
 
 Suerte insondable
 Agrega tu SUE a las tiradas de ataque, pruebas de habilidad y tiradas de salvacion que realices.
 
-Puedes volver a lanzar cualquiera de tus tiradas un numero de veces igual a tu SUE redondeado hacia arriba, pero debes tomar este nuevo resultado.
+Puedes volver a lanzar cualquiera de tus tiradas un numero de veces igual a tu SUE redondeado hacia arriba, pero debes tomar este nuevo resultado. Recuperas los usos de esta habilidad tras un descanso.
 
 
 
@@ -584,7 +537,7 @@ Armas simples.
 También comienzas con 2 juegos de esposas.
 
 Riqueza
-Comienzas con 7 de riqueza.
+Comienzas con 8 de riqueza.
 
 Designación de sellado
 Te han enviado a participar en esta guerra con una directiva especial: Investigar a los magos enemigos. Derrotar a otros magos en combate te otorgará riqueza mientras informes a la Asociación con información.
@@ -592,11 +545,9 @@ Te han enviado a participar en esta guerra con una directiva especial: Investiga
 Cuando derrotas a un Master enemigo en combate, obtienes una cantidad de riqueza igual a la cantidad que se le otorgó por su trasfondo. Si el Master enemigo era el objetivo de una recompensa de la Asociación o Iglesia, también obtienes los Sellos de Comando restantes en su poder, agregándolos a la cantidad total que posees para tu Servant actual.
 
 Seguimiento de hechizos
-Agrega tu MNA a tus pruebas de Exploracion.
+Agrega tu MNA a tus pruebas de Exploracion y no tienes penalización al explorar múltiples distritos.
 
-Al explorar un área, te enteras si se usó algun hechizo en el área en las últimas 24 horas. Si es asi, sabrás en dónde se originó y en qué dirección se ha movido la fuente.
-
-También puedes usar esta función y gastar 1 de riqueza al explorar un área del mapa para expandir tu búsqueda a todas las áreas adyacentes del mapa sin penalización.
+Al explorar un área, te enteras si se usó algun hechizo ahí en las últimas 24 horas respecto a la fase que te encuentras al terminar la exploración. Si es asi, sabrás en dónde se originó y en qué dirección se ha movido la fuente. También puedes gastar 3 de riqueza menor al explorar un área del mapa para expandir tu búsqueda a todas las áreas adyacentes del mapa.
 
 Suprimir la magia
 Obtienes acceso a un Campo Delimitado especial que se puede implementar al instante. Solo puedes usar esta habilidad una vez por descanso.
@@ -609,7 +560,7 @@ Componentes: V, S
 Duración: 8 horas
 Tocas el suelo, lo que hace que un campo delimitado te rodee en una zona de 120 pies. La energía mágica en esta área es reprimida, incapaz de ser percibida. El uso de este hechizo es enmascarar las confrontaciones de los magos del público.
 
-También puedes usar este hechizo para tocar a una criatura incapacitada o inconsciente, concentrando la supresión en ellos y haciéndolos incapaces de usar magia (lanzar hechizos o usar efectos mágicos) hasta que finalice el hechizo.
+También puedes usar este hechizo para tocar a una criatura incapacitada, concentrando la supresión en ellos y haciéndolos incapaces de usar magia (lanzar hechizos o usar efectos mágicos) hasta que finalice el hechizo.
 
 14
 
@@ -623,12 +574,12 @@ Armas simples.
 1 tipo de hechizo en el que se centró tu linaje de magos.
 
 Riqueza
-Comienzas con 7 de riqueza.
+Comienzas con 8 de riqueza.
 
 Cresta magica
 Conoces 3 hechizos del tipo de hechizo que elegiste como foco de tu familia. Estos hechizos no cuentan como hechizos conocidos de tu clase.
 
-Elige uno de estos 3 hechizos para que se convierta en tu hechizo característico, el cual, si inflige daño, hace un dado adicional de daño. Puedes lanzar este hechizo característico una vez por combate sin gastar una ranura de hechizo.
+Elige uno de estos 3 hechizos para que se convierta en tu hechizo característico, el cual, si inflige daño o realiza una curación, lanza un dado adicional. Puedes lanzar este hechizo característico una vez por combate sin gastar una ranura de hechizo.
 
 Agrega tu MNA a tus salvaciones de muerte. La primera vez que mueras, tu Cresta Magica mantendrá tu cuerpo aferrado a la vida y estarás inconsciente durante 24 horas.
 
@@ -637,8 +588,10 @@ Si no has recibido ningun tipo de curación para el final de este período, muer
 Dotado naturalmente
 Agregas tu MNA al daño de los hechizos que lances y, si el hechizo tiene varias tiradas de daño como Rayo Abrasador, esta bonificación solo se aplica una vez.
 
+Si los hechizos lanzados no realizaban daño, entonces puede otorgar puntos de golpe temporales iguales a tu MNA a la criatura objetivo del hechizo. Si afectó a múltiples objetivos, entonces eliges el objetivo.
+
 Secreto de linaje
-Tu salvación de hechizos y tu ataque de hechizos que lances mediante tu Cresta Magica tiene una bonificacion de +2.
+Tu salvación de hechizo y tu ataque de hechizo que lances mediante tu Cresta Magica tiene una bonificacion de +2.
 
 
 
@@ -658,10 +611,12 @@ Armas simples.
 2 tipos de hechizo de tu elección.
 
 Riqueza
-Comienzas con 5 de riqueza.
+Comienzas con 6 de riqueza.
 
 Creación consciente
-Tu tipo de criatura ahora es Constructo. Como tal, no tienes necesidad de comer o respirar, eres resistente al daño de veneno y tienes ventaja en salvaciones contra estar envenenado.
+Tu tipo de criatura ahora es Constructo. Como tal, no tienes necesidad de comer o respirar, eres resistente al daño de veneno, tienes ventaja en salvaciones contra estar envenenado.
+
+Debes igualmente tomar tu acción de Descansar para recuperar tus ranuras de hechizo, pero no necesitas dormir para hacerlo; permaneces consciente todo el tiempo, lo que te permite interactuar con otros pero no realizar trabajo exhaustivo, como entrar en combate o usar esas 8 horas para hacer un campo delimitado que cubra un distrito o explorar varios distritos. Puedes, sin embargo, moverte en el que te encuentras con libertad.
 
 Regeneración
 Mientras estás consciente, recuperas 10 puntos de vida al comienzo de cada uno de tus turnos.
@@ -691,9 +646,9 @@ Entrenamiento con armas a distancia
 Comienzas el juego con un arma a distancia compleja de tu elección, un accesorio de arma de fuego y una compra gratuita de una munición especial de tu elección. También, obtienes +2 a tus tiradas de ataque a distancia usando armas complejas a distancia.
 
 Gajes del Oficio
-Obtienes el dote Azote de Magos. Además, la primera vez que encuentres un mercader, este tendrá un descuento de 2 de riqueza para ti (Sólo aplicable para Códigos Místicos, mínimo de venta 1 de riqueza).
+Obtienes el dote Azote de Magos. Durante la creación de personaje, cada vez que compres un Código Místico, su precio se reduce en 1 de riqueza (Mínimo de venta de 1 de riqueza).
 
-La dificultad para encontrar mercaderes es 12 para ti.
+La dificultad para encontrar mercaderes es 12 para ti. Además, la primera vez que encuentres un mercader, este tendrá un descuento de 2 de riqueza en la primera compra que hagas (Sólo aplicable para Códigos Místicos, mínimo de venta 1 de riqueza).
 
 Incógnito
 Agregas tu MNA a tus tiradas de exploracion. Además, tu movimiento en el mapa solo requiere 5 pies de velocidad por área en lugar de 10.
@@ -736,7 +691,7 @@ Tu trabajo es elemental
 Obtienes una bonificacion a las tiradas de salvación que realices contra hechizos o efectos similares igual a la mitad de tu MNA redondeado hacia abajo.
 
 Estudios fundamentales
-La CD de tus hechizos aumenta en 1, ademas, obtienes 2 hechizos conocidos adicionales.
+Tanto tu ataque de hechizos como tu CD de hechizos aumenta en 1. Además, obtienes 2 hechizos conocidos adicionales.
 
 18
 
@@ -747,17 +702,17 @@ Ser monje significa recibir formación en la magia de tipo sacramental, los sant
 
 Competencias
 Armas simples.
-Armas cuerpo a cuerpo complejas.
+Armas complejas.
 Hechizos de tipo sacramental.
 
 Riqueza
-Comienzas con 7 de riqueza.
+Comienzas con 8 de riqueza.
 
 Cazador de herejes
-Cada hechizo o ataque exitoso hecho contra un constructo, demonio, no-muerto, vampiro u objetivo espiritual inflige 1d8 de daño radiante adicional. Ademas, si el hechizo o ataque fuerza una salvación, los objetivos la hacen con desventaja.
+Cada hechizo, habilidad de clase o ataque exitoso realizado contra una Criatura Hereje o constructo, inflige 1d8 de daño radiante adicional. Ademas, si fuerza una salvación, los objetivos la realizan con desventaja, esto también es aplicable con tus habilidades de clase que fuercen una salvación.
 
 Sanación divina
-Tienes una reserva de 25 puntos de vida que, mediante tu accion, puedes usar para restaurarte a ti o a una criatura de tu eleccion que puedas tocar hasta la cantidad máxima restante en tu reserva.
+Tienes una reserva de 30 puntos de vida que, mediante tu accion bonus, puedes usar para restaurarte a ti o a una criatura de tu eleccion que puedas tocar hasta la cantidad máxima restante en tu reserva.
 
 Tu reserva de vida se rellena cuando terminas un descanso.
 
@@ -772,8 +727,8 @@ Tiempo de lanzamiento: 1 acción
 Rango: Uno mismo
 Componentes: V, S
 Duración: Instantáneo
-Canalizas la energía sagrada dentro de ti antes de liberarla en una ola a tu alrededor. Todas las criaturas a 30 pies de ti que sean de tipo demonio, no-muerto, vampiro o espíritu están obligadas a realizar una tirada de salvación de MNA.
-Si fallan, las criaturas seran desterradas a un plano diferente por 8 horas, volviéndose incapaces de interactuar con otras criaturas hasta que regresen al plano material. Las criaturas reaparecen en la misma zona donde fueron desterradas.
+Canalizas la energía sagrada dentro de ti antes de liberarla en una ola a tu alrededor. Todas las Criaturas Herejes a 30 pies de ti están obligadas a realizar una tirada de salvación de MNA.
+Si fallan, seran desterradas a un plano diferente por 8 horas, volviéndose incapaces de interactuar con otras criaturas hasta que regresen al plano material. Las criaturas reaparecen en la misma zona donde fueron desterradas.
 Si tienen éxito, estas criaturas reciben 4d8 de daño radiante. Los servants, aunque considerados espíritus, siempre pasarán esta tirada de salvación.
 
 
@@ -803,7 +758,7 @@ También puedes usar los niveles de clase para obtener Dotes, Rasgos Magicos, Co
 Los Dotes, Codigos Misticos y los Ojos Místicos también se pueden comprar con riqueza en lugar de niveles de clase.
 
 Trucos y hechizos
-Ciertas clases poseen la categoría Lanzador de Hechizos. Por cada nivel que tengas en una clase de esta categoría, obtienes una ranura de hechizo, hasta un máximo de 6.
+Ciertas clases poseen la categoría Lanzador de Hechizos. Por cada nivel que tengas en una clase de esta categoría, obtienes una ranura de hechizo.
 
 Conoces un número de Trucos igual a la mitad de tus niveles en clases de Lanzador de Hechizos (redondeado hacia arriba) y conoces una cantidad de hechizos igual a tu total de niveles en esas clases. Los Trucos no activan habilidades de clase que requieran el lanzamiento de un hechizo para su activación.
 
@@ -811,7 +766,7 @@ Salvacion de hechizos
 La CD de tus hechizos es igual a 10 + MNA.
 
 Puntos de vida
-Tu vida maxima es igual a 50 + (CON x 5)
+Tu vida maxima es igual a 60 + (CON x 5)
 
 Clase de Armadura
 Tu armadura base es igual a 10 + DES.
@@ -890,8 +845,7 @@ Hechizos de tipo Adivinación
 Clarividencia
 Al nivel 1 practicas para dominar la magia adivinatoria.
 
-Aprendes un hechizo de tipo Adivinación de tu elección.
-Este hechizo no cuenta para tu limite de hechizos conocidos y puedes lanzarlo un numero de veces igual a la mitad de tu nivel de Astromante redondeado hacia arriba por descanso sin gastar ranura de hechizo.
+Aprendes un hechizo de tipo Adivinación de tu elección. Este hechizo no cuenta para tu limite de hechizos conocidos y puedes lanzarlo un numero de veces igual a la mitad de tu nivel de Astromante (redondeado hacia arriba) por descanso sin gastar ranura de hechizo.
 
 Ha sido predicho
 Al nivel 2 los destellos del futuro llegan a tu conciencia.
@@ -910,14 +864,11 @@ Obtienes un bonificador a tu tiradas de iniciativa igual a tu nivel de Astromant
 Tercer ojo
 Al nivel 3 puedes aumentar tus poderes de percepción.
 
-Como accion eliges uno de los siguientes beneficios, el cual termina luego de una hora, hasta que quedes incapacitado o hasta que tomes un descanso.
+Como acción bonus eliges uno de los siguientes beneficios, el cual termina luego de una hora, quedes incapacitado, tomes un descanso o lo actives nuevamente.
 
-Obtienes visión en la oscuridad en un rango de 60 pies.
-
+Obtienes visión en la oscuridad en un rango de 60 pies, esto permite ver a través de oscuridad mágica.
 Puedes ver todo lo invisible en un rango de 30 pies.
-
 Disciernes automaticamente que algo es una ilusion siempre que se trate de algo visual.
-
 Una vez por turno obtienes un bonificador de +2 a tu CA frente al primer ataque que realicen contra ti.
 Puedes usar Tercer Ojo un numero de veces igual a tu nivel de Astromante por descanso.
 
@@ -927,10 +878,13 @@ Al nivel 4 has logrado desarrollar un instinto de combate para superar cualquier
 Ninguna tirada de ataque tiene ventaja contra ti mientras no estés incapacitado y obtienes una reacción adicional en cada uno de tus turnos.
 
 Dominio del futuro
-Al nivel 5 puedes liberar el potencial oculto de la magia Adivinatoria durante un corto perioto de tiempo.
+A nivel 5, puedes desatar el poder oculto de la magia adivinatoria durante un breve período.
 
-Como accion activas Dominio del Futuro y durante 1 minuto tienes ventaja en todos los ataques, tirada de salvación y pruebas de habilidad que realices.
+Como acción, puedes activar Dominio del Futuro, obteniendo los siguientes beneficios durante 1 minuto:
 
+Tienes ventaja en todas las tiradas de ataque, salvación y pruebas de habilidad que realices.
+Puedes mantener activas hasta dos habilidades de tu Tercer Ojo al mismo tiempo. Al finalizar esta habilidad, eliges cuál permanece activa.
+Elige una habilidad de tu Tercer Ojo, se activa inmediatamente (a menos que hayas alcanzado el límite de usos por descanso).
 Puedes usar Dominio del Futuro una vez por descanso.
 
 
@@ -1003,20 +957,16 @@ Competencias
 Hechizos de tipo Abjuración y Conjuración.
 
 Paseo etéreo
-Al nivel 1 aprendes a usar la habilidad Paso Etereo.
+Al nivel 1, aprendes a desvincularte brevemente del reino material. Como acción bonus, puedes desaparecer de tu posición y reaparecer en un espacio desocupado que puedas ver, dentro de un radio de 30 pies. También puedes usar Paso Etéreo en criaturas dispuestas dentro de este rango, permitiéndoles teletransportarse a un espacio desocupado que puedan ver, también dentro de 30 pies.
 
-Como acción bonus, sales del reino material temporalmente y reapareces en un espacio libre que puedes ver a 30 pies. Puedes usar Paso Etereo en aliados y otras criaturas que lo deseen, lo que les permite elegir a donde se teletransportan.
-
-Puedes usar Paseo Etéreo una numero de veces igual a tu MNA por descanso.
+Puedes usar Paseo Etéreo un numero de veces igual a tu MNA por descanso.
 
 Desde el vacío
-Al nivel 2 aprendes a usar el Vacio mientras lanzas hechizos de Abjuración y Conjuración.
+Al nivel 2 aprendes a usar el Vacio junto a tus hechizos. Al lanzas hechizos de Abjuración o Conjuración activas uno de los siguientes efectos dependiendo de cual sea:.
 
-Cuando lanzas un hechizo de Abjuración, te envuelves en Vacio y lo expulsas hacia afuera en una explosión de sombra. Las criaturas en un radio de 10 pies de ti reciben 2d6 de daño necrótico y son alejadas 10 pies hacia atrás.
+Abjuración: Te envuelves en Vacio y lo expulsas hacia afuera en una explosión de sombra. Las criaturas en un radio de 10 pies de ti reciben 2d6 de daño necrótico y son alejadas 10 pies hacia atrás.
 
-Cuando lanzas un hechizo de Conjuración, creas un zarcillo de Vacio en un espacio libre a 5 pies de ti que atacará a los enemigos que entren en un espacio a 10 pies de él o que comiencen su turno a 10 pies de él, realizando un ataque de hechizo cuerpo a cuerpo usando tu MNA.
-
-El zarcillo inflige daño necrótico igual a 2d6 + tu MNA si el golpe impacta. El zarcillo tiene 15 CA y 10 PV.
+Conjuración: Creas un zarcillo de Vacio en un espacio libre a 5 pies de ti que atacará a los enemigos que entren en un espacio a 10 pies de él o que comiencen su turno a 10 pies de él, realizando un ataque de hechizo cuerpo a cuerpo usando tu MNA. El zarcillo inflige daño necrótico igual a 2d6 + tu MNA si el golpe impacta. Tiene 15 CA y 10 PV.
 
 Viaje Touko
 Al nivel 3 puedes cargar un área con Vacio para transportar un grupo de criaturas a una gran distancia.
@@ -1111,52 +1061,42 @@ Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como
 
 Competencias
 Hechizos de tipo Encantamiento.
+Hechizos de tipo Ilusión.
 
-Ser cautivador
-Al nivel 1 aprendes el hechizo Encantar Criatura y Sugestion.
+Oleada emocional
+Al nivel 1 puedes usar tu acción bonus para intentar atemorizar o encantar (tu elección al usar esta habilidad) a una criatura que elijas 60 pies o menos de ti que puedas. Esta debe superar una salvación de MNA contra tu CD de hechizo, o queda afectada por la condición elegida por 1 minuto. Puede repetir las salvaciones al final de su turno y cuando es dañada.
 
-Estos hechizos no cuentan para tu limite de hechizos conocidos y puedes lanzarlos una vez por descanso sin gastar una ranura de hechizo.
+Puedes usar esta habilidad un número de veces igual a tu MNA. Recuperas sus usos al terminar un descanso.
 
-Controlar el flujo
-Al nivel 2 puedes elegir sacar un 20 o un 1 para tu tirada de iniciativa en lugar de tirar.
+Voces internas
+Al nivel 2 Aprendes los hechizos de Asesino Fantasmal y Sugestion. Puedes lanzar cada uno sin gastar una ranura de hechizo una vez por descanso.
 
-Puedes elegir cambiar la tirada de iniciativa de un aliado en lugar de la tuya de esta manera, pero solo antes de que haya tirado la iniciativa.
+Corrupción emocional
+Al nivel 2, entiendes que jugar con la mente de las personas es mas fácil de lo que pensabas inicialmente, obtienes las siguientes habilidades:
 
-Desviar agresión
-Al nivel 2, cuando una criatura que puedes ver a 60 pies de ti hace una tirada de ataque contra ti, puedes usar tu reacción para desviar el ataque, siempre que haya otra criatura dentro del rango del ataque.
+Agobiar la mente: Cuando una criatura a 60 pies o menos que puedas ver falla una salvación contra una Interferencia Mental, puedes infligirle 3d6 de daño psíquico. Este daño no termina ni hace repetir la salvación de hechizos o habilidades similares a hechizos que podrían terminar al sufrir daño, como tu Oleada Emocional o Sugestión. Si esa salvación fue impuesta por ti, puedes hacerlo sin importar la distancia.
 
-El atacante debe realizar una tirada de salvación de MNA contra tu CD de salvación de hechizos. Si falla, el atacante debe apuntar a la criatura más cercana a él, sin incluirte a ti ni a el mismo, y si hay varias criaturas cercanas, el atacante elige a cuál apuntar. Si tiene exito, no puedes volver a usar esta habilidad en el atacante nuevamente hasta que se recargue contra él (Recarga de 5-6 por objetivo).
+Contagio emocional: Cuando lances un hechizo o habilidad de clase que cause una Interferencia Mental y tenga como objetivo a una sola criatura puedes alterarlo y, en vez de un solo objetivo, eliges un cubo de 10 pies de radio centrado en un punto que puedas ver a 120 pies de ti. Todas las criaturas dentro de esa área válidas para el efecto se convierten en objetivos del mismo.
 
-Debes elegir usar esta habilidad antes de saber si el ataque impacta o falla. Las criaturas que no pueden ser hechizadas son inmunes a este efecto.
+Mente líquida
+Al nivel 3 obtienes resistencia al daño psíquico y ventaja en tiradas de salvación contra Interferencia Mental. Además, la CD de tus hechizos de Encantamiento e Ilusión y similares aumentan su salvación en +1.
 
-Obedecer el llamado
-Al nivel 3 ir en contra de tus hechizos de tipo Encantamiento o efectos similares puede ser perjudicial.
+Reflejo del Ego
+Al nivel 3 puedes, una vez por descanso, crear un doble ilusorio en un punto que elijas a 10 pies o menos de ti. Este doble permanece hasta que sea destruido, lo disipes como acción gratuita o termines un descanso. En combate comparte iniciativa contigo, pero actúa después de ti. Compartes un vínculo telepático con la ilusión y puede interactuar con el entorno, pero no atacar.
 
-Cuando una criatura supera la tirada de salvación de uno de tus hechizos de tipo Encantamiento, un efecto similar o tu habilidad Desviar Agresión, recibe 3d6 de daño psíquico.
+Puedes usar tu acción bonus para cambiar de sentidos con tu duplicado, mientras estás usando sus sentidos estás ciego y sordo desde tu cuerpo original, pero puedes lanzar hechizos y atacar desde la posición del duplicado con normalidad. Si se encuentra a 120 pies de ti o menos, también puedes cambiar de posición con tu doble ilusorio con la misma acción bonus.
 
-Master de la manipulación
-Al nivel 3 aprendes a aumentar la potencia de hechizos de tipo Encantamiento, convirtiendolos en hechizos de area.
+Tu duplicado puede explorar usando tu MNA para la tirada de exploración. Si es dañado desaparecerá al inicio de su siguiente turno.
 
-Cuando lances un hechizo de tipo Encantamiento o efecto similar que tenga como objetivo a una criatura, en su lugar, eliges un cubo de 10 pies centrado en un punto que puedes ver a 120 pies de ti. Todas las criaturas dentro del área se convierten en objetivos del efecto.
+Dominio cognitivo
+Al nivel 4 puedes mantener concentración de hasta 2 hechizos, siempre y cuando al menos uno de estos sea un hechizo de Encantamiento o Ilusión.
 
-Ademas, obtienes un bonificador a la CD de tus hechizos de tipo Encantamiento o efectos similares igual a +1.
+Además, cuando lances un hechizo de Encantamiento o Ilusión o un efecto similar que fuerce una tirada de salvación, puedes gastar una ranura de hechizo adicional para imponer desventaja en la tirada de salvación del o los objetivos del hechizo hasta el final del turno. Debes declarar el uso de esta habilidad antes de que se realice la tirada de salvación.
 
-Probada de tu propia medicina
-Al nivel 4 puedes transferir todos los efectos negativos que te afecten hacia otra criatura.
+Imperium mental
+Al nivel 5 aprendes a manipular incluso las mentes mas poderosas.
 
-Como acción, obligas a una criatura que puedas ver a 60 pies a realizar una tirada de salvación de MNA. Si falla, cualquier estado negativo que te afecte actualmente se elimina y pasa a afectar al enemigo. Si el enemigo tiene éxito, sigues afectado por estas desventajas.
-
-Esta habilidad tiene una recarga de 5 - 6.
-
-Orden imperiosa
-Al nivel 5 aprendes a manipular la mente de las personas.
-
-Como acción, obligas a una criatura que puedas ver a 60 pies a realizar una tirada de salvación de MNA. Si falla, le puedes dar una orden mental a la criatura que se pueda completar en un turno (Acercate a un lugar, Suelta algo, Huye, Tumbate, No hagas nada, etc.)
-
-La criatura intentara cumplir la orden lo mejor que pueda en su turno y, la cumpla o no, su turno termina inmediatamente.
-La orden no puede ser dañina para la criatura, mas si puede ponerla en riesgo. Las criaturas Encantadas por ti fallan automaticamente esta tirada de salvacion.
-
-Esta habilidad tiene una recarga de 5 - 6.
+Eres inmune al daño psíquico y a toda Interferencia Mental. Cuando fuerces una salvación que cuente como Interferencia Mental, las criaturas que tengan ventaja realizan su salvación normalmente, y aquellos que sean inmunes realizan la salvación con ventaja. Esto no será posible si no tiene una mente que manipular (como una estatua animada, un robot, etc.) o su propia mente ya está demasiado corrompida como para ser afectada, a discreción del DJ.
 
 
 
@@ -1227,58 +1167,125 @@ Magos que canalizan energía mágica hacia objetos, criaturas o ellos mismos par
 
 El refuerzo es una escuela rudimentaria de hechicería que normalmente se enseña a los principiantes. Aunque es fácil y útil comprender solo lo básico, los magos que se dedican por completo al refuerzo desbloquean su verdadero potencial.
 
+Medio lanzador de hechizos
+Tu primer nivel de esta clase te da una ranura y un hechizo conocidos, después de este primer nivel, cada dos niveles obtienes una ranura de hechizo y un hechizo conocido.
+
 Competencias
 Armas complejas.
-
-Reforzamiento
-Al nivel 1 ganas un numero de Puntos de Refuerzo igual a tu nivel de Mago de refuerzo. Estos puntos se usan para varias funciones de esta clase. Los puntos de refuerzo se gastan cuando se usan y se recuperan luego de un descanso.
+Armas improvisadas (a partir de nivel 3).
+1 tipo de hechizo a elección.
+Competencia especial: Trucos. Obtienes competencia en todos los trucos y aprendes un truco adicional de tu elección. Obtienes esto incluso si solo tienes un nivel en esta clase.
 
 Reforzar objeto
-Al nivel 1 puedes gastar puntos de refuerzo para mejorar objetos y armas.
+Al nivel 1 puedes reforzar armaduras, armas y escudos. Puedes hacerlo una cantidad de veces igual a tu nivel en esta clase por descanso.
 
-Mejoras un arma u objeto que estás tocando usando tu acción bonus y gastando un Punto de Refuerzo. Aumentas su dado de daño en 1 nivel (Un d6 pasa a ser d8, etc.).
+Puedes utilizar tu acción bonus para reforzar un arma, armadura o escudo que estás tocando. Aumentas su categoría de dado de daño en 1 nivel. Las armas con un dado de daño doble (2d6, etc.) y las armas con un dado de daño de 1d12 obtienen 1d4 adicional (que se convierte en 1d6 si se refuerza de nuevo).
 
-Las armas con un dado de daño doble (2d6, etc.) y las armas con un dado de daño de 1d12 obtienen 1d4 adicional (que se convierte en 1d6 si se refuerza de nuevo). Los objetos a ser armas improvisadas que infligen 1d4 de daño con un tipo determinado por el objeto. Las armas solo pueden reforzarce una vez utilizando esta habilidad.
+Reforzar una armadura o un escudo requiere dos usos de Reforzar Objeto. Al hacerlo, el objeto obtiene una bonificación de +1 a la CA.
+
+Un objeto reforzado cuenta como objeto mágico, si no lo era.
+
+Un objeto puede ser reforzado hasta 2 veces en un momento dado.
 
 Reforzar Objeto dura hasta el final de tu próximo descanso.
 
-Piel de hierro
-Al nivel 2 aprendes a usar Refuerzo de forma pasiva para mejorar la defensa de tu ropa, lo que te permite agregar la mitad de tu MNA redondeado hacia abajo a tu CA mientras no estás usando armadura.
+Circuitos mejorados
+A partir del nivel 2, puedes usar la magia de Refuerzo para mejorar tu cuerpo en distintos aspectos, superando las limitaciones de un mago corriente.
 
-Reforzar cuerpo
-Al nivel 2, puedes gastar puntos de refuerzo para mejorarte usando tu acción bonus. Cada vez que uses Reforzar cuerpo, puede elegir cualquier cantidad de los efectos a continuación.
+Como acción bonus, puedes activar o desactivar hasta 2 circuitos. No puedes activar y desactivar en la misma acción. Se desactivan antes si quedas incapacitado.
 
-Obtienes +10 pies de movimiento y puedes usar tu acción para saltar hasta 10 pies en cualquier dirección.
+Si tienes 2 mejoras activadas, tendrás que concentrarte para mantenerlos activos (como si te concentraras en un hechizo). No puedes quitarte esta concentración como acción gratuita. En caso de perder concentración, desactivas los circuitos necesarios hasta quedar con 1 activo, tu decides cuales desactivar. Sólo puedes tener hasta 2 mejoras activas a la vez.
 
-Obtienes un bonificador +1 a todas las tiradas de daño cuerpo a cuerpo.
+Circuito de Firmeza
+Al activarse este circuito, obtienes 10 puntos de vida temporales, se pierden temprano si desactivas este circuito.
 
-Obtienes un bonificador de +1 a tu CA, utilizable como reacción en respuesta a cualquier ataque.
-Debes gastar 1 punto de refuerzo por cada efecto. No puedes elegir el mismo efecto dos veces en la misma criatura, incluso con múltiples usos de Reforzar cuerpo.
+Obtienes +2 a tus pruebas de habilidad y salvaciones CON.
 
-Los efectos duran 10 minutos.
+Mientras tengas activo este circuito, obtienes ventaja en salvaciones contra efectos que impliquen debilidad física.
 
-Borde afilado
-A nivel 3 cuando haces un ataque con arma, puedes gastar cualquier cantidad de puntos de refuerzo. El arma obtiene una bonificación a las tiradas de ataque y daño igual a la cantidad de puntos gastados para ese ataque, con un maximo de 3.
+Una vez por combate, cuando fueras a caer a 0 puntos de vida, caes a 1 en su lugar.
 
-Además, todas las armas que refuerces con Reforzar objeto obtienen un bonificador mágico de +1.
+Circuito de Fluidez
+Al activarse este circuito o posteriormente con una acción bonus, puedes moverte hasta la mitad de tu movimiento
 
-Mejor reforzamiento de cuerpo
-Al nivel 4 los efectos de Reforzar cuerpo se mejoran y puedes otorgar estos efectos a otras criaturas usando la habilidad mientras las tocas.
+Obtienes +2 a tus pruebas de habilidad y salvaciones de SUE.
 
-Obtienes +10 pies de movimiento y puedes usar tu acción bonus para saltar hasta 10 pies en cualquier dirección.
+Mientras tengas activo este circuito, obtienes ventaja en salvaciones contra efectos que limiten tu movimiento e ignoras el terreno difícil.
 
-Obtienes un bonificador de +2 a todas las tiradas de daño cuerpo a cuerpo.
+Una vez por combate, cuando fueras a fallar una salvación, puedes volver a lanzar el dado d20.
 
-Obtienes un bonificador de +2 a tu CA, utilizable como reacción en respuesta a un ataque.
-Ataque extra
-Al nivel 5 puedes atacar dos veces, en lugar de una, siempre que realices la acción Atacar durante tu turno.
+Circuito de Impacto
+Obtienes +2 a tus tiradas de ataque cuerpo a cuerpo.
 
-Dominio de reforzamiento
-Al nivel 5 puedes usar Reforzar Objeto en la misma arma dos veces en lugar de una. Además, en caso de estar en combate, recuperas un punto de refuerzo al comienzo de cada uno de tus turnos.
+Obtienes +2 a tus pruebas de habilidad y salvaciones de FUE.
 
+Tus golpes desarmados se vuelven 1d6 + tu FUE, DES o MNA para tus tiradas de ataque y daño a elección.
 
+Una vez por turno, cuando golpeas con un ataque cuerpo a cuerpo con éxito puedes obligar a la criatura golpeada a hacer una salvación de FUE CD 15, pudiendo empujarlo 5 pies o derribarlo (tu elección) en un éxito.
+
+Circuito de Precisión
+Obtienes +2 a tus tiradas de ataque a distancia.
+
+Obtienes +2 a tus pruebas de habilidad y salvaciones de DES.
+
+Mientras está activado tu Margen de Crítico se reduce a 19 - 20 para tus tiradas de ataque a distancia.
+
+El turno en que activas este circuito, tienes ventaja en tu siguiente tirada de ataque a distancia. En turnos posteriores, puedes volver a obtener esta ventaja si no te has movido durante el turno y reduces tu velocidad a 0 hasta el final de este.
 
 28
+
+Arsenal improvisado
+Al nivel 3, tu dominio del Reforzamiento te permite usar momentáneamente cualquier objeto que encuentres como un arma letal.
+
+Si usaste tu Acción de Ataque este turno, puedes lanzar un arma improvisada como acción bonus con tu mano libre. Al hacerlo, puedes optar por imbuirlos rápidamente con una magia de reforzamiento simple (no consume usos de Reforzar Objeto).
+
+Armas improvisadas de esta manera cuentan como armas mágicas, puedes usar FUE o DES para las tiradas de ataque y daño con estas armas que infligen 1d6 de daño, el tipo de daño depende del objeto reforzado y todos tienen un rango de lanzamiento de 30/90. Tanto el daño como la distancia pueden ser mayores si el DJ lo considera adecuado.
+
+El objeto reforzado por este medio deja de su refuerzo después del ataque, volviendo a ser mundano.
+
+Estructura reforzada
+Al nivel 3, no sólo puedes mejorar la estructura básica de tus armas, sino que también mejorar su comportamiento básico.
+
+Si utilizas Reforzar Objeto en un arma, obtiene una bonificación de +1 al daño por cada vez que haya sido reforzada. De mejorarse dos veces, todo efecto beneficioso que tenga por accesorios se duplica.
+
+Si utilizas Reforzar Objeto en una armadura dos veces, esta pierde su requisito de FUE (de tenerlo).
+
+Si utilizas Reforzar Objeto en un escudo, este crece en tamaño, otorgándote cobertura media.
+
+También puedes utilizar un uso de Reforzar Objeto para mejorar piezas de munición especial y granadas, al hacerlo aumentas el CD de sus salvaciones en +1 por cada mejora de Reforzar Objeto que haya sido utilizada en estos, hasta un máximo de 2. Granadas mejoradas de esta manera también aumentan su rango de lanzamiento en 30 pies por cada mejora.
+
+Maestría de circuitos
+Al nivel 4, has utilizado tu habilidad para mejorar tu cuerpo lo suficiente como para poder ir un poco mas lejos que antes.
+
+Tu habilidad para mantener Mejoras de Circuitos activados mejora, pudiendo mantener hasta 4 Circuitos Mejorados activados a la vez.
+
+Tener 2 Circuitos Mejorados activados ya no requiere de concentración, sino que mantener 3 Circuitos Mejorados activos la requiere.
+
+Tener 4 Circuitos Mejorados activados también te inflige 5 de daño necrótico inmitigable al final de tus turnos.
+
+Ataque extra
+Al nivel 5, puedes atacar dos veces en lugar de una cuando usar tu acción para Atacar durante tu turno.
+
+Sobrecarga de circuitos
+Una vez por descanso puedes usar esta habilidad como Acción, al hacerlo todas tus Mejoras de Circuitos son activadas, si ya no lo estaban. No solamente eso, sino que llevas tu cuerpo al límite, lo que te permite realizar hazañas que no podrías normalmente. Obtienes los siguientes beneficios por 1 minuto o quedes Incanpacitado:
+
+Cuando activas esta habilidad y al inicio de los turnos recuperas un uso de tu habilidad Reforzar Objeto.
+
+No recibes daño por mantener los 4 Circuitos Mejorados activos
+
+No haces tiradas de concentración para mantener los circuitos u otros hechizos activos.
+
+Obtienes +10 de movimiento.
+
+Puedes utilizar cualquier objeto reforzado por ti como un arma utilizando una sola mano para sostenerlos, siempre y cuando su categoría de tamaño sea Grande o inferior. El daño de estos objetos depende de su tamaño; Grande: 3d8, Mediano: 2d8, Pequeño e inferior: 1d8. Su tipo de daño depende del objeto utilizado.
+
+Tus ataques infligen 1d6 de daño adicional.
+
+Una vez por turno, utilizar Reforzar Objeto no consume tu acción bonus.
+
+Cuando esta habilidad acaba, eres incapaz de concentrarte en tus Circuitos Mejorados y estás con el estado de Ralentizado hasta el final de tu siguiente descanso.
+
+
 
 Nigromante
 Los nigromantes pueden usar cadáveres para aumentar su habilidad mágica, conjurar aliados no muertos, recopilar información y maldecir enemigos.
@@ -1912,17 +1919,20 @@ Este bastón tiene un máximo de 5 cargas, cada nueva fase recarga 1. Mientras l
 
 39
 
-Brazales mecánicos
-Código Místico, 4 de riqueza, Requisito: Tu clase principal debe ser Mago de Refuerzo
+Brazales de resonancia
+Código Místico, costo: 4 de Riqueza. Requisito: Tu clase principal debe ser Mago de Refuerzo
 
-Un par de guantes metálicos que agarran con fuerza las manos y los antebrazos del usuario. Obtienes los siguientes beneficios mientras usas estos brazales.
+Un par de brazales metálicos que se ajustan firmemente alrededor de los antebrazos y las manos del usuario. Los brazales vibran suavemente cuando el maná recorre los Circuitos Mágicos del usuario. Obtienes los siguientes beneficios:
 
-Tus golpes desarmados aumentan a 1d6 de daño contundente y puedes elegir usar FUE o DES para tus tiradas de ataque y daño. Si ya infligian daño igual o superior, aumentan una categoría de dado en su lugar.
+Tus golpes desarmados infligen 1d6 de daño contundente, pudiendo usar FUE, DES o MNA para las tiradas de ataque y daño, a elección. En caso de tener golpes desarmados que inflijan daño igual o superior, aumentan una categoría de dado en su lugar. Estos brazales no pueden ser mejorados con Reforzar Objeto.
 
-Puedes gastar un punto de refuerzo como reacción si eres el objetivo de un ataque a distancia para inmediatamente usar cualquier cantidad de tu movimiento e ir al atacante. Puedes usar Reforzar Cuerpo mientras te mueves.
+En caso de impactar con éxito un golpe cuerpo a cuerpo, puedes gastar un uso de Reforzar Objeto para infligir 1d8 de daño de fuerza adicional.
 
-Cuando usas Borde Afilado en estos brazales, aumentas sus dados de daño en 1 por cada Punto de refuerzo que hayas gastado en lugar de otorgarles una bonificación a las tiradas de ataque y daño.
-Estos brazales se consideran armas con la propiedad Ligera, debido a esto, no puedes empuñar otra arma mientras uses los brazales mecanicos.
+Mientras tengas estos brazales puestos se te considera competente con la escuela de Transmutación. Además, los brazales pueden almacenar un hechizo de Transmutación. Puedes lanzarlo una vez por descanso sin gastar una ranura de hechizo y puedes cambiar el hechizo almacenado después de un descanso.
+
+Por cada 2 Mejoras de Circuitos que tengas activas puedes concentrarte en un hechizo adicional, siempre y cuando este hechizo adicional sea de Transmutación. Realizas tiradas de salvación para mantener la concentración de los hechizos como si se concentrara en uno solo.
+
+Si utilizas la habilidad Sobrecarga de Circuitos, puedes inmediatamente lanzar el hechizo almacenado en el Brazal.
 
 Colgante de sintonía
 Código Místico, 4 de riqueza
@@ -1955,6 +1965,8 @@ Puedes ordenar a tu dragon de bolsillo que se desmonte de tu hombro como acción
 
 Durante un combate, el dragon de bolsillo tiene 15 puntos de vida y su CA es 12. Puedes ordenarle que realice la acción de Ayudar con tu acción bonus. Si tu dragon de bolsillo muere, se volvera cenizas dejando atras un huevo del cual emergera luego de 24 horas.
 
+40
+
 Eco de los ancestros
 Código Místico, 3 de riqueza, Requisito: Tu Trasfondo debe ser Adepto Marcial
 
@@ -1963,8 +1975,6 @@ Un arco corto, legado de un antiguo clan, diseñado para canalizar la energía d
 Una vez por descanso, puedes pronunciar la palabra clave para activar las propiedades mágicas del arco, revitalizando tu cuerpo agotado. Durante el siguiente minuto, al inicio de cada uno de tus turnos, recuperas un dado de maniobra.
 
 Además, las maniobras que normalmente se utilizan en ataques cuerpo a cuerpo pueden ser aplicadas a los ataques a distancia realizados con este arco.
-
-40
 
 Escudo del retorno
 Código Místico, 2 de riqueza
@@ -2065,6 +2075,8 @@ Cambio dimensional tiene su radio reducido a la mitad, pero a cambio, al manifes
 
 Dentro del campo, tus hechizos de reacción no consumirán ranuras de hechizo, pero debes tener ranuras de hechizos para poder lanzarlos. Además, cada vez que lances un hechizo de reacción, tus criaturas invocadas comparten los beneficios de este, pero no ocasionan daño (si era parte del hechizo) y puedes manifestar esos hechizos a través de tus criaturas invocadas, como si estuvieras en su posición. Hacerlo de esta forma hace que la criatura desde la que se originó el hechizo pueda activar Desde el Vacío en tu lugar.
 
+41
+
 Pestilencia de Sandor
 Código Místico, 3 de riqueza
 
@@ -2081,15 +2093,20 @@ Mientras poseas la piedra de viaje, puedes usarla para marcar la ubicación del 
 
 En cualquier momento posterior, puedes activar la piedra de viaje usando tu acción, teletransportándote al punto que marcaste instantáneamente. La piedra de viaje se consume luego de la teletransportación.
 
-41
-
 Plano encantado
-Código Místico, 2 de riqueza, Requisito: Tu clase principal debe ser Mago de Proyección
+Código Místico, 3 de riqueza, Requisito: Tu clase principal debe ser Mago de Proyección
 
-Instrucciones simples y mágicas para poder crear un arma especializada a tu gusto. Puede usar este plano en cualquier momento que uses tu habilidad de Proyección, lo que te permite agregar o eliminar una sola Propiedad de cualquier arma de tu elección.
+"¿Quién dijo que una imitación no puede superar al original?". — Cierto Desconocido.
 
-No puedes agregar una Propiedad de arma a distancia, como Automático, Rafaga o Dispersión a un arma cuerpo a cuerpo. Agregar la Propiedad de dos manos a un arma aumenta la cantidad de dados de daño en 1.
+Al crear un arma con tu habilidad de Proyección, puedes agregar y/o eliminar una sola Propiedad de cualquier arma proyectada por ti a tu elección, pero no puedes agregar una Propiedad de arma a distancia, como Automático, Rafaga o Dispersión a un arma cuerpo a cuerpo. esta obtiene habilidades dependiendo de las propiedades que tenga. Si fuerzan una salvación usan la dificultad de tu Proyección Flash.
 
+Alcance: Una vez por turno, si fallas una tirada de ataque con esta arma contra una criatura, puedes infligirle daño igual a la estadística usada para el ataque (del mismo tipo que el arma).
+Arrojadiza: Su rango es 60 pies en vez de 20/60 y después de atacar vuelve a tu mano.
+Dos Manos: Aumenta la cantidad de dados de daño en 1.
+Ligero: Una vez por turno, cuando realizas el ataque adicional de la propiedad Ligero, puedes hacerlo como parte de la acción de Ataque en lugar de como una Acción bonus.
+Sutil: Tienes ventaja en la próxima tirada de ataque que hagas contra la primera criatura que golpeas con esta arma antes del final de tu siguiente turno.
+Pesado: Una vez por turno, cuando golpeas a una criatura con esta arma, puedes obligarla a realizar una tirada de salvación de FUE. Si falla, queda derribada.
+Versátil: Si atacas con esta arma a una mano, obtienes +1 a tu CA hasta el inicio de tu próximo turno si la sigues empuñando. Cuando la usas a dos manos y golpeas a una criatura, esta tiene Desventaja en su siguiente ataque de arma antes del final de su próximo turno.
 Rompe maldiciones
 Código Místico, 4 de riqueza, Requisito: Tu clase principal deber ser Nigromante
 
@@ -2102,6 +2119,8 @@ Los objetivos dañados deben superar una tirada de salvación de MNA contra tu C
 El daño infligido aumenta en 2d6 de daño necrótico adicional.
 
 Los objetivos dañados por tu arma deben superar una tirada de salvación de MNA contra tu CD de hechizos. Si fallan, ganan vulnerabilidad a un tipo de daño elemental que elijas y el siguiente ataque contra ellos se realiza con ventaja. Estos efectos duran hasta el final de tu próximo turno.
+
+42
 
 Séptima Sagrada Escritura
 Código Místico, 5 de riqueza, Requisitos: Tu clase principal debe ser Ejecutor de la Iglesia, 5 de Fuerza
@@ -2122,8 +2141,6 @@ Código Místico, 4 de riqueza.
 Una espada larga oriental sin empuñadura. El usuario sostiene la parte inferior de la hoja envuelta en lino ensangrentado.
 
 Si el usuario inflige daño con éxito con Sin Empuñadura, recupera puntos de vida iguales al daño infligido.
-
-42
 
 Sudario de Magdalena
 Código Místico, 3 de riqueza, Requisitos: Ser mujer, debes tener el trasnfodo Monje de la Iglesia o tu clase principal debe ser Ejecutor de la Iglesia
@@ -2153,10 +2170,6 @@ El propietario del tomo puede terminar temporalmente su contrato con su sirvient
 El maestro original pierde sus sellos y el portador del tomo que actúa como maestro suplente puede usar su acción para dar órdenes al Sirviente, quien hara una tirada de salvación de MNA CD 17, sufriendo 6d8 de daño necrótico y quedando paralizado hasta el final de su siguiente turno si falla.
 
 Esta salvación solo se realiza si el Sirviente desobedece el comando, o si se emite un comando imposible que solo el poder de un Sello de Comando podría ordenar. Si el libro es destruido, el Maestro original recupera su contrato hecho con el Sirviente, así como sus Sellos de Comando.
-
-
-
-
 
 
 
@@ -2206,7 +2219,7 @@ Detectar. El mercurio se propaga en forma de una enorme red que llega a abarcar 
 Dotes, rasgos magicos y ojos misticos
 Habilidades que representan destreza física, poderes que se originan en el linaje mágico y ojos misticos que prueban que uno nació dotado genéticamente. En esta sección encontrarás habilidades para personalizar aún más a tu mago más allá de lo que una clase ofrece.
 
-Cada Dote, Rasgo Magico y Ojo Místico se 'compra' mediante un nivel de clase, pudiendo tener más de un Dote y solo un Rasgo Magico y dos Ojos Místicos.
+Cada Dote, Rasgo Magico y Ojo Místico se 'compra' mediante un nivel de clase, pudiendo tener más de un Dote y solo un Rasgo Magico y solamente un par de Ojos Místicos del mismo tipo.
 
 Dotes
 Un dote representa un talento o área de especialización que otorga al personaje capacidades especiales.
@@ -2225,7 +2238,7 @@ Costo de entrenamiento: 2 de riqueza o 1 nivel de clase
 
 Has dominado un elemento mágico en particular, de manera que has aumentado la eficacia de los hechizos que utilizan este elemento.
 
-Al momento de elegir este dote, elige tambien un tipo de daño elemental. Ganas resistencia al daño del tipo elegido, y los hechizos que lanzas ignoran la resistencia a dicho daño. Además, cuando lanzas el daño por un hechizo que lanzaste que inflige daño de ese tipo, su dado de daño aumenta en una categoría, también puedes tratar cualquier 1 en un dado de daño como un 2.
+Al momento de elegir este dote, elige tambien un tipo de daño elemental. Ganas resistencia al daño del tipo elegido, y los hechizos y habilidades de clase ignoran la resistencia a dicho daño. Además, cuando lanzas el daño por un hechizo o habilidad de clase que inflige daño de ese tipo, su dado de daño aumenta en una categoría, también puedes tratar cualquier 1 en un dado de daño como un 2.
 
 Puedes seleccionar este dote varias veces. Cada vez que lo hagas, deberás elegir un tipo de daño elemental diferente.
 
@@ -2322,7 +2335,7 @@ Puedes hacer una prueba de Discernimiento de Nombre Verdadero (SUE) al ver a un 
 Cuando un Servant que puedas ver usa su Ataque de Nombre Verdadero de Noble Phantasm, haces la prueba de Discernimiento de Nombre Verdadero con ventaja.
 
 Cuando adivinas correctamente el verdadero nombre del Servant, obtienes una bonificación de +3 a todos los tiros de salvación que te impongan. Además, te enteras de cualquier debilidad que tenga el Servant.
-La CD para el Descubrimiento del Nombre Verdadero es 16. Descubrir el nombre verdadero de un Servant con este dote revela su Noble Phantasm y todas sus habilidades como si te lo revelaran ellos mismos.
+La CD para el Descubrimiento del Nombre Verdadero es 15. Descubrir el nombre verdadero de un Servant con este dote revela su Noble Phantasm y todas sus habilidades como si te lo revelaran ellos mismos.
 
 Si un Servant tiene múltiples Noble Phantasm, primero aprendes el de menor rango y puedes volver a tirar para aprender Noble Phantasms adicionales al comienzo de cada turno subsiguiente en combate contra ellos.
 
@@ -2348,9 +2361,11 @@ Obtienes competencia en un tipo de hechizo a tu elección, además, obtienes 2 h
 Iniciado marcial
 Costo de entrenamiento: 2 de riqueza o 1 nivel de clase
 
-Has comenzado tu entrenamiento como luchador cuerpo a cuerpo para mejorar tus habilidades.
+Has comenzado tu entrenamiento como luchador para mejorar tus habilidades.
 
-Obtienes 2 dados de maniobra y aprendes 2 maniobras del trasfondo Adepto Marcial. Si tu trasfondo es Adepto Marcial, en su lugar aprendes 1 maniobra adicional y el tamaño de tu dado de maniobra aumenta a 1d8.
+Obtienes 2 dados de maniobra y aprendes 2 maniobras del trasfondo Adepto Marcial. Si tu trasfondo es Adepto Marcial, en su lugar obtienes solo 1 dado de maniobra adicional, aprendes 1 maniobra adicional y el tamaño de tu dado de maniobra aumenta a 1d8.
+
+Puedes aprender este dote múltiples veces, pero cada nueva ocasión sólo te otorgará 1 dado de maniobra y 1 maniobra adicional. Si tu dado de maniobra es 1d8, este no vuelve a aumentar.
 
 Intrépido
 Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
@@ -2358,7 +2373,9 @@ Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
 Nunca te rindes ante la idea de ser derrotado, otorgándote los siguientes beneficios:
 
 Al comienzo de tu turno, si estás Ensangrentado, obtienes un dado de inspiración d8 que se puede lanzar y agregar a cualquier tirada de ataque o salvación. Solo puede tener uno de estos dados de inspiración en un momento dado.
+
 Si recibes daño que reduciría tus puntos de vida a 0, puedes elegir usar tu reacción para ganar puntos de vida temporales iguales a 1d10 + tu CON, que absorberán la mayor cantidad posible de daño. Solo puedes usar esta función una vez por descanso.
+
 Líder inspirador
 Costo de entrenamiento: 3 de riqueza o 1 nivel de clase
 
