@@ -1,0 +1,2301 @@
+Prefacio
+Fate/Lost Continuum es un juego de rol de mesa creado usando las reglas principales de D&D 5e. Nada mas de la 5° edición fue utilizado (razas, clases, monstruos, etc) en este documento. Además, se han añadido nuevas reglas y se han ajustado anteriores para hacer una mejor inmesion en el Nasurverso utilizando las reglas de 5e. Dichos cambios pueden encontrarse en el Manual de Jugador original.
+
+Quisiera agradecer a todos por estar aquí leyendo esto, ya que mantener este juego no sería posible sin el apoyo que han proporcionado. Estoy consciente que somos una comunidad pequeña y tal vez esto acabe antes de que nos demos cuenta, pero me gusta todo lo que se ha hecho como comunidad y me alegra aportar mi grano de arena para pulir un poco mas este juego.
+
+Este documento no tiene por objetivo ser una expansión del juego base, sino un apartado donde todos podamos ver que se tiene planeado, o al menos las cosas que tenemos dudas si lanzar en los manuales que usamos normalmente o en una expasión futura, por lo que, como siempre he dicho: no podemos hacer esto sin tu ayuda.
+
+Gracias por estar aquí. Espero que puedas ayudarnos a mejorar todo lo que ofrecemos y que disfrutes de este juego tanto como yo lo he hecho, si no es que más.
+
+– Leonardo
+
+ 
+
+ 
+
+Capítulo 0: Reajustes
+Adquisicion de dotes
+Debido a la mala relacion Utilidad / Coste de los dotes, la cual terminaba por limitar la creacion de personajes, se ha decidido implementar los Puntos de Entrenamiento, que únicamente se pueden utilizar para adquirir Dotes durante la creación de personaje.
+
+Todos los trasfondos inician con 3 puntos de entrenamiento que se pueden usar durante la creacion del personaje. La excepción a esta regla son los personajes que tengan el trasfondo de Desconocido, que inician con 1 Punto de Entrenamiento al iniciar el juego, este se puede mantener consigo si no se ha gastado en la creación de personaje, y obtiene 1 punto (Hasta un máximo de 4) cada 2 fases que se mantenga vivo, pudiendo gastarlos al inicio de una nueva fase para adquirir el dote deseado.
+
+Cada Punto de Entrenamiento equivale a 1 de riqueza, por lo que es posible comprar el dote de Iniciado en la magia utilizando la totalidad de tus Puntos de Entrenamiento, dejando la riqueza obtenida por tu Trasfondo para ser empleada en otra inversión.
+
+Creación de pergaminos
+Puedes crear pergaminos gastando recursos y una acción de fase. La maxima cantidad de pergaminos que puedes crear a la vez es igual a la mitad de tu MNA (redondeado hacia abajo). Dependiendo de las características del pergamino a crear este costará cierta cantidad de riqueza, siguiendo las indicaciones en la siguiente tabla.
+
+Conoces el hechizo	Competencia con su escuela	Riqueza Mayor	Riqueza Menor
+0	3
+1	0
+1	0
+2	0
+Los pergaminos que crees siguen las reglas de los pergaminos normales que pueden ser comprados. Sin embargo, si tienes algún trasfondo de Alquimista (Ya sea de Atlas o Praga), cuando creas un pergamino su CD hechizo y tirada de ataque de hechizo aumenta en 1 respecto a los pergaminos normales, y también puedes crear uno de manera gratuita al tomar tu acción de fase en esta acción.
+
+Si el DJ (Director de Juego) considera adecuado, otros Trasfondos pueden beneficiarse de los beneficios de los trasfondos de Alquimista, como el Mago de la Asociación; al ser un enviado por la Torre del Reloj, tiene sentido asumir que estos tendrán los estudios necesarios para crear estos pegaminos.
+
+También puede permitirlo si su historia tiene que ver con ello, como un Desconocido que si bien no tiene un talento mágico, al igual que Shirou tuvo entrenamiento básico en la taumaturgia, lo que le permite acceso a esta regla.
+
+El DJ tiene total libertad sobre que decidir en estos casos.
+
+Nuevas palabras claves y actualizaciones
+Aunque en general se está satisfecho con las palabras claves utilizadas en el sistema para simplificar el sistema, hay algunas nuevas que pueden ser incluídas para agregar mas variantes al juego. Es necesario recordar que esto es completamente opcional, por lo que, si el DJ así lo considera, puede ser omitido.
+
+Artefacto único: Aplicable a Códigos Místicos. En la fase de creación de personaje, cuando un jugador desea comprar el objeto, el DJ te indicará que tires un d100. Si eres el único mago en la guerra que intenta comprarlo, lo conseguiras automáticamente. Sin embargo, si otros magos en esta guerra también intentan conseguir el objeto, el mago que tenga un resultado más alto en su tirada será el que adquiera su única existencia. Si nadie ha comprado un objeto Único, el DJ puede incluir la única existencia de este objeto en algún lugar de la guerra a su discreción.
+
+Desorientado: Una criatura desorientada tiene desventaja en ataques y salvaciones que no sean interferencias mentales.
+
+Criatura hereje: Ahora también incluye a las criaturas Hada.
+
+ 
+
+ 
+
+Capitulo 1: Trasfondos
+Los trasfondos son mucho más impactantes aquí que en la 5ta Edicion. Casi pueden considerarse una clase secundaria.
+
+Tu trasfondo como mago infiere mucho sobre tus rasgos y habilidades, así como tu posición social y posibles alianzas, ademas, también te da competencias, así como la cantidad de riqueza con la que comienzas.
+
+Competencias
+Tu mago obtendrá competencias tanto de tu trasfondo como de tu clase principal.
+
+Si dos fuentes diferentes te otorgan la misma competencia, puedes elegir una competencia diferente mientras sea del mismo tipo (Hechizo o arma).
+
+Alquimista de atlas
+La alquimia de Atlas profundiza en la conversión de los fenómenos, aplicándolo al futuro.
+
+El objetivo final de los alquimistas de Atlas se acerca más a la meta original, la “transformación de los eventos”, y no tienen ningún interés en la transmutación de los elementos, ya que consideran la “transformación de la materia” como nada.
+
+Competencias
+Armas simples.
+Hechizos de tipo Trasmutacion.
+
+Riqueza
+Comienzas con 7 de riqueza.
+
+Aceleración del pensamiento
+Una vez por descanso, puedes realizar cualquier Acción como acción bonus (si realizas la Acción de Ataque, estás limitado a 1 ataque).
+
+Materializacion de conceptos
+Cuando realices un ataque, puedes elegir cargarlo con una idea. Si el ataque impacta, puedes decidir infligir 1d8 de daño de fuerza adicional y hacer que un Protector de Atlas aparezca en una casilla desocupada a 5 pies de la criatura impactada. Puedes usar este daño adicional e invocar Protectores de Atlas un número de veces igual a tu estadística de MNA por descanso y sólo puedes hacerlo una vez por turno. Cada Protector de Atlas actúa de la siguiente manera:
+
+Ataca automáticamente a los enemigos que entren o comiencen su turno a 10 pies de él, realizando un ataque de hechizo cuerpo a cuerpo usando tu MNA.
+Inflige daño de fuerza igual a 1d8 + tu MNA.
+Tiene una CA de 13 y 10 puntos de vida.
+Debido a la inestabilidad de manifestar una idea en el plano terrenal, los Protectores de Atlas desaparecen al final del combate.
+
+Partición de memoria
+Aprendes un hechizo de Transmutación a tu elección que requiera concentración, este hechizo no cuenta para tus hechizos conocidos. Además, puedes mantener la concentración de hasta 2 hechizos a la vez, siempre y cuando uno de estos sea el hechizo aprendido por esta habilidad. Realizas una salvación de concentración por ambos hechizos, como si fuera solamente uno.
+
+
+ 
+
+ 
+
+
+Alquimista de Praga
+Miembros de la Asociación de Praga, tambien conocida como Asociación Central de Alquimistas.
+
+Una organización que, como su nombre indica, investiga sobre la Alquimia y cuyos miembros siguen los preceptos tradicionales de los alquimistas. En consecuencia, están en malos términos con Atlas.
+
+Competencias
+Armas simples.
+Hechizos de tipo Trasmutacion.
+
+Riqueza
+Comienzas con 5 de riqueza.
+
+Vapores Estimulantes
+Cuando lanzas un hechizo o ataque, puedes elegir un cubo de 20 pies dentro del alcance del hechizo o ataque para crear una cortina de vapor que afecta a todas las criaturas que empiecen o terminen su turno allí. Los efectos fuerzan una tirada de salvación de CON, repitiendo sus salvaciones al final de sus turnos para terminar dicho efecto. Una criatura puede fallar automáticamente si lo desea.
+
+Las cortinas de vapor permanecen hasta el final del combate o sean disipadas. Puedes crear tantas cortinas de vapor como tu MNA o CON por descanso (a elección cuando se crea el personaje). De haber más de una cortina en una misma área, se conservan los efectos de la última cortina lanzada. Los efectos son los siguientes:
+
+Ácido: Recibe 5 de daño ácido y, si la criatura que falló la salvación llevaba una armadura no mágica ni era un espíritu, ve su armadura destruida.
+
+Alucinógenos: Todas las criaturas quedan atemorizadas de ti.
+
+Amenazante: Las criaturas se ven forzadas a atacar a la criatura más cercana que puedan ver. No afecta a las criaturas con Encantamiento de Locura.
+
+Energizante: Todos los ataques tienen ventaja.
+
+Estimulante: Se curan 3 puntos de vida, siempre y cuando no estén inconscientes.
+
+Feromonas: Todas las criaturas quedan encantadas de ti.
+
+Humo Intoxicante: Todas las criaturas sufren 5 de daño Necrótico y son cegadas.
+
+Patológicamente Modificado
+Sabes el truco Crear objeto. Aumenta en 2 tu estadística de CON. Esto permite superar el límite de 5. Además, eres inmune al daño por veneno y al estado envenado.
+
+Alquimia de la Carne
+Tu habilidad transmutativa te permite manipular tu cuerpo para crear pseudo-circuitos mágicos que potencian los tuyos de manera única. Puedes usar tu estadística de CON en lugar de MNA para definir la dificultad de tu salvación de hechizos y el bono de tu ataque de hechizo. Además, puedes sustituir tu MNA por CON en cualquier habilidad de clase o código místico que lo requiera.
+
+ 
+
+ 
+
+
+Cyborg
+Alrededor del setenta por ciento del cuerpo de estos magos han sido reemplazados con “artilugios consagrados” cibernéticos que mejoran enormemente sus habilidades físicas y tienen varias funciones especializadas. Estos magos son miembros o estan afiliados a la Iglesia, pues esta tiene el “ápice en tecnología y misterio”.
+
+Competencias
+Armas simples.
+Armas cuerpo a cuerpo complejas
+Hechizos de Sacramento
+
+Riqueza
+Comienzas con 5 de riqueza.
+
+Cuerpo reforzado
+Obtienes un bonificador de +1 a tu FUE, DES o CON. Esta función puede superar el limite de 5.
+
+Implante visual
+Comienzas el juego con un Ojo Mistico de tu eleccion. Además, obtienes visión en la oscuridad hasta un alcance de 120 pies y puedes ver a través de la oscuridad mágica.
+
+Modificaciones
+Elige dos modificaciones la siguiente lista.
+
+Adrenalina. Como acción bonus, aumentas tu velocidad de movimiento en 10 pies y obtienes un bono de +2 a tus tiradas de ataque, tiradas de salvacion y pruebas de habilidad basadas en DES hasta el final de tu turno.
+
+Analizador. Lees automáticamente los estados de otros Masters y Servants al verlos.
+
+Brazo látigo. Como acción puedes obligar a una criatura Mediana o mas pequeña a 15 pies que puedas ver a superar una tirada de salvacion de DES CD 15 o quedar Agarrado por ti. Como accion bonus puedes jalar 10 pies hacia ti a la criatura agarrada.
+
+Escudo cinético. Como reacción, cuando tú o una criatura a 5 pies de ti reciba daño por un ataque o falle una tirada de salvación, puedes activar un escudo cinético. El objetivo obtiene +2 a la CA y a todas sus tiradas de salvación hasta el inicio de tu siguiente turno.
+
+Mano Táser: Tus ataques desarmados infligen 2d4 puntos de daño de rayo adicional.
+
+Rastreador Mágico Al Explorar, obtienes un bono de exploración dependiendo del MNA de las criaturas en el área. De 1 a 3 obtienes +1; de 4 a más obtienes +2.
+
+Reforzar cuerpo. Tu CA es 13 + tu DES (máx. 3).
+
+Reglas opcionales
+Ya que eres parte de la Iglesia, puedes reemplazar cualquiera de los rasgos de este trasfondo por el Sacramento del bautismo, dado por el trasfondo de Monje de la Iglesia y Templario.
+Si por historia tu cuerpo fue modificado lo suficiente, tu tipo de criatura pasará a ser Construcro. Esto es a discreción del DJ y la historia que se haya acordado para el personaje.
+ 
+
+ 
+
+Druida
+Los druidas son la personificación de la resistencia, astucia y furia de la naturaleza.
+
+Dicen no tener un dominio sobre la naturaleza. En lugar de eso, se ven a si mismos como una extensión de la voluntad indomable de la misma.
+
+Competencias
+Armas simples.
+Hechizos de tipo Abjuracion.
+Un tipo de hechizo de tu eleccion.
+
+Riqueza
+Comienzas con 7 de riqueza.
+
+Bendición del Bosque Antiguo
+Tu vínculo con los bosques ancestrales te permite canalizar su poder para sanar y proteger. Conoces el hechizo Restauración, el cual no cuenta para tu límite de hechizos conocidos.
+
+Al inicio de tu turno, si no te encuentras Incapacitado, puedes elegir una de las siguientes opciones para ser usada sobre ti o una criatura que puedas ver dentro de un radio de 30 pies. Puedes usarla hasta un máximo de veces igual a tu MNA por descanso:
+
+Raíces Sanadoras: Recupera puntos de vida igual a 2d6.
+Hojas Protectoras: Obtiene un bonificador de +2 a la CA y salvaciones hasta el inicio de tu próximo turno.
+Grilletes Naturales
+Como acción, invocas raíces, espinas o enredaderas que emergen del suelo para inmovilizar y debilitar a tus enemigos. Elige un área de 20 pies que puedas ver entre de 60 pies de ti. Las criaturas en el área deben realizar una tirada de salvación de FUE contra tu CD de hechizo. Si fallan, reciben 4d6 de daño y quedan agarradas hasta el final de tu siguiente turno, o la mitad de daño y no se ven agarradas en caso de superarlo.
+
+Mientras estén agarradas por esta habilidad, además de los efectos normales de la condición, también tienen desventaja en salvación de FUE y DES.
+
+Puedes originar esta habilidad desde tu Compañero Animal, sin importar la distancia donde este se encuentre de ti, si así lo deseas. De hacerlo así, el Compañero Animal estará en el centro de la habilidad, pero no se ve afectada por esta.
+
+Puedes usar esta habilidad una vez por descanso.
+
+Vínculo Salvaje
+Obtienes el dote Compañero Animal y un hechizo con alcance de Uno Mismo, el cual no cuenta para tu límite de hechizos conocidos y en el que te consideras competente.
+
+
+ 
+
+ 
+
+
+Mago Sintonizador
+Una secta extraordinariamente rara de los miembros de la Asociación, con la habilidad de alinear las “longitudes de ondas” de la Magia de un usuario, efectivamente acelerando y mejorando sus circuitos mágicos.
+
+Convencionalmente, ellos asisten en los procedimientos médicos involucrados en remover y aplicar las Crestas Mágicas. Esta estimulación de Circuitos Mágicos e incluso Crestas Mágicas es una habilidad codiciada que no cualquier mago puede obtener en la era moderna.
+
+Competencias
+Armas simples.
+2 competencias a tu elección.
+
+Riqueza
+Comienzas con 8 de riqueza.
+
+Restauración de crestas mágicas
+Cuando derrotas a un Master enemigo en combate, puedes tomar 1 minuto fuera de combate para cosechar su legado mágico. Si poseía una Cresta Mágica, puedes reclamarla y vincularla a tu cuerpo, obteniendo los beneficios de esta. Tu cuerpo puede soportar una cantidad de crestas igual a la mitad de tu estadística de CON (redondeado hacia abajo).
+
+Si el enemigo no tenía una Cresta Mágica, puedes optar por sintonizarte con sus circuitos mágicos antes de que su alma se desvanezcan del mundo. Obtienes una competencia, un hechizo que este conocía a tu elección y una ranura de hechizo adicional. Si no tenía hechizos conocidos ni ranuras de hechizo, obtienes un punto en una estadística a tu elección en su lugar (no puede superar el límite de 5).
+
+Sintonía vital
+Sabes el hechizo Curar Heridas, se te considera competente con este y la primera vez que lo lances no gastas ranura de hechizo. También puedes usarlo como acción bonus, hacerlo de esta forma no limita tu acción para lanzar hechizos.
+
+Sintonización perfeccionada
+Puedes gastar 1 minuto fuera de combate para estimular los circuitos mágicos de una criatura, junto a cualquier Cresta Mágica en su posesión. Hasta el final del siguiente descanso, las criaturas estimuladas obtienen los siguientes beneficios:
+
+Su estadística más alta aumenta en 1 (puede superar el límite de 5), si hay un empate la criatura decide.
+Si era una criatura Lanzadora de Hechizos, puede obtener ranuras de hechizo adicionales iguales a la mitad de su MNA (redondeado hacia abajo).
+Si no era una criatura Lanzadora de Hechizos o decides no darle el beneficio anterior, entonces cualquier tirada de salvación y ataque realizado con su estadística más alta es con ventaja.
+Toque celestial
+Obtienes el Rasgo Magico de Cirugía Espiritual. Este rasgo no cuenta para tu límite normal de Rasgos Magicos.
+
+ 
+
+ 
+
+
+Ninja
+Agentes especiales distribuidos y escondidos a lo largo de todo Japon que, ante el ojo publico, han dejado de existir. Gracias a su sigilo, habilidad para fusionarse con las sombras y tecnicas de combate, son perfectos para misiones de seguimiento, espionaje o asesinato.
+
+Competencias
+Armas simples.
+Armas complejas.
+Armas improvisadas.
+También comienzas con 3 armas Arrojadizas.
+
+Riqueza
+Comienzas con 8 de riqueza.
+
+Arte ninja: ninjutsu
+Puedes utilizar tu acción bonus para crear un clon de sombras en un punto a 60 pies de ti que puedas ver. Puedes tener tantos como la mitad de tu estadística de DES (redondeado hacia arriba). Estos clones de sombras no pueden atacar, no tienen estadísticas y desaparecen tras ser dañados o terminas tu turno a más de 60 pies de distancia de estos.
+
+Puedes comandar telepáticamente a tus clones cuando son invocados o utilizando una acción bonus en turnos posteriores para moverse hasta tu velocidad de movimiento y/o utilizar la acción de Usar Objeto o la acción de Ayuda como parte del mismo comando.
+
+Emboscador aterrador
+Obtienes una bonificación a tus tiradas de iniciativa igual a la mitad de tu DES (redondeado hacia arriba) y tu velocidad de movimiento aumenta en 10 pies.
+
+Una vez por turno al atacar a una criatura mientras tiene a un enemigo suyo a 5 pies de distancia o tienes ventaja en su tirada de ataque, inflige 2d6 de daño adicional.
+
+Si atacas a una criatura sorprendida, tu Margen de Crítico se reduce a 18 - 20, acumulable con otras fuentes.
+
+La primera vez que realizas la acción de Atacar en un combate, puedes realizar un ataque adicional como parte de esa acción. Si ese ataque impacta, el objetivo sufre 1d6 de daño adicional del tipo de daño infligido.
+
+Ser de las sombras
+Obtienes visión en la oscuridad en un rango de 60 pies. Si ya tienes visión en la oscuridad, aumenta el rango de visión en 30 pies. Esto puede ver a través de la oscuridad mágica
+
+Eres experto en evadir criaturas que dependen de la visión en la oscuridad. Mientras estás en la oscuridad, eres invisible para cualquier criatura que dependa de la visión en la oscuridad para verte en esa oscuridad.
+
+Suprimir presencia
+Puedes usar la acción de Esconderte como acción bonus y ventaja en esas tiradas Esconderte. Tu CD de Exploracion pasa a ser 12 + tu DES o SUE (a elección).
+
+ 
+
+ 
+
+
+Prodigio
+Algunos magos nacen en poderosos linajes, pero otros nacen con una capacidad que supera por mucho la de sus ancestros. Algunos magos nacieron para ser exitosos, y son capacitados y perfeccionados hasta convertirse en eruditos.
+
+Competencias
+Dos tipos de hechizo de tu eleccion.
+Competencia especial: Armas y objetos. Tienes competencia con cualquier arma y objeto que estés sosteniendo, lo que te permite ignorar cualquier requisito que estos tengan, incluyendo Códigos Místicos.
+
+Riqueza
+Comienzas con 6 de riqueza.
+
+Alumno estudioso
+Inicias con un dote a tu elección.
+
+Experto en todos los oficios
+Una vez por descanso, si la utilización de Códigos Místicos requiere un recurso de clase o trasfondo el cual no posees (como las Cargas de Tempestad para la Corona de Tormentas del Aeromante), puedes elegir reducir tus puntos de vida en 10 puntos inmitigables por cada recurso necesitado para su activación en su lugar.
+
+Por ejemplo, si quieres usar una Corona de Tormentas con 5 cargas, y tu clase principal no es Aeromante, puedes perder 50 puntos de vida para utilizarla a ese nivel o si quisieras utilizar el Tatuaje del Flujo Arcano (Código Místico de trasfondo del Tatuaje Alquímico), puedes elegir perder 10 puntos de vida para activar su segunda habilidad (esto no te da la habilidad de Apoteósis Manantica, sólo permite usar todo lo que se pueda que no involucre dicha habilidad).
+
+Justo por encima del resto
+La base de todas tus estadísticas es 1 en vez de 0. A pesar de esto, el límite de tus estadísticas no cambia.
+
+Mi estilo: ¡¡¡SOBRECARGA!!!
+Elige un hechizo de daño del manual para convertirlo en tu hechizo insignia, este inflige 1d6 de daño adicional. Al lanzarlo por primera vez antes de un descanso, no consumes una ranura de hechizo.
+
+Cuando lances tu hechizo insignia, puedes gritar SOBRECARGA y gastar hasta 3 ranuras de hechizo adicionales. Por cada ranura adicional que uses:
+
+Añades 1d6 al daño total del hechizo.
+Incrementas la categoría de los dados de daño del hechizo en un nivel. Esto no afecta los dados adicionales por la SOBRECARGA. Si el hechizo ya utiliza d12, añade 1d4 en lugar de incrementar la categoría del dado.
+No puedes acumular este incremento de daño con otras fuentes que provengan de tu clase.
+
+ 
+
+ 
+
+Habilidades Adicionales para Trasfondos
+Los trasfondos son una parte esencial del juego, ya que otorgan personalidad y versatilidad a cada clase, permitiendo a los jugadores experimentar con diferentes estilos. Sin embargo, el sistema presenta ciertas limitaciones, especialmente en lo referente a la personalización.
+
+Aunque es posible utilizar un mismo trasfondo con distintas clases, la esencia del trasfondo no siempre se adapta al desarrollo del personaje. Por ello, a continuación se presenta un listado de nuevas habilidades que puedes incorporar a los trasfondos existentes. Recuerda consultar con tu DJ antes de implementar una o más de estas habilidades.
+
+Además, dependiendo del contexto de la Guerra, estas habilidades pueden adquirirse durante el transcurso de la misma, y el DJ tiene la libertad de ajustar su adquisición y detalles según lo considere necesario. Por ejemplo:
+
+Un Adepto Marcial, superado por un enemigo formidable durante la guerra, decide que no es suficiente su poder actual y hace un trato con un Comerciante, adquiriendo así sus Implantes Mágicos.
+El Ejecutor Designado de Sellado descubre pistas de un culto poderoso y alerta al Observador de la Iglesia, desbloqueando su Juicio Verdadero, que al usarlo alerta a todos los Masters para una tregua e ir tras los herejes.
+Un Heredero de una Familia de Magos, tras obtener recientemente su Cresta Familiar, se sumerge en extensos estudios por varias fases dentro de juego para dominar el orgullo de su linaje, obteniendo Réplica.
+El Mago Independiente utiliza una mezcla de magia hereje y tecnología para hacer un transplante de circuitos mágicos para robar una habilidad de un emeigo caído, obteniendo así la habilidad de Tu Origen, robándola de alguien más en vez de ser un reflejo de su pasado.
+Adepto marcial
+Implantes mágicos
+Tu cuerpo nunca será lo suficientemente poderoso como para rivalizar con la destreza del mundo mágico, pero eso nunca te detuvo. Ya sea un arma antigua o una de la actualidad, tienes un arma predilecta que te responde tal y como si fuera parte de tu cuerpo, porque, en efecto, lo es.
+
+Durante la cración de personaje elige un arma que hayas comprado, esta forma parte de tu cuerpo y eres capaz de convertirla en cualquier otra del manual del mismo tipo como acción bonus (si era cuerpo a cuerpo sólo armas cuerpo a cuerpo, si era a distancia sólo armas a distancia). Esta conserva sus habilidades adicionales, si las tenía. De tener accesorios equipados se mantienen en el arma únicamente si cumplen sus requisitos. De otra forma, se desequipan y los guardas sin uso de acción alguna.
+
+Cuando compras un arma y la fusionas con esta habilidad, ignoras sus requisitos incluso si es un código místico.
+
+Instructor de guerreros
+Tu dominio del combate te permite guiar a tus aliados en el fragor de la batalla, incluso si son completos novatos.
+
+Puedes usar una acción de 8 horas para entrenar hasta 3 criaturas a tu elección (ya sean Master o Servants) en los movimientos básicos del combate. Este entrenamiento no les otorga habilidades adicionales, pero les permite ejecutar maniobras con precisión bajo tu dirección.
+
+Una vez por ronda, cuando un aliado que hayas entrenado previamente y que puedas ver a 60 pies de ti realice un ataque de arma o acierte un ataque de arma, puedes gastar un dado de maniobra para que ejecute una maniobra que cumpla con los requisitos de activación. La maniobra utilizada debe ser una que tú conozcas y debe ser compatible con el ataque realizado.
+
+Maniobras
+Estas son opciones adicionales de maniobras que son posibles aprender, están ordenadas por orden alfabético.
+
+Abrazadera: Cuando una criatura que puedes ver se mueve dentro del alcance de un arma cuerpo a cuerpo que tengas (incluidos golpes desarmados, de tenerlos), puedes usar tu reacción para gastar un dado de superioridad y realizar un ataque contra ella con esa arma. Si el ataque impacta, suma el dado de superioridad a la tirada de daño del arma.
+
+Carnada y cambio: Durante tu turno, cuando estés a 5 pies de una criatura, puedes gastar un dado de superioridad e intercambiar posiciones con esta, siempre que esté dispuesta y no se encuentre incapacitada. Este movimiento no provoca ataques de oportunidad.
+
+Tira el dado de superioridad. Hasta el comienzo de tu siguiente turno, tú y la otra criatura obtienen una bonificación a la CA igual al número obtenido.
+
+Evaluación táctica: Cuando realices una prueba de habilidad puedes gastar un dado de superioridad, añade el resultado del dado a tu tirada. Puedes decidir lanzar el dado después de lanzar al d20, pero antes de que el DJ dictamine el resultado.
+
+Golpe de agarre: Inmediatamente después de impactar a una criatura con un ataque cuerpo a cuerpo en tu turno, puedes gastar un dado de superioridad e intentar agarrar al objetivo como acción bonus. Suma el dado de superioridad a tu tirada de Fuerza.
+
+ 
+
+ 
+
+Desconocido
+Patrocinador del infame
+Nadie cree que vayas a ganar, pero todos los que están al pendiente de la guerra están ansiosos de ver tu triunfo, o tu asquerosa caída.
+
+Desde el inicio de la guerra, hasta el inevitable final en el que te has metido, recibirás mensajes y tendrás comunicación directa con tu apostador principal, un mago de la Asociación que cree fervientemente que sobrevivirás, o al menos que le darás un buen dinero.
+
+Por cada día que sobrevivas, obtendrás recompensas que dependerán de lo que le pidas a tu Patrocinador, así como también un ingreso pasivo de 1 de riqueza al inicio de cada fase que te mantenga con vida.
+
+Posibles recompensas son: pociones que en conjunto cuesten hasta 4 de riqueza, un vehículo, un código místico cuyo costo sea 3 de riqueza o menos o una colección de pergaminos.
+
+Ejecutor Designado de Sellado
+Cazador inquebrantable
+Has perfeccionado el arte de la persecución, asegurándote de que tu presa nunca escape de tu alcance.
+
+Como acción, puedes utilizar un glifo especial que solo los Ejecutores conocen para marcar a una criatura que puedas ver dentro de 120 pies. Mientras esté marcada, obtienes los siguientes beneficios contra ella:
+
+Ignoras el efecto de cobertura media y tres cuartos cuando atacas a la criatura.
+Siempre y cuando la criatura se encuentre en un distrito que estés explorando la encontrarás, hayas tenido éxito o no en la tirada Exploración contra su dificultad de Escondite.
+Si la criatura se teletransporta o se vuelve invisible, sabes su ubicación exacta hasta el final de su turno, pero sigues sin poder verla directamente.
+La marca permanece hasta que la criatura muera, marques a otro objetivo o finalices un descanso.
+Otros Ejecutores Designado de Sellado son capaces de ver esta marca, al igual que criaturas con Visión Verdadera. Sólo los que estén enterados de su presencia pueden intentar disiparla con un hechizo de Disipar Magia o similares con una prueba de MNA contra tu CD de hechizo. El Ejecutor se entera telepáticamente si una marca ha sido removida antes de tiempo.
+
+Juicio verdadero
+Este es el último recurso de un Ejecutor Designado de Sellado, que solo utilizaría en una situación crítica al atestiguar un severo crímen de guerra.
+
+Como acción, apuntas al cielo con tus dedos, invocando una luz que enceguece a todas las criaturas a tu elección en un rango de 150 pies, las criaturas seleccionadas realizan una salvación de CON CD 17 al final de sus turnos para salir de la ceguera.
+
+Esta luz alerta a todos los miembros de la Asociación y la Iglesia. Después de cinco rondas de combate (30 segundos), aparecerán tanto los magos de la Asociación, como el Supervisor de la iglesia a detener las atrocidades que se estén cometiendo, a toda costa.
+
+Ten cuidado al usar esta habilidad, porque en caso de utilizarla en un inocente, tú te convertirás en el objetivo de los ejecutores. Sólo puedes utilizar esta habilidad una vez por guerra.
+
+
+ 
+
+ 
+
+Heredero de una familia de magos
+Réplica
+Como acción de ronda completa, puedes lanzar tu hechizo característico de una manera única, que solo tú y los miembros de tu familia podrían reconocer, que se lanza al encantar la palabra clave: “Réplica”. Dependiendo de las características del hechizo, el efecto varía.
+
+Si realizaba daño. Este hechizo se convierte en un hechizo de daño en área, que a lo largo de todo su recorrido para alcanzar su objetivo, fuerza los mismos efectos que aplicaría normalmente sobre todas las criaturas y objetos alcanzados. Deben hacer una salvación de DES contra la CD de tu salvación de hechizo o recibir la mitad de daño y ningún efecto adicional. Las criaturas que eran el objetivo original de tu hechizo también deben realizar la salvación para recibir el daño, además los efecto normales del hechizo. Una criatura sólo puede verse afectada por el recorrido de este hechizo una sola vez, independiente del número de hechizos lanzado en ese momento.
+Si no realizaba daño. Crea un área de 30 pies alrededor tuyo, afectando a las criaturas a tu elección mientras estén dentro del hechizo. Si requieren salvación de algún tipo, la realizan. Si requieren concentración, mantienes concentración por todas, como si fuera un solo hechizo, pero al final de tus turnos debes hacer una Salvación de Concentración CD 13 para seguir manteniéndola.
+Los hechizos de Réplica no pueden ser guardados por contingencia, copiados ni modificados por habilidades o Rasgos como Tejido de Hechizos, pero si por objetos y habilidades de tu propia clase, como la Hoja de Azoth y la habilidad de Piroblastos del Piromancer.
+
+Solo puedes usar esta habilidad una vez por descanso.
+
+Homúnculo
+Vigilantes
+Eres la carta del triunfo para quien te creó, por ende cuentas tanto con su protección como también una supervisión constante.
+
+Al iniciar la partida, cuentas con dos sirvientes que te obedecerán en todo lo que les ordenes, siempre y cuando eso no implique acciones suicidas o similares. Son sirvientes carentes de emociones que pueden combatir, pero no son especialmente buenos en ello. Estos homúnculos no pueden recibir mejoras por medio de hechizos y similares.
+
+En caso de morir, los sirvientes se reconstruirán al inicio de un nuevo amanecer, siendo homúnculos que saben exactamente dónde te encuentras en todo momento, sin importar la magia que utilices.
+
+Ten cuidado al utilizar este rasgo, queda a discresión del DJ qué tanta libertad te quedará como homúnculo al utilizar esta opción.
+
+Vigilante
+Constructo Mediano
+
+Clase de Armadura12
+Puntos de vida40
+Speed30 pies
+FUE	DES	CON	MNA	SUE
+1	2	2	4	1
+Inmunidad a estadosAgotamiento, Asustado, Cegado, Encantado, Envenenado, Paralizado, Petrificado, Sordo
+Recistencia a dañoPsíquico, Veneno
+Regeneración. Recuperan 5 puntos de vida al inicio de sus turnos
+
+Creación Consciente. Tiene ventaja en salvaciones para quedar envenenado
+
+Ligados. Suman tu SUE a sus salvaciones y tiradas de ataque.
+
+Actions
+Golpe. Ataque de arma cuerpo a cuerpo: +4 para golpear, alcance 5 pies, un objetibo. Golpe 1d6 + 4
+
+
+ 
+
+ 
+
+Mago Independiente
+Investigador privado
+Obtienes el nombre, una imagen y la clase principal de un mago al azar de los participantes de la guerra. Además, puedes gastar 3 de riqueza menor para saber los datos de otro participante. Puedes emplear esta habilidad tantas veces quieras en la creación de personaje, pero toda la información llegará una vez la guerra haya iniciado.
+
+De haber un mago con el trafondo Desconocido, este será el último en ser descubierto por esta habilidad y no sabrás nada de él, excepto que es un Master del que ningún mago ha oído hablar.
+
+Tu origen.
+Antes de ser un hereje a ojos de todos, tenías una vida. Tenías un motivo por el que cumplir la ley y las normas del lugar al que una vez perteneciste, ya sea porque así lo creían tus convicciones o por mera conveniencia.
+
+Elige una habilidad de cualquier trasfondo del manual, a excepción del Desconocido. Esa habilidad ahora te pertenece.
+
+Importante
+Consulta con tu DJ antes de elegir una habilidad. Recuerda que debe estar relacionada con la historia de tu personaje, por lo que si el DJ considera que no hay suficiente conexión, no podrás utilizarla.
+
+Mago de la asociación
+Partición de memoria (falso)
+Te especializaste durante un par de años en la rama de Atlas dentro de la Asociación, un tiempo suficiente para desarrollar una técnica de magia superior, aunque imperfecta. A los ojos de los demás, no eres más que un aprendiz de Atlas, aunque algún día esto podría cambiar.
+
+Al elegir esta habilidad, aprendes un hechizo del manual con un tiempo de lanzamiento de acción bonus. Eres competente con ese hechizo, sin importar las escuelas que domines, pero esto conlleva una limitación:
+
+Elige uno de tus hechizos conocidos con un tiempo de lanzamiento de una acción. Siempre que lances ese hechizo, deberás lanzar inmediatamente después el hechizo de acción bonus que elegiste. Ambos hechizos quedan vinculados y no pueden lanzarse de manera independiente ni ser afectados por habilidades que modifiquen hechizos, como Tejido de Hechizos.
+
+Monje de la Iglesia
+Purificación
+Cuando realizas tu acción de Ataque, puedes reemplazar uno de tus ataques para utilizar una habilidad o hechizo curativo, aplicándolo a la criatura que estás atacando.
+
+Si el objetivo es una criatura de alineamiento maligno, un no-muerto, un espíritu o un vampiro, en lugar de curarlo, tu poder sagrado lo quema con la furia divina. En estos casos, el objetivo pierde una cantidad de puntos de vida igual a los que habrías restaurado.
+
+El objetivo debe realizar una tirada de salvación de Constitución CD 17. Si tiene éxito, solo recibe la mitad del daño.
+
+Dogma de la perdición
+El Sacramento del Bautismo no solo castiga a los demonios y no-muertos. En manos de los inquisidores más fanáticos, se convierte en una herramienta de juicio absoluto.
+
+Herejía declarada
+Cuando una criatura se encuentra dentro del Sacramento del Bautismo, sea o no un espíritu, Demonio, no-muerto o vampiro, debe realizar la salvación, pero no sufre los efectos del Sacramento del Bautismo, sino que, en su lugar, puedes condenarla como hereje hasta el final del combate, siempre y cuando haya fallado la salvación. Si su alineamiento era Malvado, realiza la salvación en desventaja.
+
+Mientras esté condenada se la considera un demonio para todas las habilidades y hechizos provenientes de ti.
+
+Los Templarios y los Cyborg con el Sacramento del Bautismo también pueden utilizar este rasgo.
+
+ 
+
+ 
+
+Erudito
+Estado zen
+Tu espíritu está estrechamente conectado con el Servant que has invocado, logrando una unión que ningún otro podría lograr en todo el mundo. Eres, después de todo, una reencarnación o descendiente de aquél héroe o villano legendario que has invocado. Debido a esto, adquieres pasivamente una cualidad única según el tipo de clase que invocaste.
+
+Los guerreros (Saber, Rider o Lancer)
+Eres imbatible. No puedes ser tumbarta, aturdido ni paralizado y miendras estés consciente te mantendrás de pie, a menos que decidas lo contrario. Al bajar a 0 puntos de vida no caes inconsciente, pero debes seguir tirándo salvaciones de muerte normalmente. Mueres al tercer fallo y al estabilizarte recuperas 1 punto de vida. Sólo puedes usar esta función una vez por descanso.
+
+Cazadores (Archer)
+El menos noble de los nobles, con armas que eran consideradas de cobardes en tiempos de antaño. Todo proyectil que lances, sea mágico o no, forzará una tirada de salvación de CON DC 15, en un fallo el objetivo subre simultaneamente el estado de envenenado y quemado. Solo puedes forzar este efecto una vez en un mismo objetivo por cada acción de ataque. Además, todos tus proyectiles hacen un extra de 1d6 de daño veneno o fuego (tu elección al momento de disparar).
+
+Herejes (Assassin y Caster)
+Al entrar en combate, una densa niebla se expande con cada paso que das, conocido como “El purgatorio.” Este campo tiene un rango de 60 pies tomándote siempre a ti como el centro siguiéndote en todo momento, dando los siguientes efectos:
+
+Tú y tus aliados dentro del campo pueden esconderse como acción bonus, volviendo a estar en sigilo siempre y cuando no hayan enemigos a 10 pies de distancia.
+Todo enemigo que esté en el campo, deberá hacer una salvación de MNA DC 15 cuando ingresan al campo o inician su turno allí, o sufrirán 4d6 de daño por sofocación, recibiendo la mitad del daño en una salvación exitosa. Este daño no puede ser reducido ni bloqueado de ninguna manera.
+El hechizo Disipar magia puede anular este campo, siempre y cuando superen una prueba de habilidad de MNA enfrentada.
+
+Maldito por Dios (Berserker)
+Puedes volverte uno con tu servant. Una vez por descanso puedes usar tu acción bonus, tu cuerpo se transforma en el de un ser irreconocible, combinando tus rasgos con los de tu Servant. El Encantamiento de locura de tu Servant evoluciona, volviéndose algo nunca antes visto: Locura Bestial. Tu categoría de tamaño aumenta en una categoría, al igual que los dados de daño de tus armas. Si ya alcanzó el límite de d12, entonces se añade 1d4. Adquieres el rasgo de Ataque Extra si no lo tenías, de tenerlo este realiza un ataque adicional. Tienes una armadura natural de CA 18, pudiendo aún tener beneficios de un escudo, otros medios mágicos y tu DES (máximo de 2), además ya no sufres del Drenaje de Estadísticas por el rango del Servant, si era aplicable, ni el Encantamiento de locura por la duración de este estado.
+
+Sin embargo, la Locura Bestial no te permitirá lanzar hechizos con componente vocal, debido a que perderás el habla y solo podrás comunicarte por quejidos y gritos, debido a una ira descontrolada que te azota por completo. Aun así, puedes seguir concentrándote en hechizos que ya habías lanzado.
+
+Este efecto dura por un minuto, pero cada vez que eres dañado debes realizar una salvación de CON para mantenerlo, empezando con un DC 8 que incrementa en +2 cada vez que lo superas. Una vez sales de este estado, vuelves a tu forma normal, sufriendo 2 niveles de cansancio por el desgaste físico.
+
+??? (Clases extra)
+Tu espíritu no vibra con los valores terrenales ni con las doctrinas de los héroes tradicionales. Lo tuyo es una conexión anómala, irregular, casi inhumana. Lo que emanas no puede clasificarse ni predecirse, y precisamente por eso, rompe las reglas del mundo.
+
+Puedes cambiar tu tipo de criatura en cualquier momento de tu turno como una acción gratuita, obteniendo los beneficios habituales de la raza que elijas. Además, cuando seas el objetivo de una habilidad que dependa de tu raza o alineamiento para afectarte, puedes elegir no ser afectado por ella, como si no cumplieras los requisitos para ser su objetivo.
+
+
+
+
+ 
+
+ 
+
+Estratega
+Arquitecto Revolucionario
+Eres un mago cuya forma de pensar y actuar no se alinea con la de tus pares. Este rasgo distintivo, aunque a menudo ha generado miradas de desaprobación a lo largo de tu vida, te ha otorgado una perspectiva única que te permite pensar “fuera de la caja”. Según el tipo de Estratega que decidas ser, obtendrás beneficios específicos.
+
+Maestro Táctico.
+Analizas el combate y las estrategias de tus enemigos, lo que te permite adelantarte a sus movimientos. Al observar una criatura, puedes analizarla utilizando tu acción bonus, tienes +2 a las tiradas de ataque y daño contra esa criatura. Alternativamente puedes usar tu acción de ronda completa para un análisis más exhaustivo. Al hacerlo puedes compartir los beneficios con tus aliados a 60 pies, además todos los aliados (incluyendote) tienen un bono de +2 a su CA contra ataques de la criatura analizada y salvaciones que esta imponga. Puedes hacer la acción de ronda completa una vez por descanso.
+
+Los beneficios obtenidos con esta habilidad duran hasta el final de tu siguiente descanso.
+
+Maestro de la Subversión.
+Aprendes el hechizo de Antagonizmo y Disfrazar criatura, puedes lanzar cada uno una vez por descanso sin gastar ranura de hechizo y se te considera competente con estos. Puedes también usar tu acción bonus para forzar a una criatura que puedas ver y te pueda escuchar a 60 pies a hacer una salvación de MNA CD 15. En caso de fallar, todos los ataques tendrán ventaja contra esa criatura hasta el inicio de tu siguiente turno porque quedó distraído por algun engaño verbal tuyo.
+
+Artesano de lo Imposible.
+Sabes el hechizo del Arma Siempre Cambiante de Lord el Melloi, puedes hacerlo hasta 2 veces por descanso sin gastar ranura de hechizo y el daño adicional es 1d6 en vez de 1d4. También, puedes mejorar algún objeto no mágico a 60 pies como acción bonus para volverlo mágico y darle alguna propiedad adicional, como +1 a las tiradas de ataque y daño o +1 al CA. Las mejoras duran 1 minuto.
+
+Líder de Culto
+El Elegido
+Al construir tu culto, puedes designar a uno de tus seguidores como la encarnación de una entidad adorada por tu séquito, a quien harás creer que es “El Elegido”.
+
+El Elegido tendrá un único nivel en tu clase principal (no podrá subir de nivel por ningún medio) y 6 puntos de estadística para distribuir, siguiendo las reglas de un Master. Su vida base será 35 en vez de 60.
+
+Puedes manipular a El Elegido para que simule ser el verdadero líder del culto, guiando al resto de tus seguidores mientras tú te ocultas entre ellos. Mientras estés dentro del culto, serás indistinguible para los demás cultistas, mientras que El Elegido será percibido como otro Master de la guerra. Los medios mágicos no podrán revelar tu verdadera identidad mientras no utilices ni tengas activos hechizos o habilidades de clase. Puedes usar tu acción para tomar el control del cuerpo de El Elegido, asumiendo su forma, voz y visión, siempre y cuando estés a 90 pies de él. Mientras lo haces, tu cuerpo original quedará cegado y ensordecido.
+
+Puedes lanzar hechizos y usar habilidades de clase desde la posición de El Elegido mientras lo posees. Esto no te revelará como un Master, pero aún así gastará tus ranuras de hechizo.
+
+Sombra del séquito
+Cuando realizas un delito, y no eres descubierto por un Master o entidades como el gobierno, la Iglesia, o la Asociación de Magos que busquen encontrar al causante, puedes evitar que se dispersen rumores utilizando la influencia de los seguidores que están en tu séquito. Cuando lo hagas, el DJ deberá evaluar la gravedad del delito cometido, y clasificarla para asignar una dificultad a una prueba de habilidad de MNA o SUE (dependiendo de la forma en que lo encubras) que debes superar. Si tienes éxito en la tirada, todo queda encubierto y no aparece por ningún medio oficial, a menos que quieras inculpar a alguien más. En la Tabla de delitos se encuentran algunas sugerencias para utilizar de referencia.
+
+A medida que tu culto crece en poder e influencia, eres capaz de implantar más testigos falsos, falsas evidencias, y utilizar tus conexiones para evitar tomar la responsabilidad de crímenes cada vez mayores. Por cada día de construcción que tu culto haya avanzado, la CD de la tirada se reduce en 2. Si la CD de la tirada es 10 o menor, la pasas automáticamente.
+
+Tabla de delitos
+Gravedad	Ejemplos de delito	CD
+1	Robo a una tienda no mágica (armas, objetos, vehiculos).	15
+2	Robo a una tienda mágica, saqueo a un banco, homicidio de civiles (en poca cantidad).	20
+3	Homicidio de civiles en masa (consumir distrito como Apóstol Muerto, Absorción de almas)	25
+ 
+
+ 
+
+Millonario
+Servicios Personalizados: Mini-mecha
+Nadie más que tú podría permitirse un gasto tan absurdamente ridículo con tal de obtener aunque sea una mínima ventaja en una guerra.
+
+Gastando 10 de riqueza puedes comenzar la guerra con un mecha blindado el cual puedes montar y controlar a la perfección, mejorando toda capacidad física de la que careces.
+
+En caso de perderlo, deberás gastar 10 de riqueza para enviar una orden de construcción y traslado, te llegará un nuevo mecha en una locación designada por ti en el momento de su encargo. Debido a regulaciones internacionales, sólo eres capaz de tener un mecha a la vez.
+
+Este mini-mecha, puede esconderse en el subsuelo de tu base o en donde más lo desees.
+
+El piloto no puede hacer acciones, además de las dadas por el Mecha, mientras pilota.
+
+Montar y desmontar el Mini-mecha cuesta una acción, a menos que esté oculto en el subsuelo, en dicho caso sólo cuesta la mitad de tu movimiento.
+
+Mini-mecha
+Vehículo grande, hasta 2 pasajeros (1 debe ser el piloto)
+
+Clase de armadura18
+Puntos de vida120
+Velocidad60 pies, 60 pies de vuelo (solo con los propulsores)
+FUE	DES	CON	MNA	SUE
+5	2	3	2	0
+Inmunidad a esadosAgotamiento, Asustado, Cegado, Encantado, Envenenado, Paralizado, Petrificado, Sordo
+Inmunidad a dañoPsíquico, Veneno
+SentidosVisión a ciegas de 60 pies.
+Autodestrucción Cuando cae a 0 PV, expulsa a su piloto de manera automática a un punto a desocupado a 30 pies del piloto a elección, al final de su siguiente turno genera una explosión descomunal. Todas las criaturas que se encuentren a 30 pies deben hacer una tirada de salvación de DES DC17 o recibir 8d8 de daño de fuego, la mitad en una salvación exitosa.
+
+Objeto inanimado No puede ser beneficiado de ningún tipo de curación o efecto mágico que sea aplicable en criaturas.
+
+Reconstrucción El mecha no puede ser curado por ningún medio, pero siempre y cuando le quede por lo menos 1 punto de vida recuperará todos sus puntos de vida al finalizar tu siguiente descanso.
+
+Acciones
+Lanzamisiles (recarga 5 - 6). Arma a distancia: +10 para golpear, alcance 100/250 pies, un objetivo. Impacto 5d8+10 de daño contundente. Impacte con éxito o no, todas las criaturas a 10 pies del objetivo original (y el propio objetivo) deben realizar una salvación de DEC CD17 o recibir 5d8 de daño de fuego, la mitad en un éxito.
+
+Fusil de asalto. Arma a distancia: +10 para golpear, alcance 60/120 pies, un objetivo. Impacto 6d6+10 de daño perforante.
+
+Acciones bonus
+Subfusil. Arma a distancia: +10 para golpear, alcance 60/120 pies, un objetivo. Impacto 4d4+5 de daño perforante.
+
+Propulsores. hasta el final de tu siguiente turno obtienes velocidad de vuelo 60 pies.
+
+Lanzagranadas. alcance 60/120 pies. Las granadas lanzadas tienen los efectos y daños de las granadas que compres en el juego. Las granadas se compran por separado.
+
+
+ 
+
+ 
+
+Tatuaje alquímico
+Andar inconcebible
+Eres capaz de manipular el éter con la misma naturalidad con la que respiras. A diferencia de los magos convencionales, no necesitas canalizar tus circuitos mágicos para mejorar tu cuerpo. Esto te permite caminar con normalidad sobre superficies verticales y agua, manteniéndote sobre estos incluso al detenerte, siempre que así lo desees y no estés incapacitado.
+
+Los Ninja también pueden utilizar este rasgo.
+
+Dominio del Apóstol Final (Prototype)
+Eres un ejemplar único, marcado por la herejía y la disciplina de tu entrenamiento. El éter que impregna el universo ha quedado grabado en tu cuerpo, otorgándote un poder que solo los fieles de la Iglesia deberían poseer. Caminar por superficies verticales y sobre el agua no provoca ataques de oportunidad para ti.
+
+Además, durante la creación de personaje, puedes adquirir la Séptima Sagrada Escritura con un descuento de 2 de riqueza. Si la compras en esta etapa, obtendrá una característica única que ningún creyente de la Iglesia se atrevería a utilizar: la Forma Prototype.
+
+Mientras uses una Séptima Sagrada Escritura (Prototype), puedes ignorar los componentes somáticos de tus hechizos. Esta forma cambia dependiendo del modo del arma (cuerpo a cuerpo o a distancia), conservando su daño base, su bonificación mágica de +3 y el bono de +5 a tiradas de ataque y daño contra criaturas herejes y constructos.
+
+Séptima Sagrada Escritura (Prototype - Cuerpo a Cuerpo)
+Rango cuerpo a cuerpo: 15 pies.
+Cada vez que impactas con un ataque en un mismo combate, acumulas una carga de Fe Sanguinaria, hasta un máximo de 3.
+Puedes usar las 3 cargas como acción bonus, liberarando la verdadera naturaleza del arma. Las escamas de la Escritura se expanden a tu alrededor, desgarrando a todas las criaturas en un radio de 15 pies. Cada objetivo debe hacer una tirada de salvación de DES CD 18 o recibir 6d6 de daño cortante y quedar con la condición de Sangrado. Con una salvación exitosa, recibe la mitad del daño y evita la condición.
+Cuando realizas un ataque, puedes elegir hasta tres criaturas dentro del rango del mismo ataque y golpearlas simultáneamente. Utilizas una sola tirada de ataque para determinar si impactas y una única tirada de daño para todos los objetivos alcanzados.
+Séptima Sagrada Escritura (Prototype - Furtivo)
+“La fe prevalece incluso dentro de la propia herejía, trascendiendo la voluntad del hombre para abrazar la divinidad.” — Desconocido.
+
+Un arma conceptual desplegable que genera su propia munición en forma de escrituras sagradas, incinerando a sus enemigos al impacto.
+
+Rango a distancia: 150/500 pies.
+Esta arma usa tu FUE en lugar de DES para las tiradas de ataque y daño.
+Fragmentos de Furtivo
+Al entrar en combate, dos fragmentos del arma orbitan a tu alrededor. Son indestructibles e inseleccionables para cualquier efecto.
+
+Estos fragmentos disparan automáticamente al primer enemigo que entre en su rango por primera vez en un turno.
+
+Fragmentos de Furtivo: 1d8+2 de daño perforante, rango: 80 pies, ataque a distancia +8 al impacto.
+Disparo del Último Amanecer
+Una vez por amanecer (se recarga con cada nueva fase de día), puedes canalizar toda la fuerza del arma en un único disparo devastador.
+
+Como acción de ronda completa, obligas a todas las criaturas dentro de un cubo de 20 pies en un rango de 150 pies a realizar una tirada de salvación de SUE CD 18.
+Las criaturas que fallen reciben 15d8 de daño radiante y quedan cegadas.
+Aquellas que superen la salvación no sufren daño ni quedan cegadas, pues han sido juzgadas dignas a los ojos de Dios.
+ 
+
+ 
+
+Alquimista de Atlas
+Sincronía de Atlas
+Has perfeccionado la habilidad de coordinar a tus invocaciones con precisión milimétrica para maximizar el impacto en el campo de batalla. Una vez por descanso, cuando realizas un ataque exitoso, puedes comandar a todas las criaturas invocadas bajo tu control capaces de realizar un ataque, incluidos los Protectores de Atlas, para que ataquen de manera sincronizada contigo, siempre y cuando el objetivo esté dentro de su rango de ataque, y no estén incapacitados.
+
+En lugar de infligir su daño normal, cada criatura que participe aumenta el daño de tu ataque en 1d6 por cada criatura que forme parte de la sincronía. Este daño adicional no se multiplica si tu ataque resulta ser un golpe crítico. Sin embargo, se aplican todos los efectos de las armas que posean tus invocaciones. Si múltiples criaturas provocan salvaciones del mismo tipo (por ejemplo, varias armas envenenadas), solo se realiza una tirada de salvación, cuyo resultado se aplica a todas las salvaciones del mismo tipo.
+
+Alquimista de Praga
+Amalgamar
+El arte de la alquimia no se detiene en la transmutación de metales o la destilación de esencias. Para los verdaderos visionarios, el límite entre lo vivo y lo muerto es solo una barrera temporal, una ecuación a resolver. Con un conocimiento prohibido de la carne y el alma, eres capaz de unir múltiples cuerpos en una sola entidad, creando aberraciones que desafían la naturaleza misma. Ya sea combinando la esencia de seres vivos, moldeando cadáveres recientes en sirvientes insaciables, o forjando horrores impíos con ambos, tu arte ha trascendido la moral y el sentido común.
+
+Como acción, puedes elegir cualquier número de criaturas voluntarias de tamaño Pequeño o mayor dentro de un cubo de 30 pies, ubicado a un máximo de 120 pies de ti en un punto que puedas ver, y fusionarlas en un solo ser compuesto por múltiples cuerpos.
+
+Para usar esta habilidad, debes seleccionar al menos dos criaturas dispuestas y/o cadáveres de criaturas que hayan fallecido en las últimas 24 horas, y consumes una cantidad de vapores igual al número que vayas a unir. Esta habilidad no afecta a Servants ni a Masters vivos.
+
+El resultado de la fusión es una amalgama, cuyas características dependen de los materiales utilizados:
+
+Horror Profano: Resultado de fusionar tanto seres vivos como cadáveres.
+Necrófago Compuesto: Formada exclusivamente con cadáveres.
+Quimera Alquímica: Creada únicamente con seres vivos.
+Tamaño: La criatura es Grande (2x2 casillas) si se usaron hasta 3 materiales y Enorme (3x3 casillas) si se emplearon 4 materiales o más.
+
+Amalgama
+Tamaño variable, tipo variable
+
+Clase de armadura16
+Puntos de vida30 + 5 por cada material usado
+Velocidad30 pies, 30 pies de vuelo (Solo Quimera Alquímica)
+FUE	DES	CON	MNA	SUE
+3	3	3	3	0
+Inmunidad a daño:necrótico (Solo Necrófago Compuesto); daño físico
+Resistencias a daño:necrótico y radiante (Solo Quimera Alquímica)
+Sentidosvisión en la oscuridad 60 pies
+Entidad Inestable. Si la Amalgama se creó con invocaciones o criaturas con tiempo de vida limitado, estos materiales aún cuentan para sus respectivos límites (si los tienen). Si al menos uno de los materiales tenía una duración definida, la Amalgama implosionará al finalizar dicho tiempo. Además, si la fusión incluye una invocación (como las creadas con Invocar Gran Familiar), la Amalgama puede ser disipada mediante Disipar Magia u otros efectos similares, requiriendo una prueba de MNA enfrentada contra tu MNA.
+
+Horror Profano. Es considerado un constructo, tiene inmunidad a terreno difícil. Toda criatura que mate es transformada en un Necrófago, puede controlar un necrófago por cada 10 puntos de vida máximos que tenga (Necrófagos tienen 10PV, 12 AC y 1 en todas sus estadísticas, +3 para atacar y 1d6 de daño cortante con garras. Son incapaces de usar armas de fuego, armas complejas y códigos místicos).
+
+Necrófago Compuesto. Es considerado un no-muerto. Cualquier criatura que comience su turno a 5 pies o menos del Necrófago Compuesto debe superar una tirada de salvación de Constitución CD 13 o será envenenada hasta el comienzo de su siguiente turno. Una criatura que no necesite respirar es inmune a este rasgo.
+
+Quimera Alquímica. Es considerado una Bestia, pero al ser una creación hereje es considerada como una criatura hereje para armas, habilidades y hechizos de los miembros de la Iglesia.
+
+Acciones
+Multiataque Realiza una cantidad igual a la mitad de los materiales utilizados (redondeados hacia abajo).
+
+Golpe. Ataque de arma cuerpo a cuerpo: tu MNA o CON para golpear, alcance de 5 pies, un objetivo. Golpe 2d6 + 3 (o 3d6 + 3 si es su tamaño es Enorme) de daño contundente
+
+Roca. Ataque de arma a distancia: tu MNA o CON para golpear, alcance de 40/90 pies, un objetivo. Golpe 1d8+3 de daño contundente
+
+ 
+
+ 
+
+Bruja
+PENDIENTE
+
+Cyborg
+Dogma de la perdición (solo si se sabe el Sacramento del Bautismo)
+El Sacramento del Bautismo no solo castiga a los demonios y no-muertos. En manos de los inquisidores más fanáticos, se convierte en una herramienta de juicio absoluto.
+
+Herejía declarada
+Cuando una criatura se encuentra dentro del Sacramento del Bautismo, sea o no un espíritu, Demonio, no-muerto o vampiro, debe realizar la salvación, pero no sufre los efectos del Sacramento del Bautismo, sino que, en su lugar, puedes condenarla como hereje hasta el final del combate, siempre y cuando haya fallado la salvación. Si su alineamiento era Malvado, realiza la salvación en desventaja.
+
+Mientras esté condenada se la considera un demonio para todas las habilidades y hechizos provenientes de ti.
+
+Los Monjes de la Iglesia y Templarios también pueden utilizar este rasgo.
+
+Druida
+PENDIENTE
+
+Mago sintonizador
+PENDIENTE
+
+ 
+
+ 
+
+Ninja
+Andar inconcebible
+Eres capaz de manipular el éter con la misma naturalidad con la que respiras. A diferencia de los magos convencionales, no necesitas canalizar tus circuitos mágicos para mejorar tu cuerpo. Esto te permite caminar con normalidad sobre superficies verticales y agua, manteniéndote sobre estos incluso al detenerte, siempre que así lo desees y no estés incapacitado.
+
+Los Tatuaje Alquímico también pueden utilizar este rasgo.
+
+Especialista en el arte ninja
+Te has especializado en una de las 3 ramas principales que definen tu identidad al momento de realizar tus misiones.
+
+Ninjutsu
+En vez de aprender nuevas técnicas, decidiste reforzar los conocimientos básicos, lo que te permite resaltar en misiones de reconocimiento y ser un ejército de un hombre.
+
+La cantidad de Clones de Sombra que puedes invocar aumenta a 1 + tu DES, también cuando invocas un clon de sombra, este puede realizar un ataque de arma (además de la acción que le habrías comandado normalmente), copiando el arma que llevas equipada en este momento o un ataque desarmado (si lo tienes), este daño se considerará daño mágico. Si es un ataque de munición, no replica municiones especiales ni aplica habilidades adicionales, de tenerlas, como el envenenamiento de los frascos de veneno o la reducción de vida máxima de una daga de hidra.
+
+Genjutsu
+Has decidido ir por la senda del engaño, el sigilo y el espionaje. Tu deber es pasar desapercibido y recolectar la información que debas del objetivo, o matarlo sin que tenga oportunidad de responder. Sabes los hechizos de Disfrazar criatura, Sin Detección y Doppelganger, se te considera competente con estos hechizos. Para una salvación su DC será 12 + tu DES. Una vez por descanso, puedes lanzar cada uno de estos hechizos sin gastar una ranura de hechizo.
+
+Una vez por descanso, cuando usas Doppelganger como reacción, puedes hacer que el duplicado tome el daño en tu lugar, pero al hacerlo no te vuelves invisible.
+
+Taijutsu
+A diferencia de los demás, tal vez porque no tenías circuitos mágicos suficientes, o tal vez por convicción de probarte a ti mismo, has decidido ir por la senda de exceder los límites del cuerpo humano.
+
+Tus golpes desarmados infligen 1d4 de daño contundente, puedes usar tu FUE o DES para las tiradas de ataque y daño, tienes +1 a todas tus tiradas de ataque cuerpo a cuerpo, y si atacas a una criatura que aún no ha tomado su turno está ronda, tienes ventaja en la tirada de ataque. Además, aprendes el Dote de Iniciado Marcial.
+
+Prodigio
+PENDIENTE
+
+Templario
+Dogma de la perdición
+El Sacramento del Bautismo no solo castiga a los demonios y no-muertos. En manos de los inquisidores más fanáticos, se convierte en una herramienta de juicio absoluto.
+
+Herejía declarada
+Cuando una criatura se encuentra dentro del Sacramento del Bautismo, sea o no un espíritu, Demonio, no-muerto o vampiro, debe realizar la salvación, pero no sufre los efectos del Sacramento del Bautismo, sino que, en su lugar, puedes condenarla como hereje hasta el final del combate, siempre y cuando haya fallado la salvación. Si su alineamiento era Malvado, realiza la salvación en desventaja.
+
+Mientras esté condenada se la considera un demonio para todas las habilidades y hechizos provenientes de ti.
+
+Los Monjes de la Iglesia y los Cyborg con el Sacramento del Bautismo también pueden utilizar este rasgo.
+
+ 
+
+ 
+
+Dieftharamante
+También llamados “Magos de corrupción”, los Dieftharamantes son conocidos por su capacidad de modificar el campo de batalla y transformar objetos mundanos en armas peligrosas o monstruos para ayudarlos en combate.
+
+Con sus habilidades, los Dieftharamantes más ingeniosos son capaces de dar vuelta cualquier situación y restringir su oponente en un abrir y cerrar de ojos. en el peor de los casos, escapando para luchar otro día
+
+Lanzador de hechizos
+Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
+
+Competencias
+Armas simples.
+Hechizos de tipo Encantamiento.
+Hechizos de tipo Transmutacion.
+Un tipo de hechizo a elección.
+
+Corrupción
+Tu toque moldea la existencia a su merced. Ante tus manos, no hay nada seguro, ni siquiera la economía
+
+A Nivel 1, corrompes la percepción que la gente tiene de ti, convenciendolas de que te den lo más preciado que tienen.
+
+Al final de cada fase, una o más personas te van a regalar 1 de riqueza, además de que sumas +2 en las tiradas de riqueza obtenida al trabajar.
+
+Crear Monstruo
+El mundo está hecho para tus manos, usa sabiamente tus moldes y crea tus poderosas esculturas
+
+A Nivel 1 obtienes la capacidad de crear monstruos. Usando una acción, puedes tocar cualquier objeto no mágico para crear una versión monstruosa de este. Los objetos no pueden ser cosas que no quepan en tu mano. Todos los monstruos duran por un máximo de 8 horas o hasta que su vida sea reducida a 0 y son invocados hasta un máximo de 20 pies de ti. Puedes tener una cantidad de monstruos igual a tu nivel en esta clase. También eres capaz de corromper objetos cotidianos simplemente cambiando su estética sin ningún beneficio mecánico
+
+Al crear un monstruo, estos heredan las capacidades del objeto en cuestión (Ejemplo: una granada estalla, una camisa puede ser usada) y se vuelven un tipo de monstruo a tu elección. Monstruos invocados de esta forma toman su turno inmediatamente después del tuyo y el objeto original es destruido cuando estos mueren.
+
+Atrapador
+Constructo, Mediano
+Este monstruo tiene extremidades que son resistentes como el acero para tratar de apresar al objetivo y restringir su movilidad.
+
+Clase de Armadura10
+Puntos de vida10
+Velocidad0 pies
+FUE	DES	CON	MNA	SUE
+3	2	0	0	1
+Inmunidad a estadosInterferencia mental
+Habilidades
+Apresar. Puedes usar tu reacción cuando un objeto o criatura entre o salga de un radio de 10 pies de esta unidad para forzar una tirada de fuerza enfrentada, el objetivo queda apresado y detenido en un fallo o con una reducción de movimiento de 10ft en un éxito.
+Atraer. Esta criatura puede usar su reacción para traer, puedes atraer una criatura aliada en un radio de 20 pies a una casilla adyacente a esta unidad.
+
+Acciones
+Golpe rotundo. Cuerpo a cuerpo: 2 + FUE a impactar, alcance 20 pies, un objetivo. Impacto: 1d10 + 4 de daño contundente.
+
+Boxeador
+Constructo, Mediano
+Este monstruo se especializa en ir cuerpo a cuerpo y causar un escándalo. Generalmente toma una forma más humanoide
+
+Clase de Armadura15
+Puntos de vida20
+Velocidad40 pies
+FUE	DES	CON	MNA	SUE
+1	3	2	1	5
+Inmunidad a estadosInterferencia mental
+Habilidades
+Bloqueo corporal. Usando tu reacción, si una de estas criaturas está 5ft de ti o un aliado y son objetivo de un ataque, puedes hacer que esta criatura se convierta en el nuevo objetivo.
+Atraer. Esta criatura puede usar su reacción para traer, puedes atraer una criatura aliada en un radio de 20 pies a una casilla adyacente a esta unidad.
+
+Acciones
+Ataque múltiple. Cuando esta criatura usa su acción para atacar, puede volver a atacar con la misma acción. Golpe rotundo. Cuerpo a cuerpo: 2 + tu FUE a impactar, alcance 5 pies, un objetivo. Impacto: 2d4 + 3 de daño contundente.
+
+ 
+
+ 
+
+
+Deshonestidad
+¡Los buenos sirvientes no se derrochan! Es un desperdicio de personal
+
+Al nivel 2, cuando corrompes un objeto, puedes gastar 1 ranura de hechizo para evitar que el objeto se destruya.
+
+Monturas monstruosas
+No hay mejor sentimiento que pisotear a alguien, y por ello es que tus monturas tienen la vida necesaria para darte esa satisfacción
+
+Al nivel 2, utilizando tu acción, puedes corromper 1 vehículo que tengas al alcance de tu mano, al convertirlos en monstruos, puedes darles 1 de las siguientes propiedades:
+
+La montura aumenta su velocidad de movimiento en 15ft
+La montura obtiene 10 de HP temporal (no acumulable) al inicio del turno
+La montura tiene +2 a su CA
+La montura obtiene un ataque, utiliza tu modificador mágico para tiradas de ataque y causa 1d6+2 de daño al golpear
+La montura tiene velocidad de escalada igual a la original
+Al ser golpeada con un ataque cuerpo a cuerpo, el atacante sufre 5 de daño perforante
+Al terminar la transformación habiendo pasado 8 horas o reducido su vida a 0, este queda inutilizable. Vehículos corrompidos cuentan para la cantidad de monstruos creados con la habilidad “Crear Monstruo”
+
+Campaña de fermentación
+Invertir en tus súbditos siempre es una buena inversión, ¡más grande, más fuertes y más peligrosos!
+
+Iniciando a Nivel 3, eres capaz de mejorar tus monstruos
+
+Cuando creas un monstruo con la habilidad “Crear Monstruo” puedes utilizar una acción bonus para agregar riqueza al objeto corrompido. Por cada riqueza que agregues, este suma:
+
++5 al HP
++1 en CA
++1 a la CD
++5ft de velocidad
++1 en todas las estadísticas
+Adicionalmente, puedes elegir gastar 1 de riqueza para darle a tu monstruo resistencia a un tipo de daño. Puedes usar un máximo de 5 de riqueza por monstruo creado.
+
+ 
+
+ 
+
+Corrupción Mejorada
+No eres ningún Dieftharamante promedio, eres de los mejores en tu clase
+
+A partir de Nivel 3, tu corrupción mejora significativamente, y eres capaz de crear más tipos de monstruos.
+
+La habilidad “Corrupción” ahora te entrega 2 de riqueza de forma pasiva y otorga un +3 a las tiradas de trabajo.
+
+Eres capaz de invocar los siguientes tipos de monstruos además de los ya mencionados:
+
+Reptante
+Constructo, Grande
+Una criatura similar a una serpiente o una masa gelatinosa que se desliza por el piso y trata de atrapar a sus víctimas
+
+Clase de Armadura13
+Puntos de vida10
+Velocidad20 pies
+FUE	DES	CON	MNA	SUE
+1	1	1	1	0
+Inmunidad a estadosInterferencia mental
+Habilidades
+Serpenteo. Cuando esta unidad debe hacer una tirada de salvación contra un conjuro, no recibe daño en una tirada exitosa o la mitad en una fallida.
+
+Diluir. Enemigos pueden pasar por encima de esta unidad y acabar su turno sobre ella. Criaturas que terminen su turno sobre esta unidad sufren una penalización de -2 a la CA
+
+Acciones
+Triturar. Como acción, puede agarrar con feroces garras a una criatura que esté a menos de 5ft de ti. La criatura elegida hace una salvación de fuerza DC 15, si esta falla, sufre 1d6 + 1 de daño perforante y queda tumbado o la mitad de daño en caso de un éxito. Puedes repetir la tirada de salvación al intentar levantarte al inicio de tu turno.
+
+Volador
+Constructo, Pequeño Una criatura alada de alguna clase, esta criatura surca los cielos buscando la oportunidad de atacar y es más fuerte de lo que aparenta
+
+Clase de Armadura10
+Puntos de vida5
+Velocidad30 pies
+FUE	DES	CON	MNA	SUE
+0	2	0	3	2
+Inmunidad a estadosInterferencia mental
+Habilidades
+Roba-turno. Cuando una criatura está en tu rango de 30ft de esta unidad, puedes usar tu reacción para atacar al objetivo. Al hacerlo, esta unidad muere automáticamente.
+
+Ojo prestado. Eres capaz de ver y escuchar a través de esta unidad.
+
+Acciones
+Asalto aéreo. Cuerpo a cuerpo: 2 + FUE a impactar, alcance 5 pies, un objetivo. Impacto: 1d8 + 2 de daño contundente.
+
+Asalto aéreo. Cuerpo a cuerpo: 2 + FUE a impactar, alcance 5 pies, un objetivo. Impacto: 1d6 + 2 de daño contundente. Si el ataque impacta, el objetivo tiene que superar una tirada de CON DC 16 o quedar cegado.
+
+Pudrir la tierra
+Ya nada se escapa al control que tienes, ni siquiera los cimientos bajo tus pies
+
+Al nivel 4 puedes, una vez por descanso, usar una acción bonus para corromper un radio de 120ft contigo como origen. Al corromper la esa área, eliges uno de los siguientes efectos:
+
+Todos tus monstruos atacan con un bono de +3.
+Los enemigos hacen una salvación de Maná contra tu CD y en un fallo, pierden la mitad de su movimiento.
+Todos los enemigos son considerados en alcance de toque y puedes invocar monstruos en cualquier casilla dentro de los 120ft.
+Todos tus aliados duplican su movimiento.
+Puedes cambiar de lugar con cualquier monstruo como acción bonus.
+ 
+
+ 
+
+Depravador de almas
+Escuchaste las malas lenguas, ¡No hay nadie más corrupto que aquel que rompe sus propias reglas!
+
+A partir de Nivel 5 eres capaz de dar el salto más allá
+
+Eres capaz de corromper y transformar objetos mágicos y códigos míticos bajo tu posesión
+
+Corruptor Vil
+¡Esto es! ¡Mi gran creación! ¡Demostremosles a todos de qué estamos hechos!
+
+Llegando a Nivel 5, el rango de “Crear Monstruo” aumenta a 30ft. Además de que obtienes la capacidad de crear Monstruos Viles. Estos solo pueden ser creados 1 vez cada 24 horas, y sólo puedes tener uno de ellos a la vez. Estos monstruos también cuentan para la cantidad total de monstruos y necesitas gastar 2 de Riqueza además del objeto para ser invocados. La lista de Monstruos viles son los siguientes:
+
+Doppelganger
+Constructo, Pequeño Una copia identica a ti, casi imposible de reconocer
+
+Clase de Armadura13
+Puntos de vida25
+Velocidad30 pies
+FUE	DES	CON	MNA	SUE
+2	2	2	2	2
+Inmunidad a estadosInterferencia mental
+Habilidades
+Mi mejor amigo soy yo. Esta criatura es completamente indiferenciable de ti, con la única forma de ser identificado siendo habilidades de Rango B+. Eres capaz de convocar a este monstruo cuando estás por recibir un ataque con una reacción y hacer el Doppelganger el nuevo objetivo del ataque (esto no ignora ninguna restricción de “Crear monstruo”).
+Doble problema. El Doppelganger es capaz de utilizar tus mismas habilidades. Puedes usar tu Acción, Acción Bonus, Movimiento y Reacción a través de la copia además de lanzar conjuros y usar habilidades siempre y cuando esté en tu rango de visión. Si el monstruo está fuera de esta, solo eres capaz de hablar a través de él y desplazarlo.
+
+Acciones
+Usar objeto. Además de tus habilidades y conjuros, puedes atacar con cualquier objeto que le hayas dado al doppelganger al ser creado. Si el objeto es un consumible, este puede usarlo cuantas veces se lo hayas dado.
+Asalto aéreo. Cuerpo a cuerpo: 2 + FUE a impactar, alcance 5 pies, un objetivo. Impacto: 1d6 + 2 de daño contundente. Si el ataque impacta, el objetivo tiene que superar una tirada de CON DC 16 o quedar cegado.
+
+Juggernaut
+Constructo, Gigante
+Un monstruo enorme diseñado como último recurso en una situación de guerra sin cuartel, hecho a la medida para tirar todo un edificio
+
+Clase de Armadura16
+Puntos de vida35
+Velocidad20 pies
+FUE	DES	CON	MNA	SUE
+4	0	3	3	2
+Inmunidad a estadosInterferencia mental
+Habilidades
+Liberar a la bestia. Tardas una acción de turno completo en crear a esta unidad. Debido a que casi toda su energía se concentra en mantener su colosal tamaño, este no puede tener ataques de oportunidad.
+
+Acciones
+Ataque múltiple. Cuando esta criatura usa su acción, puede atacar hasta 3 veces con la misma acción.
+Puñetazo. Cuerpo a cuerpo: 2 + FUE a impactar, alcance 10 pies, todos los objetivos en línea recta. Impacto: 2d12 + 4 de daño contundente.
+Mordisco. Ataca con la mandíbula y trata de desgarrar a su oponente. El objetivo tiene que superar una tirada de salvación de Fuerza DC 17 o obtener el estado Sangrado. El objetivo puede repetir la tirada de salvación al inicio de cada uno de sus turnos.
+Cañón (Recarga 5 - 6). Esta unidad crea una masa de energía y la lanza dentro de una línea recta de 200ft. Al impactar, explota en un radio de 30ft y fuerza una salvación de Suerte DC 16, causando 4d8 + 3 de un tipo de daño a tu elección. En una salvación exitosa, el objetivo no sufre daño.
+
+
+ 
+
+ 
+
+Entomante (Rework)
+Practicantes de una antigua forma olvidada de hechicería de la rama de la familia Matou, los magos realizan un ritual para aumentar sus reservas mágicas o corregir su baja habilidad mágica mediante el cultivo de insectos dentro de sí mismos.
+
+Lanzador de hechizos
+Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
+
+Competencias
+Hechizos de tipo Conjuracion
+
+Cresta mágica
+Al nivel 1 los Entomantes canalizan el tremendo poder del enjambre, lo que les permite usar los insectos que alojan en sus cuerpos de múltiples formas. Comienzas con un numero de puntos de enjambre iguales a tu igual a tu CON, que no puedes recuperar con descansos. No hay límite para la cantidad de puntos de enjambre que puedes tener.
+
+Cosecha de enjambre
+Puedes gastar tu acción de fase para ordenar a tus enjambres que maten a civiles en el área del mapa donde estás para que se alimenten de sus cuerpos y luego regresar a tu ubicación, otorgándote 1d4 puntos de enjambre.
+
+Ser testigo de la muerte de un monstruo o bestia mágica a menos de 60 pies te otorgará 1d4 puntos de enjambre, aumentados a 2d4 para un Mago o 2d4+2 para un Servant. Esto no es aplicable con criaturas aliadas o que estén bajo tu control.
+
+Oleada de gusanos
+Al nivel 1, cuando lanzas un hechizo, puedes gastar un punto de enjambre y 5 puntos de vida para aumentar el daño infligido en 1d8.
+
+Cascaron de gusano cuchilla
+Al nivel 2 aprendes a manejar la Entomancia de forma que puedes mezclarla con los distintos hechizos que manejas.
+
+Al lanzar un hechizo cuyo tiempo de lanzamiento sea de 1 acción, puedes crear un Enjambre de langostas dentro de un rango a 60 pies que puedas ver, este enjambre es un cubo de 10x10 pies y las criaturas dentro del área cuando apareció el enjambre, o si una criatura termina su turno dentro del area, deben realizar una tirada de salvación de CON. Si fallan, reciben 2d6 de daño necrótico, o la mitad del daño si tienen exito. Este enjambre dura hasta el final del combate.
+
+Circuitos mágicos artificiales
+A partir del nivel 3, puedes gastar 4 puntos de enjambre durante un ritual de 8 horas para fusionar gusanos con los circuitos mágicos de un humano. Si el objetivo no es humano o tiene 1 de CON o menos, el ritual falla automáticamente.
+
+Una criatura sólo puede beneficiarse de esto una vez.
+
+La CON de la criatura se reduce en 2 (esto no afecta sus puntos de vida máximos) y su MNA aumenta en 2 (esto puede llevarlo a más de 5, pero no puede superar 7).
+
+Durante un encuentro, la criatura pierde 3 puntos de vida al final de cada uno de sus turnos y cada vez que lanza un hechizo (Este daño no puede ser reducido e ignora puntos de vida temporales).
+
+Explosión de cadáver
+Al nivel 3, cuando una criatura que puedas ver muere, puedes usar 1 punto de enjambre para hacer que el cadáver explote en una nube de veneno. Las criaturas en un radio de 10 pies del cadáver reciben 2d6 de daño por veneno.
+
+Sacrificio de la cresta
+A partir del nivel 4 puedes sacrificar puntos de enjambre para obtener diferentes efectos.
+
+Como acción, gastas puntos de enjambre para curarte de heridas pasadas. Por cada punto de enjambre gastado, recuperas 2d6 puntos de vida.
+
+Como acción bonus, gastas 2 puntos de enjambre para recuperar 1 ranura de hechizo.
+
+
+9
+
+ 
+
+ 
+
+Gusano de sangre
+A partir del nivel 4, puedes gastar 4 puntos de enjambre para lanzar el hechizo Levantar a los muertos.
+
+Al hacerlo, transformas a los no-muertos en una criatura que se alimenta de carne y sangre humana. Solo puedes tener hasta 2 Enjambres de Sangre en un momento dado.
+
+Enjambre de sangre
+no-muerto, Mediano
+
+Clase de armadura12
+Puntos de vida25 + tu MNA
+Velocidad35 pies de velocidad y 30 pies
+FUE	DES	CON	MNA	SUE
+3	1	2	1	1
+Cambia formas. Como acción, Enjambre de sangre adopta su forma de enjambre. Su tamaño aumenta a Enorme, gana una velocidad de vuelo de 60 pies, se vuelve resistente al daño de ataques de un solo objetivo y vulnerable al daño AOE. En turnos posteriores, puede volver a su forma humana como acción adicional.
+
+Forma de Enjambre. Puede ocupar el espacio de otra criatura y viceversa, y puede moverse a través de pequeñas aberturas. La primera vez que una criatura entra en el espacio del Enjambre de sangre en un turno o termina su turno allí, sufre 3d6 de daño cortante. De esta forma, el enjambre sólo puede utilizar su turno para moverse.
+
+Acciones
+Multiataque. El enjambre de sangre puede atacar dos veces con sus garras.
+
+Mordida Ataque de Arma cuerpo a cuerpo: +3 para golpear, alcance 5 pies., un objetivo. Golpe: 2d4 + 3 de daño punzante. Si el objetivo no es un no-muerto o un constructo, el enjambre de sangre cura el daño causado.
+
+Garra.* Ataque de Arma cuerpo a cuerpo: +3 para golpear, alcance 5 pies., un objetivo. Golpe: 1d6 + 3 de daño cortante.
+
+Verdadera magia de enjambre
+Al nivel 5 logras una comprensión de tu magia sacrificando tu humanidad por la llave hacia la verdadera Entomancia. Desbloqueas los siguientes beneficios:
+
+Produces automáticamente 2 puntos de enjambre al inicio de cada nueva fase.
+
+Oleada de Gusanos ya no sacrifica vida para aumentar el daño de un hechizo y te cura la mitad del daño infligido.
+
+Circuitos mágicos artificiales ahora reduce la estadística de CON en 1 y no inflige daño.
+
+El daño de Explosión de Cadáver aumenta a 3d6.
+
+Además, obtienes un nuevo rango de insectos para mejorar la potencia de tus hechizos. Cada opción cuesta 2 puntos de enjambre, y aplicar magia de enjambre a un hechizo cambia el tipo de daño a necrótico.
+
+Enjambre engullido. Cuando lanzas un hechizo que inflige daño, ganas puntos de vida temporales iguales al daño infligido.
+
+Enjambre repulsivo. Cuando lanzas un hechizo obligas a los objetivos a realizar una tirada de salvación de MNA. Si fallan, se asustan de ti. Los objetivos pueden repetir esta tirada de salvación al final de sus turnos.
+
+Enjambre venenoso. Cuando lanzas un hechizo obligas a los objetivos a realizar una tirada de salvación de CON. Si fallan, quedan envenenados. Los objetivos pueden repetir esta tirada de salvación al final de sus turnos.
+
+Por último, haz abandonado completamente tu humanidad para convertirte en la obra maestra de tu Entomancia.
+
+Tu tipo de criatura pasa a ser no-muerto.
+
+Obtienes las habilidades y ataques de Enjambre de sangre.
+
+Puedes iniciar el juego con Circuitos Mágico Artificiales aplicados en ti, aún y cuando ya no seas humano.
+
+
+ 
+
+ 
+
+Códigos místicos
+Equipo especializado y artículos mágicos diseñados para asistir a los magos en áreas que ni el entrenamiento físico ni la magia convencional pueden alcanzar. Si un Código Místico inflige daño, este es considerado mágico; si se trata de un arma, también se considera mágica junto al daño que realiza.
+
+La mayoría de los Códigos Místicos requieren sintonización, pero solo puedes sintonizarte con un máximo de 3 a la vez.
+
+Cincel de la Musa Perfecta
+Código Místico, 3 de riqueza
+
+Un cincel de mármol inmaculado, adornado con delicadas vetas doradas que parecen latir con un brillo tenue. Se dice que fue utilizado por Galatea durante una Guerra del Grial pasada, donde su maestro, obsesionado con la perfección, le pidió que esculpiera estatuas que reflejaran la belleza absoluta. Las creaciones de Galatea dejaron una huella imborrable para quienes las observaron. Aunque no posee el poder de la auténtica Galatea, este cincel permite a su portador plasmar su visión en creaciones mágicas, dando forma a nuevas obras que trascienden lo ordinario.
+
+Para combate cuenta como una daga, que tiene un bonificador mágico de +1. Cuando se lanza un hechizo que fuera a invocar una o más criaturas, el lanzador puede decidir utilizar el Cincel en su mano como foco para el lanzamiento del hechizo y esculpir en el aire los detalles de la criatura a invocar. Al hacerlo puede cambiar el tipo de la criatura que se invocará (Bestia, constructo, espíritu, etc.), obtiene resistencia al daño físico y puede darle hasta 2 de los rasgos descritos a continuación:
+
+Eco Marmóreo: La criatura puede usar una reacción para imponer desventaja en una tirada de ataque dirigida a ella, reflejando un instante de belleza divina que distrae a su agresor.
+Escultura Viva: La criatura obtiene +2 a la CA debido a la dureza de su forma esculpida.
+Forma Idealizada: Como acción bonus puede cambiar su tamaño en una categoría, volviéndose más imponente o más ágil según lo requiera. Si aumenta su categoría de tamaño respecto al original obtiene 15 de PV máximos adicionales y realiza un dado de daño adicional en cada uno de sus ataques. Si disminute su categoría de tamaño respecto al original obtiene 15 pies de movimiento adicionales y provoca ataques de oportunidad en desventaja.
+Obra de la Musa: Tiene ventaja en salvaciones contra hechizos de interferencia mental, pues al ser un eco de la perfección no hay algo que le pueda alterar.
+Pulso de la Creación: Al inicio de su turno, la criatura puede recuperar 5 puntos de vida debido a la estabilidad mágica de su forma idealizada.
+Colgante de Ceniza.
+Código Místico, 3 de riqueza. Requisito: Tu clase principal debe ser Piromante
+
+Un encargo especial de la familia Tohsaka que no llegó a terminarse a tiempo. Fue un hallazgo inesperado de una investigación por parte del departamento de Arqueología y Minerología de la Torre del Reloj; un trozo de mineral que naturalmente conducía el maná. Según estudios solía usarse para rituales sacrílegos a un dios sin nombre que moraba dentro de un volcán.
+
+El daño de Piromanía y Piroblastos inflige 1d6 de daño de fuego adicional. Adicionalmente, al utilizar Piromanía con un hechizo de daño en área, el área afectada se vuelve Terreno Difícil hasta que sea disipado por un hechizo de Disipar Magia o similar.
+
+Toda criatura que entre por primera vez en su turno a esta área o empiece su turno ahí 1d6 de daño de fuego.
+
+Cuando una criatura falle una salvación de un hechizo o habilidad de clase impuesta por ti que inflija daño de fuego, sufrirá el estado de Quemado. Este, a diferencia del Quemado normal, puede acumular el daño de otros estados de Quemado hasta un máximo de 3 acumulaciones (15 de daño) y para poder quitárselo se necesita realizar una prueba de habilidad de SUE contra tu CD de hechizos, en ventaja si se tuvo contacto con agua o de instantáneamente si se recibió daño de frío.
+
+Codex balístico
+Código Místico, costo: 3 de Riqueza. Requisito: Trasfondo de Mago Independiente.
+
+Puedes respetar las normas tradicionales de la hechicería, pero eso no significa que las sigas. En tu búsqueda por encontrar maneras de cumplir tu trabajo de formas inesperadas, encontraste algo que te llamó la atención: unos planos robados del departamento de Teoría de Hechicería Moderna de la Torre del Reloj; un prototipo de algo que une la taumaturgia y las armas de la Era Moderna. Este Código Místico no requiere sintonía.
+
+Este Código Místico se instala en tu arma como un Accesorio (ubicación: abajo), un dispositivo único creado a partir de tu propia piel y sangre, lo que permite conectar tus circuitos mágicos directamente con las balas que disparas.
+
+Una vez por turno, puedes reemplazar uno de tus ataques con un hechizo que realice un ataque de hechizo y cuyo tiempo de lanzamiento sea de 1 acción. Al hacerlo de esta forma:
+
+En lugar de realizar un ataque de hechizo, haces un ataque de arma a distancia.
+
+Usas los bonificadores de tu arma para la tirada de ataque.
+
+El alcance del hechizo es igual al alcance de tu arma.
+
+ 
+
+ 
+
+Cresta de inmortalidad
+Código Místico, 4 de riqueza, Requisito: Tu clase principal debe ser Entomante
+
+El blasón de una familia de magos muy antiguo y decrépito transmitido de generación en generación entre muchos practicantes Entomantes.
+
+Transformas tu Cresta de Gusano, permitiéndote empujar tu cuerpo y aptitud magica más allá de sus límites mortales al precio de consumirte en el proceso. Ya no caes inconsciente cuando tus puntos de vida llegan a 0, en cambio, ingresas a la Puerta de la Muerte.
+
+Mientras te encuentras en la Puerta de la Muerte puedes actuar con normalidad mientras tiras salvaciones de muerte al final de tus turnos y recibir daño te obliga a realizar una tirada de salvación de muerte. Cuando superas 3 tiradas de salvación de muerte, sales de la Puerta de la Muerte con 1 punto de vida. En cambio, si fallas 3 tiradas de salvacion de muerte o el total de daño recibido supera tus puntos de vida máximos, mueres. Habilidades que consumen puntos de vida no te obligan a realizar una tirada de salvación de muerte.
+
+Cuando un Entomante sale de la Puerta de la Muerte, gana 1d4 puntos de enjambre. Sólo puede obtener puntos de enjambre por este medio una vez cada fase de 8 horas.
+
+Espadas de las constelaciones (rework del manual base)
+Código Místico, 4 de riqueza, Requisito: Tu clase principal debe ser Astromante
+
+Un par de cimitarras gemelas con los 12 signos del zodiaco grabados en sus hojas. Puedes usar tu MNA en lugar de FUE o DES para las tiradas de ataque y daño con estas armas. Mientras estés sintonizado con ellas, estarás permanentemente bajo los efectos del hechizo Previsión. Sin embargo, el daño de las cimitarras no puede mejorarse por ningún medio.
+
+En combate, puedes gastar uno de tus Dados de Predicción y pronunciar la palabra clave: “Destino”. Al hacerlo, las cimitarras se separan en versiones espectrales, cada una representando un signo zodiacal, formando un total de 12 cimitarras danzantes a tu alrededor.
+
+Como acción bonus puedes enviar cualquier cantidad de cimitarras espectrales a un aliado en un rango de 120 pies. Mientras tenga al menos una, también estará bajo los efectos de Previsión. Sin embargo, el bono a sus tiradas varía según la cantidad de cimitarras que lo rodean, otorgando +1 por cada 4 cimitarras. Aunque todas las cimitarras se alejen, sigues bajo los efectos de Previsión, pero el bono del hechizo se reduce en 1 por cada 4 cimitarras que no estén a tu lado.
+
+Cualquier criatura con al menos 4 cimitarras espectrales orbitando a su alrededor obtiene el siguiente beneficio:
+
+Cada vez que realice un ataque, las cimitarras espectrales replican su trayectoria y atacan simultáneamente. Si el ataque que realizó impacta, el daño de las Espadas de las Constelaciones, junto con tu modificador de daño, se añade al daño total del ataque original. El daño ocasionado por las espadas de esta forma no aumenta en un golpe crítico y el daño de las espadas sólo puede sumarse a la tirada una vez por turno.
+
+ 
+
+ 
+
+Gotas de Estigia
+Código Místico, 3 de riqueza
+
+Un par de dagas gemelas conectadas por una resistente correa de cuero negro, otorgándoles la capacidad de extenderse y moverse como un látigo. Sus hojas púrpuras destellan con un brillo maligno. Si bien el arma original se perdió en la historia, los estudios y recuerdos de cierta maga que una vez luchó junto a la Gorgona Medusa permitieron replicar su esencia.
+
+Estas dagas se pueden usar como un látigo con la propiedad Sutil, con 15 pies de rango para un ataque cuerpo a cuerpo, se puede lanzar con un rango de 60/90 pies, regresando a la mano después del ataque, realiza 1d8 de daño cortante y tiene un bonificador mágico de +1.
+
+Esta arma otorga el dote de Iniciado Marcial a quien lo utilice, además de 3 maniobras especiales que no cuentan para sus maniobras aprendidas por el dote:
+
+Abrazo de la Serpiente: Cuando impactas con un ataque lanza tu dado de maniobra, añade el resultado al daño y puedes forzar al objetivo a realizar una tirada de salvación de FUE. En caso de fallar, la criatura queda agarrada por la correa.
+Colmillos de la Gorgona: Cuando impactas con un ataque lanza tu dado de maniobra, añade el resultado al daño y puedes forzar al objetivo a realizar una tirada de salvación de CON. Si falla, su velocidad se reduce a 0 hasta el final de tu próximo turno, como si una petrificación parcial lo paralizara.
+Danza de la Gorgona: Solamente puedes usar esta maniobra cuando tienes una criatura agarrada con la Gota de Estigia. Usando tu acción bonus lanzas tu dado de maniobra, la criatura agarrada recibe 5 veces el resultado del dado de maniobra como daño contundente y tiene el estado de sangrado, pero se libera del estado del agarre. La criatura liberada puede realizar una tirada de salvación de CON para recibir la mitad de daño y no quedar con el estado de sangrado en una salvación exitosa. Si falló, puede repetir la salvación al final de sus turnos para quitarse el sangrado en un éxito.
+Guantes del Ejecutor
+Código Místico, 2 de riqueza. Requisito: Trasfondo de Ejecutor Designado de Sellado.
+
+A lo largo de la historia de la Torre del Reloj, sus Ejecutores se han enfrentado a innumerables cantidades de magos que han empleado toda clase de trucos para evitar su castigo. Es por esto que la Torre del Reloj se dedicó a crear un objeto que evitaría más pérdidas de sus mejores Ejecutores. El resultado fue un arma conceptual que extiende la capacidad de Supresión mágica de los ejecutores, volviéndolos cazadores de magos por excelencia.
+
+Pierdes el rasgo de Suprimir la Magia, pero a cambio esta habilidad está siempre activa alrededor de ti como un campo delimitado personal.
+
+Restricciones: No puedes beneficiarte de hechizos que afecten a tu cuerpo (como Doppelganger, Regeneración, Alteración del Tiempo, etc.) o mejoras en armas (esto no afecta a las habilidades que tenga el arma, sólo mejoras). Tampoco puedes aprovechar los efectos de Campos Delimitados, pero aún puedes usar magia que no te potencie (como Bola de Fuego o Patrón Hipnótico) y pociones.
+
+Ventajas:
+
+Eres inmune a efectos perjudiciales de Campos Delimitados.
+No puedes ser detectado por magia (incluyendo el Aura de Detección de los Servants).
+Realizas todas las salvaciones contra magia con ventaja.
+El daño recibido por efectos mágicos se reduce a la mitad.
+Tus ataques cuerpo a cuerpo pueden activar Disipar Magia sobre la criatura golpeada. Puedes usar esta habilidad también sobre ti o sobre una criatura dispuesta como acción bonus. Puedes hacerlo un número de veces igual a tu MNA (mínimo 1).
+Campo Delimitado Especial: Una vez por descanso, puedes crear un campo delimitado especial de 60 hasta pies de radio. Dentro de este campo, las criaturas tienen ventaja contra efectos mágicos, y el daño de magia se reduce a la mitad. Mientras este campo esté activo, pierdes los beneficios y limitaciones de los Guantes. Este campo delimitado especial sólo dura 3 turnos.
+ 
+
+ 
+
+Huevo de Cristal
+Código Místico, 5 de riqueza. Requisito: Trasfondo de Mago de la Asociación
+
+Un familiar cambia-formas que ha sido adormecido en una jaula de cristal. El portador de este objeto puede devolverlo a la vida formando un lazo con él, debiendo hacer un ritual de un minuto para otorgarle la forma que tomará una vez despierte de su letargo. La criatura invocada obedece únicamente a su amo y acciona al mismo tiempo que él.
+
+El familiar es una Bestia Diminuta que tiene 30 puntos de vida, 12 de CA, una velocidad de 10 pies de caminata y 30 pies de vuelo, todas sus estadísticas son 1. Al momento de ser despertada puede adquirir una de las siguientes formas y obtener habilidades dependiendo de su forma:
+
+Águila: Tus ataques de hechizo obtienen un bonificador de +1 al ataque. Una vez por turno, cuando aciertas un ataque de hechizo puedes moverte hasta 10 pies sin provocar ataques de oportunidad. Además, una vez por turno, cuando aciertas un golpe crítico con un ataque de hechizo cuyo tiempo de lanzamiento es de 1 acción, puedes lanzar otro hechizo que tenga una tirada de ataque como parte de la misma acción.
+Cuervo: Cuando infliges daño a una criatura, puedes forzarle a realizar una tirada de salvación contra tu CD de hechizo, reduciéndole 1 punto a su estadística de FUE, DES o MNA a tu elección. La salvación a realizar es de la estadística que se intenta reducir. Este efecto es acumulativo, pudiendo reducir hasta un máximo de 3 puntos en una sola estadística, y dura hasta el final del tercer turno de la criatura afectada, reiniciándose la duración cada vez que se reduce una estadística de manera exitosa. Sólo puedes intentar reducir una estadística a la misma criatura una vez por turno.
+Lechuza: Una vez por descanso, cuando el amo del familiar falla una tirada de salvación, puedes elegir pasarla automáticamente. Además, el usuario no puede ser sorprendido mientras el familiar tenga esta forma.
+Todos los efectos que da este familiar sólo son posibles si se mantiene dentro de un rango de 30 pies de su amo. En caso de alejarse más de 30 pies, caer a 0 de vida o cambiar de forma, los efectos que tenía esa forma desaparecen instantáneamente.
+
+El familiar vuelve a su estado de reposo en caso de que sus puntos de vida bajen a 0, pudiendo renacer después de tu próximo descanso. Puedes cambiar la forma del familiar con una acción gastando una ranura de hechizo o al finalizar un descanso.
+
+Manto del Inquisidor
+Código Místico, 2 de riqueza. Requisito: Trasfondo de Monje de la Iglesia
+
+La Inquisición no busca la compasión, solo la verdad y el juicio. Este Código Místico es concedido únicamente a aquellos cuya fe es inquebrantable y cuyo deber es erradicar la herejía sin vacilación. Su mera presencia en el campo de batalla impide que los pecadores encuentren alivio en la magia o en sus dones profanos.
+
+Mientras estés consciente, eres inmune a cualquier efecto de interferencia mental causado por Criaturas herejes. Además, todas las criaturas de estos tipos que se encuentren dentro de un radio de 30 pies de ti no podrán recuperar puntos de vida por ningún medio. Esto incluye regeneración, curación mágica, absorción de vida y otros efectos restaurativos, exceptuando tu rasgo Sanación Divina.
+
+Portar el Manto del Inquisidor es aceptar un deber sagrado y despiadado: dondequiera que pises, la redención es imposible, y solo el castigo prevalece.
+
+Pallium Ultimi Decreti
+Código Místico, 2 de riqueza. Requisito: tu Trasfondo debe ser Homúnculo
+
+La familia Einzbern destina recipientes para el Grial y completar su parte en la guerra. Estos ropajes, si bien originalmente no cumplían un propósito más allá del ritual, ahora sirven como una muestra de orgullo y, también, poder.
+
+Este traje cuenta como una armadura ligera, con un bonificador de +1 al CA. Mientras lo lleves puesto obtienes los siguientes beneficios:
+
+Realizas con ventaja toda salvación que afecte tu movimiento o que involucre debilidad física.
+
+Tienes competencia con un tipo de hechizo a tu elección.
+
+Hasta dos veces por descanso, cuando fueras a lanzar un hechizo, puedes reducir tus puntos de vida en 10 puntos inmitigables en lugar de gastar una ranura de hechizo.
+
+ 
+
+ 
+
+Recuerdo de Atalanta
+Código Místico, 5 de riqueza, Requisito: Tu alineamiento no debe ser Malvado
+
+Un arco largo, tiene un bonificador mágico de +2. Puedes usar MNA en vez de DES para sus tiradas de ataque y daño. Una réplica del arma que usaba una arquera de los mitos de antaño. Aún y cuando es una imitación, los materiales utilizados en su construcción y el maná imbuido en esta son de los mejores en la tierra.
+
+Cuando se golpea a una criatura con un ataque de este arco, puedes gastar una ranura de hechizo o perder 10 puntos de vida (esta pérdida no se puede reducir e ignora puntos de vida temporales), la criatura golpeada y las que están a 10 pies reciben 2d6 de daño de fuerza.
+
+Lluvia de estrellas: Puedes escuchar brevemente los ecos del pasado y replicar una versión inferior de una proeza de Atalanta. Como acción de ronda completa puedes elegir un punto entre 150 pies de distancia, todas las criaturas en un radio de 30 pies deben hacer una tirada de salvación de DES DC 16 o recibir 15d6 de daño perforante o la mitad en una salvación exitosa. Esta habilidad trata a las resistencias como si no existieran, incluida la resistencia de los Servants proveniente de la Resiliencia Espiritual, y trata inmunidades como resistencia. Sólo puedes usar “Lluvia de Estrellas” una vez por Amanecer (se recarga cada nueva fase de día).
+
+Recuerdos del mañana
+Código Místico, costo: 3 de Riqueza, tu nivel máximo se reduce en 1. Requisito: Trasfondo de Desconocido, nivel total actual menor a 5.
+
+Tuviste un sueño, una visión, un anhelo… O al menos eso crees. Toda tu vida ha sido la de una persona normal, hasta que algo cambió en tí. Una nocha sentiste una voz llamándote, alguien Familiar, lo entendiste: eras tú. Tu versión del futuro ha intentado advertirte de lo que se avecina, pero al hacerlo, ha sellado tu destino.
+
+Este Código Místico, una vez sintonizado, es imposible de remover, pues se ha unido a tu alma de forma permanente. Tus circuitos mágicos han sido refinados por tu yo del futuro, dándote acceso a un poder que todavía no te corresponde:
+
+Adquieres el últino nivel de tu clase principal de forma inmediata (pero no los intermedios).
+Apendes una competencia adicional.
+Se te considera competente con todos los trucos, aprendiendo uno de inmediato.
+Obtienes una ranura de hechizo adicional (tengas o no una clase lanzadora de hechizos) y aprendes un hechizo a tu elección.
+Sabes la clase principal de todos los Masters de la guerra.
+Conoces la identidad de un Servant de la guerra. El DJ elegirá el cual considere causó mayor impacto en tu versión del futuro.
+Sin embargo, al haber sellado tu destino al recibir este poder, tu habilidad de Suerte Insondable solo añade la mitad de tu SUE (redondeado hacia abajo) en lugar de la estadística completa a las tiradas que realices y no puedes tener niveles en otra clase hasta que tengas todos los que corresponen a tu clase principal.
+
+Tótem del Último Guerrero
+Código Mística, 4 de riqueza
+
+Un tótem miniatura que hace reminiscencia al que una vez irguió Gerónimo en su comarca. Los espíritus que le favorecieron en su momento han notado la familiaridad en esta réplica y su curiosidad hizo que por unos momentos los mundanos materiales se conectaran con lo espiritual, volviendolo un material altamente valioso para entablar unión entre lo espiritual y terrenal.
+
+Este tótem es pequeño, por lo que puede llevarse como un colgante. Al llevarse, el portador puede lanzar los siguientes hechizos de Conjuración, aunque no sea competente con los mismos sin gastar ranuras de hechizo. Sólo puede haber hasta un total de 5 o hasta tu MNA (el que sea superior) de criaturas invocadas con este Tótem al mismo tiempo y obedecen sus respectivas reglas en sus hechizos.
+
+Invocar Elemental.
+Invocar Gran Familiar.
+Invocar montura.
+ 
+
+ 
+
+Hechizos
+Esta es la sección de trucos, hechizos y campos delimitados. Los hechizos se dividen en ocho escuelas de taumaturgia: Abjuración, Conjuración, Adivinación, Encantamiento, Evocación, Ilusión, Nigromancia y Transmutación.
+
+Los sacramentos, la forma de hechicería utilizada por la Santa Iglesia, también se incluye como una escuela.
+
+Trucos
+Un truco es un hechizo simple que puedes lanzar a voluntad sin gastar ningúna ranura de hechizo.
+
+Arma sagrada
+Truco de sacramento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: V, S, M (arma cuerpo a cuerpo)
+Duración: 1 minuto
+
+Rezas una oración y sostienes tu arma en alto para que sea bendecida.
+
+Mientras dura el ataque, el arma arroja una luz tenue en un radio de 10 pies y puedes usar tu MNA para sus tiradas de ataque y daño, en lugar de FUE o DES. Además, puedes elegir infligir el tipo de daño normal del arma o cambiarlo a daño radiante.
+
+Cuando logras un golpe crítico en una tirada de ataque con esta arma, puedes elegirte a ti mismo o a un aliado a 20 pies que pueda verte. El objetivo obtiene puntos de vida temporales equivalentes a 1d6.
+
+Cambiar superficie
+Truco de ilusión
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: S
+Duración: 1 hora
+
+Cuando lanzas este truco, debes tocar un objeto o una criatura voluntaria. Cambias la apariencia de una pequeña área que tocaste en la superficie del objetivo mientras dure este truco o hasta que lo lances de nuevo.
+
+Una criatura puede usar su acción para examinar el área afectada y determinar que está bajo este hechizo si tiene éxito en una tirada de salvación de MNA contra tu CD de salvación de hechizo.
+
+Crear objeto
+Truco de transmutación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: S
+Duración: 1 hora
+
+Puedes transformar una materia prima, como un trozo de metal o madera, en un objeto inanimado o en un arma cuerpo a cuerpo sencilla de tu elección.
+
+Objeto: Su tamaño no puede ser mayor que Pequeño y su peso, dureza, etc. dependen del material.
+
+Arma: Es mágica y cuenta como tal para superar la resistencia o inmunidad. El arma desaparece después de un uso o si no se usa dentro de la hora siguiente a su creación, volviendo a su estado como materia prima.
+
+La creación desaparece después de 1 hora, cuando usas el truco nuevamente, si recibe daño o si inflige daño.
+
+Escudo parpadeante
+Truco de abjuración
+
+Tiempo de lanzamiento: 1 acción bonus
+Alcance: Toque
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Envías un destello de energía protectora a una criatura que puedas tocar. Si el objetivo recibe daño del ataque de una criatura antes de que termine el truco, el daño se reduce en 1d6 + tu MNA y luego termina el truco.
+
+Explosión sobrenatural
+Truco de Evocación
+
+Tiempo de Lanzamiento: 1 Acción
+Alcance: 120 pies
+Componentes: V, S
+Duración: Instantánea
+
+Lanzas un rayo de energía crepitante. Realizas hasta dos ataques de hechizo a distancia contra una criatura u objeto dentro del alcance. Al impactar, el objetivo recibe 1d6 de daño de Fuerza. Cada rayo tiene una tirada de ataque separada y pueden tener distintos objetivos.
+
+ 
+
+ 
+
+Golpe de prueba
+Truco de adivinación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 30 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Disparas motas de luz brillantes a un objetivo que puedas ver dentro del alcance.
+
+Realizas un ataque de hechizo a distancia. Si impactas, el objetivo recibe 1 punto de daño psíquico y aprendes inmediatamente una de sus inmunidades, resistencias o vulnerabilidades, si las hubiera.
+
+Golpe radiante
+Truco de sacramento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Uno mismo
+Componentes: S
+Duración: 1 ronda
+
+Blandes tu arma y realizas un ataque cuerpo a cuerpo con ella contra una criatura que se encuentre dentro del alcance.
+
+Si impactas, el objetivo sufre los efectos del ataque del arma y debe realizar una salvación de CON o quedar cegado hasta el final de su turno. Si el objetivo no es humano, también sufre 1d6 de daño radiante adicional.
+
+Manipular la fuerza vital
+Truco de necromancia
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: V
+Duración: Instantáneo
+
+El objetivo debe superar una tirada de salvación de CON o sufrir 2d4 puntos de daño necrótico. Tú o una criatura que puedas ver a 10 pies o menos ganan puntos de vida iguales al daño infligido.
+
+Mente fragmentada
+Truco de encantamiento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V
+Duración: 1 ronda
+
+Lanzas una punta desorientadora de energía psíquica a la mente de una criatura que puedas ver dentro del alcance.
+
+El objetivo debe superar una tirada de salvación de MNA o recibe 1d6 de daño psíquico y resta 1d4 de la siguiente tirada de salvación que realice antes del final de tu siguiente turno.
+
+Ofuscar
+Truco de encantamiento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V
+Duración: 1 ronda
+
+Lanzas un patrón de palabras hipnótico a una criatura que puedas ver dentro del alcance.
+
+Si el objetivo puede oírte (aunque no necesita entenderte), debe superar una tirada de salvación de MNA o no podrá usar su acción adicional ni reacción hasta el comienzo de su siguiente turno.
+
+Ojo de la fortuna
+Truco de adivinación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Uno mismo
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Abres tu mente para recibir revelaciones momentáneas que mejoran tus probabilidades de éxito. Si el d20 de tu siguiente tirada de ataque o tirada de salvación es igual a 9 o menos hasta el final del truco, la tirada se considera un 10.
+
+Punto ciego
+Truco de ilusión
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 30 pies
+Componentes: V, S
+Duración: 1 ronda
+
+Borras tu imagen de la mente de una criatura que puedas ver dentro del alcance.
+
+Si el objetivo puede verte y oírte, debe superar una tirada de salvación de MNA o te volverás invisible para él hasta el comienzo de tu siguiente turno.
+
+Picadura de socavón
+Truco de necromancia
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 30 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Absorbes la vitalidad de una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de CON o recibirá 1d10 de daño necrótico y caerá al suelo.
+
+ 
+
+ 
+
+Reparación
+Truco de transmutación
+
+Tiempo de lanzamiento: 1 minuto
+Alcance: Toque
+Componentes: V, S
+Duración: Instantáneo
+
+Este hechizo repara una sola rotura o desgarro en un objeto que toques, como un eslabón de cadena roto, dos mitades de una llave rota, una capa rasgada o un odre de vino con fugas. Siempre que la rotura o desgarro no sea mayor a 1 pie en cualquier dimensión, lo repararás sin dejar rastro del daño anterior.
+
+Este hechizo puede reparar físicamente un objeto mágico, pero no puede restaurar la magia de dicho objeto.
+
+Retribución arcana
+Truco de abjuración
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S
+Duración: 1 ronda
+
+Realiza un ataque con hechizo a distancia. Si impacta, una cuerda hecha de fuerza inflige 1d6 puntos de daño por fuerza al objetivo y permanece rodeándolo hasta el comienzo de tu siguiente turno.
+
+Si el objetivo ataca o lanza un hechizo que daña u obliga a una criatura a realizar una tirada de salvación antes de eso, la cuerda se tensa al final de su turno, el objetivo sufre nuevamente el daño por fuerza inicial y luego el truco termina.
+
+Hechizos
+Para lanzar un hechizo deberas tener una ranura de hechizo disponible que gastar.
+
+Armadura de escarcha
+Abjuración
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Uno mismo
+Componentes: V, S
+Duración: 1 hora
+
+Una fuerza mágica protectora te rodea, manifestándose como una escarcha espectral que te cubre a ti y a tu equipo.
+
+Hasta que el hechizo termine, obtienes resistencia al daño por fuego y al comienzo de cada uno de tus turnos obtienes puntos de vida temporales iguales a tu MNA. Cuando una criatura te golpea con un ataque cuerpo a cuerpo mientras tienes estos puntos de vida temporales, la criatura recibe daño por frío igual a los puntos de vida temporales reducidos.
+
+Egida
+Abjuración
+
+Tiempo de lanzamiento: 1 reacción, que tomas cuando una criatura te fuerza a realizar la tirada de salvación para un hechizo.
+Alcance: Uno mismo (radio de 10 pies)
+Componentes: V, S
+Duración: 1 ronda
+
+Aparece una barrera translúcida de fuerza mágica en forma de escudo que te protege a ti y a tus aliados.
+
+Hasta el comienzo de tu siguiente turno, incluyendo contra la tirada de salvación que la activó, siempre que tú o un aliado a 10 pies o menos deban realizar una tirada de salvación, no sufren daño si la tirada tiene éxito y la mitad del daño si falla.
+
+Escudo distante
+Abjuración
+
+Tiempo de lanzamiento: 1 reacción, que tomas cuando un aliado es alcanzado por un ataque o es el objetivo de un Misil Mágico.
+Alcance: 30 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Apuntas a un aliado que está siendo atacado y conjuras instantáneamente una barrera invisible de fuerza mágica para protegerlo.
+
+Hasta el comienzo de su siguiente turno, el objetivo tiene una bonificación de +5 a la CA, incluso contra el ataque desencadenante, y no recibe daño del hechizo misiles mágicos.
+
+El favor de la fortuna
+Adivinación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que el objetivo finalice un descanso
+
+Te otorgas suerte latente a ti o a una criatura voluntaria que puedas tocar. Una criatura solo puede beneficiarse de este hechizo una vez en un momento dado.
+
+El objetivo gana 3 cargas de fortuna, que puede gastar tras realizar una tirada de ataque, tirada de salvación, prueba de suerte o tirada de recarga. Al gastar todas las cargas de fortuna el hechizo termina.
+
+Con 1 carga de fortuna repite la tirada. Con 2 cargas de fortuna repite la tirada con ventaja. Con 3 cargas de fortuna pasa automaticamente la tirada.
+
+ 
+
+ 
+
+Lluvia de estrellas
+Adivinación
+
+Tiempo de Lanzamiento: 1 acción
+Alcance: 120 pies
+Componentes: V, S
+Duración: Instantánea
+
+Desde el cielo desciende una lluvia de estrellas fugaces, impactando en un área elegida. Escoge un punto dentro del alcance; en un radio de 20 pies, cada criatura que elijas debe realizar una tirada de Salvación de DES. Si falla, recibe 3d6 de daño radiante y 2d6 de daño psíquico, a medida que una terrible visión del futuro se graba en sus mentes. Si tiene éxito, recibe la mitad del daño.
+
+Además, hasta el final de tu siguiente turno, cualquier criatura que haya fallado la salvación no se beneficia de invisibilidad ni algún tipo de cobertura contra ti, ya que puedes percibir su destino a través de los fragmentos de luz estelar.
+
+Moldear la suerte
+Adivinación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 30 pies
+Componentes: V, S
+Duración: 8 horas
+
+Afirmas tu control sobre el destino y moldeas la suerte de una criatura dentro del alcance.
+
+Fortuna. El objetivo ignora la desventaja en las tiradas de ataque y las tiradas de salvación. Además, una vez por turno, cuando la criatura realiza una tirada de ataque o una tirada de salvación, puede elegir sumar +3 a su tirada.
+
+Desgracia. El objetivo debe realizar una tirada de salvación de SUE. Si falla, no puede beneficiarse de la ventaja en las tiradas de ataque y las tiradas de salvación. Además, siempre que el objetivo realice una prueba de habilidad, tiene desventaja.
+
+El efecto elegido termina cuando vuelves a usar este hechizo.
+
+El fiel perro de Rizzvan
+Conjuración
+
+Tiempo de lanzamiento: 1 acción.
+Alcance: 30 pies
+Componentes: V, S
+Duración: 8 horas
+
+Conjuras un perro guardián fantasma en un espacio desocupado que puedas ver dentro del alcance.
+
+Permanece durante la duración, si lanzas este hechizo de nuevo, hasta que lo desestimes como acción adicional, o hasta que te alejes más de 300 pies de él. Como acción adicional, puedes mover al perro hasta 30 pies.
+
+Nadie más que tú puede ver al perro, y es intangible e invulnerable. Cuando una criatura Pequeña o más grande se acerca a 30 pies de él sin decir primero la contraseña que especificaste cuando lanzaste este hechizo, el perro comienza a ladrar fuerte. El perro tiene Visión verdadera con un alcance de 30 pies.
+
+Al final de tus turnos, el perro intenta morder a un enemigo que esté a 5 pies de él. Ese enemigo debe tener éxito en una tirada de salvación de DES o sufrir 3d6 puntos de daño de fuerza.
+
+Espacio frío
+Conjuración
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 150 pies
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Abres un portal a la oscuridad entre las estrellas.
+
+Aparece una esfera de negrura y frío intenso de 20 pies de radio, centrada en un punto dentro del alcance y que dura todo el tiempo que dura. Ninguna luz, mágica o de otro tipo, puede iluminar el interior de esta área, y las criaturas que se encuentran dentro del área quedan cegadas.
+
+El vacío crea una deformación en el tejido del espacio, y el área es un terreno difícil. Cualquier criatura que entre en esta área por primera vez en un turno o que termine su turno en el área sufre 5d6 puntos de daño por frío y puede realizar una salvación de CON para recibir la mitad de daño en un éxito.
+
+ 
+
+ 
+
+Invocar elemental
+Conjuración
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S, M (un área de agua, tierra, fuego o aire)
+Duración: Hasta que se disipe.
+
+Elige un área de agua, tierra, fuego o aire que llene un cubo de 10 pies dentro del alcance. Un elemental apropiado para el área aparece en el área elegida y desaparece cuando lo disipas como acción bonus, cuando baja a 0 puntos de vida o cuando lanzas este hechizo nuevamente.
+
+El elemental es amistoso contigo y tus compañeros. En combate, el elemental comparte tu iniciativa pero toma su turno después de ti. Obedece cualquier orden verbal que le des (no requiere ninguna acción por tu parte). Si no le das ninguna, realiza la acción de Esquivar y usa su movimiento para evitar el peligro.
+
+En caso de que un elemental fuerce una salvación, utiliza tu CD de Hechizo para determinar la dificultad.
+
+Solo puedes tener un Elemental invocado a la vez.
+
+Elemental de aire
+Elemental Grande
+
+Clase de Armadura:10 + your MNA
+puntos de vida:25
+Velocidad:0 pies, 90 pies de vuelo (flotando)
+FUE	DES	CON	MNA	SUE
+2	5	2	1	0
+Resistencia a daño:Rayo, Trueno; daño físico
+Inmunidad a daño:Veneno
+Inmunidad a condiciones:Agotamiento, Agarrado, Paralizado, Petrificado, Envenenado, Tumbado, Restringido, Inconsciente
+Sentidos:Visión en la oscuridad de 60 pies.
+Forma Amorfa. El elemental puede entrar en el espacio de una criatura hostil y detenerse allí. Puede moverse por un espacio tan estrecho como 1 pulgada de ancho sin apretarse.
+
+Acciones
+Multiataque. El elemental realiza dos ataques de Golpe de Aire.
+
+Golpe de Aire. Ataque de Arma cuerpo a cuerpo: +7 para golpear, alcance de 5 pies, un objetivo. Golpe: 2d6 + 5 de daño contundente
+
+Torbellino (Recarga 4 – 6). Las criaturas que se encuentren en el espacio del elemental deben superar una tirada de salvación de FUE. Si falla, la criatura recibe 3d8 puntos de daño contundente y es arrojada a 20 pies del elemental en una dirección aleatoria y queda tumbada. Si el objetivo es arrojado hacia otra criatura, esa criatura debe superar una tirada de salvación de DES o recibir el mismo daño y quedar tumbada. Si la tirada de salvación tiene éxito, el objetivo recibe la mitad del daño y no es arrojado lejos ni queda tumbado.
+
+ 
+
+ 
+
+Elemental de Tierra
+Elemental Grande
+
+Clase de Armadura:10 + tu MNA
+puntos de vida:40
+Velocidad:25 pies, 25 pies de excavado
+FUE	DES	CON	MNA	SUE
+5	0	5	1	0
+Resistencia a daño:daño físico
+Inmunidad a daño:Veneno
+Inmunidad a condiciones:Agotamiento, Agarrado, Paralizado, Petrificado, Envenenado, Inconsciente
+Sentidos:Visión en la oscuridad de 60 pies.
+Deslizamiento terrestre. El elemental puede excavar a través de tierra y piedra no mágicas y sin trabajar. Mientras lo hace, el elemental no altera el material a través del cual se mueve.
+
+Monstruo de asedio. El elemental de tierra inflige el doble de daño a objetos y estructuras.
+
+Acciones
+Multiataque. El elemental realiza dos ataques de Golpe de Tierra.
+
+Golpe de Tierra. Ataque de Arma cuerpo a cuerpo: +7 para golpear, alcance de 5 pies, un objetivo. Golpe: 2d8 + 5 de daño contundente
+
+Elemental de Fuego
+Elemental Grande
+
+Clase de Armadura:10 + tu MNA
+puntos de vida:30
+Velocidad:50 pies
+FUE	DES	CON	MNA	SUE
+3	4	3	1	0
+Resistencia a daño:daño físico
+Inmunidad a daño:Fuego, Veneno
+Vulnerable a daño:Frío
+Inmunidad a condiciones:Agotamiento, Agarrado, Paralizado, Petrificado, Envenenado, Restringido, Inconsciente
+Sentidos:Visión en la oscuridad de 60 pies.
+Forma de fuego. El elemental puede moverse a través de un espacio tan estrecho como 1 pulgada de ancho sin apretarse. Una criatura que toca al elemental o lo golpea con un ataque cuerpo a cuerpo mientras está a 5 pies de él recibe 1d8 de daño por fuego. El elemental puede entrar en el espacio de una criatura hostil y detenerse allí. La primera vez que entra en el espacio de una criatura en un turno, la criatura tiene el estado de Quemado, recibiendo 1d8 de daño de fuego en vez de los 5 normales.
+
+Iluminación. El elemental arroja luz brillante en un radio de 30 pies y luz tenue en otros 30 pies adicionales.
+
+Acciones
+Multiataque. El elemental realiza dos ataques de Golpe.
+
+Golpe. Ataque de Arma cuerpo a cuerpo: +6 para golpear, alcance de 5 pies, un objetivo. Golpe: 2d6 + 4 de daño de fuego. Si el objetivo es una criatura tiene el estado de Quemado y si es un objeto inflamable se enciende, recibiendo 1d8 puntos de daño por fuego al comienzo de cada uno de sus turnos.
+
+Escupir fuego (Recarga 5 – 6). Elige un punto a 60 pies o menos. Las criaturas que se encuentren a 10 pies o menos del punto elegido deben realizar una tirada de salvación de DES, y si fallan, reciben 3d10 puntos de daño por fuego o la mitad si tienen éxito.
+
+Ola de calor (Recarga 5 – 6). El elemental exhala fuego en un cono de 15 pies. Cada criatura en esa área debe realizar una tirada de salvación de AGL, y si falla, recibe 3d10 puntos de daño por fuego, o la mitad de ese daño si tiene éxito.
+
+ 
+
+ 
+
+Elemental de Agua
+Elemental Grande
+
+Clase de Armadura:10 + tu MNA
+puntos de vida:35
+Velocidad:30 pies, 90 pies de nado
+FUE	DES	CON	MNA	SUE
+3	4	3	1	0
+Resistencia a daño:Ácido; daño físico
+Inmunidad a daño:Veneno
+Inmunidad a condiciones:Agotamiento, Agarrado, Paralizado, Petrificado, Envenenado, Restringido, Inconsciente
+Sentidos:Visión en la oscuridad de 60 pies.
+Forma de Agua. El elemental puede entrar en el espacio de una criatura hostil y detenerse allí. Puede moverse por un espacio tan estrecho como 1 pulgada de ancho sin apretarse.
+
+Acciones
+Multiataque. El elemental realiza dos ataques de Golpe.
+
+Golpe. Ataque de Arma cuerpo a cuerpo: +6 para golpear, alcance de 5 pies, un objetivo. Golpe: 2d6 + 4 de daño contundente.
+
+Cañón (Recarga 5 – 6). El elemental elige un objetivo a 60 pies, el objetivo debe tener éxito en una tirada de salvación de CON o recibirá 3d10 + 4 de daño contundente y quedará aturdido hasta el final de su turno, recibe la mitad de daño y no quedará aturdido en una salvación exitosa.
+
+Torrente (Recarga 5 – 6). El elemental se mueve 30 pies en línea recta. Cada criatura en su camino debe realizar una tirada de salvación de FUE. Si falla, la criatura sufre 3d10 puntos de daño cortante y, si su tamaño es Grande o menor, queda agarrada. Si tiene éxito, el objetivo es empujado fuera del espacio del elemental y no recibe daño.
+
+Hasta que este agarre termine, la criatura está restringida y no puede respirar a menos que pueda hacerlo bajo el agua. El elemental puede agarrar a una criatura Grande o hasta dos criaturas Medianas o más pequeñas a la vez. Al comienzo de los turnos del elemental, cada criatura agarrada recibe 2d6 puntos de daño contundente. Una criatura a 5 pies o menos del elemental puede sacar a una criatura u objeto de su interior usando su acción.
+
+Parpadeo Horripilante
+Conjuración
+
+Tiempo de Lanzamiento: 1 reacción, que tomas cuando una criatura que puedas ver a 60 pies te daña
+Alcance: Uno mismo
+Componentes: V
+Duración: Instantánea
+
+Tu cuerpo se retuerce y se desfigura de manera antinatural antes de desaparecer y reaparecer en un espacio desocupado a hasta 30 pies de distancia que puedas ver. La criatura que te dañó debe realizar una tirada de salvación de MNA. Si falla, sufre 2d8 de daño psíquico y queda atemorizada de ti hasta el comienzo de tu siguiente turno. Si tiene éxito, solo recibe la mitad del daño y no se ve afectada por la condición de miedo.
+
+Tentáculos Azotadores
+Conjuración
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 120 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Invocas tres tentáculos interdimensionales que atacan a cualquier criatura que elijas dentro del rango.
+
+Haz tres tiradas de ataque de hechizo. Cada impacto inflige 1d8+1 de daño contundente, la primera criatura impactada con este hechizo debe realizar una tirada de salvación de MNA, quedando asustados de ti hasta final de tu próximo turno en un fallo.
+
+Atadura psíquica
+Encantamiento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S
+Duración: 1 minuto
+
+Envías una ráfaga de energía psíquica a una criatura que puedas ver dentro del alcance. El objetivo debe hacer una salvación de MNA. En una salvación fallida recibe 3d6 de daño psíquico, no puede lanzar hechizos de concentración, y si se estaba concentrando en uno, pierde la concentración. Además, cada vez que el objetivo realize una acción, acción bonus o reacción, recibe 1d4 de daño psíquico. En una salvación exitosa, el objetivo recibe la mitad de daño y no sufre los otros efectos del hechizo.
+
+El objetivo puede repetir las salvaciones al final de cada uno de sus turnos, finalizando el efecto en si mismo en una salvación exitosa.
+
+ 
+
+ 
+
+Comando
+Encantamiento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V
+Duración: 1 ronda
+
+Pronuncias una orden de una palabra a una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de MNA o seguir la orden. El hechizo no tiene efecto si tu orden es dañina para él, si el objetivo es un no-muerto, si el objetivo no puede seguir tu orden o si no te escucha.
+
+Puedes dar una orden distinta a las descritas aquí a discreción del DJ.
+
+Acercarse. El objetivo se mueve hacia ti, terminando su turno si se mueve a 5 pies o menos de ti.
+
+Soltar. El objetivo suelta lo que esté sosteniendo y luego termina su turno.
+
+Huir. El objetivo pasa su turno alejándose de ti por el medio más rápido disponible.
+
+Arrastrarse. El objetivo cae boca abajo y luego termina su turno.
+
+Susurros disonantes
+Encantamiento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V
+Duración: Instantaneo
+
+El objetivo debe realizar una tirada de salvación de MNA. Si falla, sufre 3d6 puntos de daño psíquico y debe usar inmediatamente su reacción, si está disponible, para alejarse de ti tanto como su velocidad le permita. La criatura no se mueve hacia terreno obviamente peligroso, como un fuego o un pozo. Si la tirada tiene éxito, el objetivo sufre la mitad del daño y no tiene que alejarse. Una criatura ensordecida supera automáticamente la tirada.
+
+Castigo místico
+Evocación
+
+Tiempo de lanzamiento: 1 Acción bonus, que realizas inmediatamente después de golpear a una criatura con un arma cuerpo a cuerpo o un golpe desarmado
+Alcance: Uno mismo
+Componentes: V
+Duración: Instantáneo
+
+Elige un tipo de daño entre fuego, psíquico, radiante y trueno, el objetivo golpeado recibe 2d6 de daño adicional del tipo de daño seleccionado y debe realizar una salvación de CON, siendo afectado por una habilidad adicional, la cual varía dependiendo del tipo de daño elegido.
+
+Fuego: Llamas envuelven al objetivo, quemando todo objeto inflamable que no esté sostenido ni equipado, además sufre el estado de Quemado.
+Psíquico: Queda con el estado de Atemorizado, puede repetir las salvaciones al final de su turno para quitarse este estado.
+Radiante: Hasta el final de su siguiente turno todos los ataques son con ventaja contra esta criatura e irradia una luz que evita que pueda beneficiarse de invisibilidad y huye con desventaja.
+Trueno: El objetivo es empujado 10 pies en línea recta y queda con el estado de Tumbado.
+Eco arcano
+Evocación
+
+Tiempo de lanzamiento: Variable
+Alcance: Variable
+Componentes: V
+Duración: Instantáneo
+
+Cuando lanzas un hechizo que realice daño en área y no deje una estructura detrás (Como Crecimiento de Espinas), puedes lanzar este hechizo en conjunto a ese. Al hacerlo, añade 2d6 al daño y el área afectada se convierte en terreno difícil por 1 minuto o hasta que sea disuelta por un hechizo como Disipar Magia o similar, esta área realiza 1d6 de daño al inicio de los turnos de la criatura o que entra por primera vez en el área, el daño es del mismo tipo que el daño del hechizo que afectó el terreno. Este daño puede ser prevenido con una salvación de CON.
+
+ 
+
+ 
+
+Fisura de gravedad
+Evocación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Uno mismo (90 pies)
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Manifiestas energía gravitacional en una línea que se origina en ti y mide 90 pies de largo y 5 pies de ancho.
+
+Cuando una criatura se mueve a menos de 10 pies por primera vez en un turno o termina su turno allí, debe superar una tirada de salvación de FUE o será atraída hacia la línea. El área del conjuro se considera terreno difícil.
+
+Cada criatura que entre en esa línea por primera vez en un turno o termine su turno allí debe realizar una tirada de salvación de CON, recibiendo 5d6 de daño por fuerza si falla, o la mitad si tiene éxito. Si se disparan proyectiles de forma que intenten atravesar esta área de gravidad, estos se desvían hacia el suelo, impactándolo en su lugar.
+
+Rayo
+Evocación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Uno mismo (100 pies)
+Componentes: V, S
+Duración: Haste que se disipe
+
+Un rayo, formando una línea de 100 pies de largo y 5 pies de ancho sale disparado de ti hacia una dirección a tu elección.
+
+Todas las criaturas en la línea deben realizar una tirada de salvación de DES, recibiendo 5d8 de daño por rayo si fallan, o la mitad si tienen éxito. El rayo prende fuego a los objetos inflamables en la zona que no se lleven puestos ni estén siendo transportados.
+
+Corcel fantasma
+Ilusión
+
+Tiempo de lanzamiento: 10 minutos
+Alcance: 30 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Una criatura grande, casi real, parecida a un caballo aparece en el suelo en un espacio libre de tu elección dentro del alcance.
+
+Tú decides la apariencia de la criatura, pero está equipada con silla de montar, bosal y correa. Cualquier equipo creado por el hechizo se desvanece en una nube de humo si se lleva a más de 10 pies del corcel.
+
+En combate comparte tu iniciativa y no puede realizar la acción de Ataque. El corcel no tiene estadísticas, pero tiene una velocidad de 100 pies. Si recibe daño, se desvanece gradualmente, desapareciendo al inicio de tu siguiente turno. Si aun lo estas montando para ese entonces, y estás consciente, caes de pie sin problemas, pero si estabas incapacitado caes al suelo tumbado.
+
+Como acción gratuita en tu turno puedes enviar la montura a una dimensión de bolsillo o retirarla para siempre. Mientras esté retirada temporalmente, puedes hacer que reaparezca en cualquier espacio desocupado en una zona entre 30 pies como acción.
+
+Hoja de sombra
+Ilusión
+
+Tiempo de lanzamiento: 1 acción bonus
+Alcance: Uno mismo
+Componentes: V, S
+Duración: 8 horas
+
+Creas una espada de penumbra solidificada. Se considera como un arma cuerpo a cuerpo simple.
+
+Inflige 2d8 de daño psíquico y posee las propiedades de sutil, ligera y lanzamiento (alcance 20/60). Al usar la espada para atacar a un objetivo en luz tenue u oscuridad, realizas el ataque con ventaja. Si se lanza el arma, reaparece en la mano del lanzador al final de su turno.
+
+Puedes usar tu MNA en vez de tu FUE o DES para las tiradas de ataque y daño.
+
+ 
+
+ 
+
+Imágenes Susurrantes
+Ilusión
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 90 pies
+Componetes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Creas una secuencia aleatoria de imágenes y sonidos que alteran la percepción de tu objetivo, provocándole una histeria que no le deja coordinar sus movimientos.
+
+Al lanzar este hechizo, fuerzas a una criatura que puedas ver dentro del rango a hacer una tirada de salvación de MNA, en caso de fallar, quedará Desorientado, y recibirá 2d8 de daño psíquico al inicio de sus turnos. La criatura puede repetir la tirada de salvación al final de sus turnos para librarse de este efecto.
+
+Pesadilla sensorial
+Ilusión
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 90 pies
+Componentes: V, S
+Duración: 1 minuto
+
+Creas ilusiones tan vívidas en el cuerpo de una criatura que esta las percibe como reales. Elige un estado entre Agarrado, Cegado, Envenenado, Ralentizado o Tumbado. El objetivo debe hacer una tirada de salvación de MNA; si falla, sufre el estado seleccionado. Al final de cada uno de sus turnos, puede repetir la tirada de salvación para finalizar el efecto en caso de tener éxito.
+
+Si eliges el estado Tumbado, este funciona de manera diferente: el objetivo deberá hacer una nueva tirada de salvación cada vez que intente levantarse por primera vez en cada ronda. Si falla, vuelve a caer y sigue afectado hasta que logre superar una de estas salvaciones.
+
+Escudo de Carne
+Nigromancia
+
+Componentes: V, M (una criatura voluntaria de tamaño Mediano o superior, que no puede ser un Master ni Servant)
+Tiempo de lanzamiento: 1 reacción
+Rango: 60 pies
+Duración: Hasta el inicio de tu siguiente turno
+
+Cuando tú o una criatura que puedas ver dentro del rango sean objetivos de un ataque, hechizo o efecto, puedes sacrificar una criatura voluntaria dentro del mismo rango para transformarla de inmediato en una muralla de carne, huesos o piel, protegiendo al objetivo y a todas las criaturas situadas directamente detrás de él en un área que varía según el tamaño del escudo creado.
+
+El escudo tiene tantos puntos de vida como la criatura sacrificada tenía en el momento de ser sacrificada (ignora puntos de vida temporales). Si el ataque, hechizo o efecto requiere una tirada de salvación, las criaturas protegidas la superan automáticamente.
+
+Si el daño recibido supera los puntos de vida del escudo, el exceso se transfiere directamente a la criatura objetivo que se intentaba proteger.
+
+Tamaño del escudo:
+
+Mediana – 10 pies
+Grande – 15 pies
+Enorme – 20 pies
+Gigante – 30 pies
+Independientemente del resultado, una vez el ataque concluye, el escudo se desintegra y la criatura usada muere de forma irreversible. Esta muerte no puede evitarse por ningún medio, y la criatura no puede lanzar hechizos ni usar habilidades mientras actúe como escudo.
+
+ 
+
+ 
+
+Mal de ojo
+Nigromancia
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S
+Duración: Concentración, hasta 1 hora
+
+Una criatura de tu elección dentro del rango que puedas ver debe superar una tirada de salvación de MNA o verse afectada por uno de los siguientes efectos mientras dure el hechizo. En cada uno de tus turnos hasta que termine, puedes usar tu acción para seleccionar a otra criatura, pero no puedes volver a seleccionar a una criatura si ha superado su tirada de salvación. Una criatura afectada puede repetir esta tirada de salvación al final de cada uno de sus turnos, finalizando el efecto si tiene éxito.
+
+Dormido. El objetivo queda inconsciente. Despierta si recibe daño o si otra criatura usa su acción para despertarlo.
+
+Aterrado. El objetivo está atemorizado de ti. En sus turnos, la criatura asustada debe realizar la acción de Correr y alejarse de ti por la ruta más segura y corta disponible, a menos que no haya dónde moverse. Si la criatura se mueve a un lugar a mas de 60 pies de ti este efecto termina.
+
+Enfermo. El objetivo tiene desventaja en las tiradas de ataque y en las pruebas de habilidad.
+
+Marchitar y florecer
+Nigromancia
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S
+Duración: Instantáneo
+
+Invocas tanto la muerte como la vida en una esfera de 20 pies de radio centrada en un punto dentro del alcance.
+
+Cada criatura que elijas en esa zona debe realizar una tirada de salvación de CON. Si falla, recibe 3d6 de daño necrótico o la mitad si tiene éxito. La vegetación no mágica en la zona se marchita al instante.
+
+La vitalidad drenada no se desperdicia: eliges una criatura dentro del alcance del hechizo (puedes ser tú mismo), que recupera una cantidad de puntos de vida igual al daño total infligido por este hechizo.
+
+Otorgar maldición
+Nigromancia
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: V, S
+Duración: 1 hora
+
+Tocas una criatura. Esa criatura debe superar una tirada de salvación de MNA o quedará maldita mientras dure la maldición. Al lanzar este hechizo, elige la naturaleza de la maldición:
+
+Elige una estadística. Mientras esté maldito, el objetivo tiene desventaja en las pruebas de habilidad y las tiradas de salvación realizadas con esa puntuación de característica.
+Mientras esté maldito, el objetivo tiene desventaja en las tiradas de ataque contra ti.
+Mientras esté maldito, el objetivo debe realizar una tirada de salvación de MNA al comienzo de cada uno de sus turnos. Si falla, desperdicia su acción de ese turno sin hacer nada.
+Mientras esté maldito, tus ataques y hechizos infligen 1d8 de daño necrótico adicional al objetivo.
+Un objetivo maldito puede repetir esta tirada de salvación al final de cada uno de sus turnos.
+
+Agrandar/Reducir
+Transmutación
+
+Tiempo de lanzamiento: 1 acción
+Alcance: 60 pies
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Elige a una criatura o a un objeto que no esté siendo llevado ni sujetado. Si el objetivo no es voluntario, puede realizar una tirada de salvación de CON, el hechizo no tiene efecto en un éxito. Si el objetivo es una criatura, todo lo que lleve puesto y esté sujetando cambia de tamaño junto a ella. Cualquier objeto soltado por una criatura afectada vuelve inmediatamente a su tamaño normal.
+
+Agrandar. El objetivo aumenta su tamaño en una categoría (por ejemplo, de Mediano a Grande). Si no hay suficiente espacio para que el objetivo duplique su tamaño, la criatura u objeto alcanza el máximo tamaño posible en el espacio disponible. Hasta que el hechizo termine, el objetivo también tiene ventaja en las tiradas de habilidad y salvación de FUE. Las armas del objetivo también crecen para igualar su nuevo tamaño, infligiendo un dado de daño adicional.
+Reducir. El tamaño del objetivo disminuye su tamaño en una categoría (por ejemplo, de Mediano a Pequeño). Hasta que el hechizo termine, el objetivo también tiene desventaja en las tiradas de habilidad y salvación de FUE. Las armas del objetivo también encogen para igualar su nuevo tamaño, infligiendo un dado de daño menos. Si sólo tenía un dado de daño, se reduce su categoría de daño en una categoría.
+ 
+
+ 
+
+Aliento de dragón
+Transmutación
+
+Tiempo de lanzamiento: 1 Acción bonus
+Alcance: 30 pies
+Componentes: S, V
+Duración: Toque
+
+Apuntas a una criatura voluntaria y eliges un tipo de daño elemental o Veneno. Hasta que el hechizo termine, el objetivo puede utilizar una Acción para exhalar un cono de 30 pies. Cada criatura en esa área realiza una tirada de salvación de DES, recibiendo 3d6 de daño del tipo elegido si falla o la mitad si tiene éxito.
+
+Disparo místico
+Transmutación
+
+Tiempo de lanzamiento: 1 Acción bonus
+Alcance: Toque
+Componentes: S
+Duración: 1 ronda
+
+Elige un tipo de daño entre fuego, perforante y rayo, la pieza de munición queda encantada. Falle o acierte el ataque, tanto el objetivo original como las criaturas a 10 pies de este reciben 2d6 de daño adicional del tipo de daño seleccionado. Sólo el objetivo original, de ser golpeado con éxito, debe hacer una salvación de CON, si falla subre uno de los siguientes efectos adicionales, que dependen del tipo de daño elegido y duran hasta el final de su siguiente turno:
+
+Fuego: Queda envuelto en llamas que se reavivan con el fulgor de la batalla, cada vez que es dañado recibe 1d6 de daño de fuego adicional.
+Perforante: Espinas lo envuelven y dañan su cuerpo cuando intenta moverse. Cada 10 pies que el objetivo se mueva de forma voluntaria, recibirá 1d6 de daño perforante.
+Rayo: Energía residual queda en el objetivo, recibiendo 1d6 de daño de rayo cada vez que el objetivo use su acción de Ataque o lance un hechizo.
+Escalada de araña
+Transmutación
+
+Tiempo de lanzamiento: 1 Acción
+Alcance: Toque
+Componentes: S
+Duración: 8 horas
+
+Hasta que el hechizo termine, cualquier criatura voluntaria que toques obtiene la capacidad de moverse hacia arriba, hacia abajo y a través de superficies verticales, y boca abajo por techos, dejando las manos libres. El objetivo también obtiene una velocidad de trepado igual a su velocidad de marcha.
+
+Sangre ardiente
+Transmutación
+
+Tiempo de lanzamiento: 1 Acción
+Alcance: Uno mismo (Radio de 30 pies)
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Has descubierto un hechizo de la olvidada Hemomancia, que te permite hacer hervir la sangre de todo aquel que se te oponga y matarlo en una agónica muerte mientras su interior hierve. Este hechizo no tiene efecto en criaturas que no tengan sangre dentro de sus cuerpos.
+
+Cuando usas este hechizo y cuando terminan su turno dentro del área, todas las criaturas a 30 pies alrededor tuyo deben realizar una salvación de CON o reciben 3d8 de daño de fuego.
+
+Si falló la salvación, también sufre el siguiente efecto: al inicio de sus turnos posteriores reciben 1d8 de daño necrótico, pudiendo repetir la salvación al final de sus turnos para quitarse el efecto. Si fallan nuevamente la salvación contra el daño de fuego dentro de tu área, el daño necrótico aumenta en 2d8 adicionales.
+
+Zancada de llamas
+Transmutación
+
+Tiempo de lanzamiento: 1 Acción bonus
+Alcance: Uno mismo
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Mientras dura la habilidad, tu velocidad aumenta 15 pies y moverte no provoca ataques de oportunidad. Cuando te mueves a 5 pies de una criatura u objeto que no lleves puesto, recibe 2d6 de daño por fuego. Una criatura u objeto solo puede recibir este daño una vez por turno.
+
+ 
+
+ 
+
+Escudo Celestial
+Sacramento
+
+Tiempo de lanzamiento: 1 acción bonus
+Alcance: 30 pies
+Componentes: V
+Duración: Concentración, hasta 10 minutos
+
+Eliges hasta 3 criaturas que puedas ver dentro del rango y realizas una plegaria (tu también puedes ser eobjetivo), imbuyes a la criatura de una protección celestial que absorbe el daño.
+
+El objetivo gana un bono de +3 a su CA y tiradas de salvación, además de obtener resistencia al daño necrótico y radiante mientras dure el hechizo.
+
+Espíritus guardianes
+Sacramento
+
+Tiempo de lanzamiento: 1 Acción
+Alcance: Uno mismo (radio de 30 pies)
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+Invocas espíritus para que te protejan. Revolotean a tu alrededor a una distancia de 30 pies mientras dura el hechizo. Estos espíritus atacarán por ti a toda criatura no hostil.
+
+Al lanzar este hechizo, puedes designar cualquier cantidad de criaturas que veas para que no se vean afectadas. La velocidad de la criatura afectada se reduce a la mitad en el área, y cuando la criatura entra en el área por primera vez en un turno o termine su turno allí, debe realizar una tirada de salvación de MNA. Si falla la tirada, la criatura recibe 3d8 de daño radiante. Si tiene éxito, la criatura recibe la mitad del daño.
+
+Mandado del Arcángel
+Sacramento
+
+Tiempo de lanzamiento: 1 acción
+Alcance: Toque
+Componentes: V, S
+Duración: 8 horas
+
+Tu toque otorga a la criatura elegida una capacidad sobrehumana para atacar a sus enemigos.
+
+El objetivo gana +2 a sus tiradas de ataque y daño con armas y el daño infligido con estas pasa a ser daño radiante. Si el objetivo es una criatura con el atributo Divino o tiene alineación buena, las armas que empuñe se consideran mágicas.
+
+Manto del cruzado
+Sacramento
+
+Tiempo de lanzamiento: 1 Acción bonus
+Alcance: Uno mismo (radio de 30 pies)
+Componentes: V, S
+Duración: Concentración, hasta 1 minuto
+
+El poder sagrado irradia de ti en un aura con un radio de 30 pies, infundiendo valor en las criaturas amistosas a ti.
+
+Cuando este hechizo es lanzado, todo efecto de interferencia mental y debilidad física que afecte a ti o a tus aliados dentro del área que pueda disiparse con una salvación puede lanzarse nuevamente con ventaja.
+
+El aura sagrada se mueve contigo y, mientrás estén dentro del aura, cada criatura amistosa hacia ti (incluyéndote) inflige 1d6 de daño radiante adicional al impactar con éxito un ataque de arma. y tiene ventaja en salvaciones de interferencia mental y debilidad física.
+
+ 
+
+ 
+
+Campos delimitados
+Radios activos de energía mágica que dotan al área que cubren de un efecto mágico constante.
+
+Puedes tener una cantidad maxima de campos limitados activos igual a 1 o tu MNA (lo que sea mayor), pero no puedes hacer que las áreas de tus Campos delimitados se superpongan, a menos que indiquen lo contrario.
+
+Puedes usar una acción para disipar cualquier campo delimitado que hayas creado. Los magos conocen todos los Campos Delimitados.
+
+En caso de crear un campo delimitado cuya área se superpone con otro campo delimitado de radio igual o inferior se realiza una tirada enfrentada de MNA para ver cual prevalece. En caso de empate, el que estaba previamente es el que prevalece. Esto no aplica con los campos delimitados que sean capaces de superponerse y cuando se intenta la superposición, el dueño del campo delimitado es alertado de lo que sucede.
+
+Regla opcional: Los Campos Delimitados pueden originarse de un objeto, lo que permite moverse junto a estos. Hacerlo de esta forma limita su rango máximo a 30 pies. Se destruyen al tocar otro campo de igual o mayor radio, o si el objeto del cual se originaron es destruido.
+
+No pueden ser originados de objetos pequeños, como una pieza de munición, reloj de mesa, un avión de papel, etc. Tampoco pueden ser originados de piezas de ropa.
+
+Si utilizas esta regla opcional, hay algunos Campos Delimitados que tendrán reglas adicionales, descritas en la categoría de Especial.
+
+Tiempo de implementación
+Cuando creas un campo delimitado, puede elegir qué tan grande es su radio.
+
+Puede dedicar 1 minuto en crear un campo que tenga un radio de 30 pies, 10 minutos en crear un campo que tenga un radio de 60, 90 o 120 pies, u 8 horas en crear un campo que abarque toda el área del mapa en la que se creó el campo.
+
+Campo de alarma
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Este campo no puede originarse de un objeto.
+
+A partir de ahora serás alertado cuando una criatura entre o salga del área del campo delimitado. Este campo se puede superponer a otros campos delimitados existentes.
+
+Campo de clima
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: De originarse de un objeto, los campos de clima pierden sus propiedades mágicas si el objeto está en movimiento. Estando quieto, puedes gastar una Acción para que actúe normalmente.
+
+Cuando creas este campo debes eliger un tipo de clima. Puedes gastar una acción en tu turno para cambiar el clima.
+
+Soleado. Eliminas la oscuridad y se considera de día. El daño de fuego infligido dentro de este campo inflige un dado de daño adicional.
+
+Luz de la luna. Elimina la luz y se considera de noche. Una vez por cada acción de 8 horas, el primer hechizo de Nigromancia que lanzas dentro del campo no gasta ranura de hechizo.
+
+Niebla. Ganas +5 a tu Hide DC. Las criaturas que intentan escapar del combate hacen tiradas con ventaja.
+
+Nublado. Los hechizos que intentan ver dentro de la niebla fallan al ser lanzados. Las criaturas tienen desventaja al momento de discernir ilusiones mágicas.
+
+Campo de duelo
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+
+Cuando este campo es creado elige dos criaturas que estén en combate y que no sean aliadas entre sí.
+
+Todos los ataques realizados a esas dos criaturas se realizan con desventaja hasta que una salga del campo, una muera o deshagas el duelo como acción bonus. Las dos criaturas todavía pueden atacarse entre sí normalmente y sólo pueden haber dos criaturas en duelo en el campo.
+
+Puedes elegir nuevos combatientes para el duelo como acción en tus turnos posteriores, siempre y cuando no hayan otros que ya se baten en duelo.
+
+76
+
+ 
+
+ 
+
+Campo de gravedad
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Este campo no puede originarse de un objeto.
+
+Este campo mágico manipula la gravedad en su área de efecto, permitiéndote controlar las fuerzas gravitatorias a voluntad. Como acción bonus, puedes seleccionar una criatura que veas dentro del campo, forzándola a realizar una tirada de salvación de FUE. Si falla, la criatura queda Ralentizada hasta el final de tu siguiente turno, luchando contra la atracción gravitacional que la oprime.
+
+Alternativamente, puedes hacer que una criatura que veas realice una tirada de salvación de FUE o ser empujada 30 pies en la dirección que elijas. Si impacta contra un objeto, recibe 1d6 de daño contundente por cada 10 pies que se movió. Si se trata de una criatura voluntaria, puedes dejarla suspendida en el aire, considerándose como si estuviera Agarrada. Las criaturas pueden optar por fallar voluntariamente su tirada de salvación.
+
+No puedes usar las habilidades de este campo en objetos.
+
+Campo de muerte
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+
+Los espíritus (no incluye servants), no-muertos, vampiros dentro del campo obtienen una bonificacion de +1 a su CA y salvaciones, además de resistencia al daño necrótico y radiante.
+
+Las criaturas de todos los demás tipos deben realizar una tirada de salvación de CON al final de cada uno de sus turnos si están dentro del campo. Si fallan, reciben 5 de daño necrótico.
+
+Campo de oscuridad
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Este campo no puede originarse de un objeto.
+
+Esta área se considera nocturna y las criaturas que esten dentro están cegadas. La luz mágica puede atravesar la oscuridad, pero solo en el espacio que ocupa la luz.
+
+Campo de prevención
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: De originarse de un objeto, el Campo de prevención pierde sus propiedades mágicas si el objeto está en movimiento. Estando quieto, puedes gastar una Acción para que actúe normalmente.
+
+Las criaturas que no sean tú no pueden entrar o salir voluntariamente del perímetro del campo sin pasar una tirada de salvación de MNA. Puedes elegir que la criatura supere esta tirada de salvación automáticamente.
+
+El perímetro del campo delimitado está rodeado por una espesa niebla, lo que impide que las criaturas del interior vean el exterior, y viceversa.
+
+Campo de privacidad
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Este campo no puede originarse de un objeto.
+
+El área te protege a ti y a todas las criaturas del interior de hechizos de adivinación que intenten ver dentro del campo y magia similar con la misma función.
+
+Los sensores creados por la magia no pueden entrar en el perímetro de los campos ni ver dentro de él, los familiares y otras criaturas mágicas utilizadas para recopilar información no pueden ingresar al campo ni ver dentro de él y los sonidos hechos dentro del campo no pueden ser escuchados por criaturas fuera de él.
+
+Campo de pureza
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+
+Cada criatura no hostil en el aura (Incluido tú) no puede enfermarse, tiene resistencia al daño por veneno y obtiene ventaja en las tiradas de salvación contra efectos que causan cualquiera de las siguientes condiciones: Asustado, aturdido, cegado, ensordecido, envenenado, encantado y paralizado.
+
+77
+
+ 
+
+ 
+
+Campo de rejuvenecimiento
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Si se origino de un objeto sólo puede curar a las criaturas que están conscientes.
+
+Como acción, puedes elegir hasta 6 criatura dentro de esta zona, recuperan 1d6 puntos de vida al inicio de sus turnos. Los constructos, demonios, espiritus, no muertos y vampiros no pueden recuperar puntos de vida de este campo.
+
+Campo de ruptura
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Si el campo se originó de un objeto, el área de 5 pies alrededor de este no se considera terreno difícil.
+
+Toda el área de este campo se considera terreno difícil.
+
+Una vez por turno, como acción bonus, puedes seleccionar una criatura que veas dentro del campo y que esté en contacto con el suelo, forzándola a realizar una tirada de salvación de FUE. Si falla, el suelo bajo ella se convierte en un sumidero, haciéndola caer Tumbada y recibir 2d6 de daño contundente.
+
+Campo de tierra sagrada
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+Especial: Este campo no puede originarse de un objeto.
+
+El área afectada está sujeta a los siguientes efectos:
+
+Los Criaturas Herejes y constructos no pueden ingresar al área, ni pueden asustar, encantar o poseer a criaturas dentro de ella. Cualquier criatura ya afectada por estos efectos se libera inmediatamente de estos al entrar en el área. Si ya estaban estas criaturas dentro del área cuando el campo delimitado fue creado, entonces deben realizar una salvación de CON al inicio de cada uno de sus turnos contra tu CD de hechizo o reciben 5 puntos de daño radiante.
+
+Al crear el campo, puedes elegir excluir cualquier tipo de criatura previamente mencionada de este los efecto del campo.
+
+Al crear el área, puedes vincularle un efecto adicional, eligiendo hasta 6 criaturas visibles que se verán afectadas por este efecto. Puedes excluir o añadir otras en tus turnos posteriores como Acción, pero no pueden ser mas de 6 criaturas afectadas en total.
+
+Cuando una criatura entre por primera vez en el área o inicie su turno dentro de ella, puede realizar una tirada de salvación de SUE. Si tiene éxito, ignora el efecto adicional mientras permanezca en el área.
+
+La criatura obtiene 5 puntos de vida temporales al inicio de cada turno (no acumulable entre sí).
+Las criaturas se vuelven vulnerables al daño radiante.
+Una criatura afectada obtiene resistencia a un tipo de daño de tu elección cuando se creo el campo, excepto contundente, perforante o cortante.
+Campo de la verdad
+Campo delimitado
+
+Tiempo de lanzamiento: Variable
+Alcance: Toque
+Componentes: V, S
+Duración: Hasta que se disipe
+
+Una criatura que entra al area por primera vez debe realizar una tirada de salvación de SUE.
+
+Si falla, no puede decir una mentira deliberada mientras está en el area. Sabes si cada criatura tiene éxito o falla en su tirada de salvación.
+
+Todas las criaturas afectadas son conscientes de este efecto y, por lo tanto, puede evitar responder preguntas a las que normalmente respondería con una mentira. Tal criatura puede ser evasiva en sus respuestas mientras permanezca dentro de los límites de la verdad.
+
+ 
