@@ -25,6 +25,10 @@ snippets:
 .page:after { display:none; }
 .page#p2 { counter-reset: page-numbers 0;}
 /* Contenido */
+.page {
+padding: 55px;
+}
+
 .page .toc li span:first-child{
 font-size   	: 0.50cm;
 color			    : black;
@@ -54,11 +58,31 @@ color			    : black;
 
  p {
 	font-size: 12px;
+  
 }
 
 ul {
   font-size: 12px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -925,7 +949,7 @@ Mientras uses una **Séptima Sagrada Escritura (Prototype)**, puedes ignorar los
 ___
 - Cada vez que impactas con un ataque en un mismo combate, acumulas una carga de **Fe Sanguinaria**, hasta un máximo de 3.  
 ___
-- Puedes usar las 3 cargas como acción bonus, liberarando la verdadera naturaleza del arma. Las escamas de la Escritura se expanden a tu alrededor, desgarrando a todas las criaturas en un radio de 15 pies. Cada objetivo debe hacer una tirada de salvación de **DES CD 18** o recibir **6d6 de daño cortante** y quedar con la condición de **Sangrado**. Con una salvación exitosa, recibe la mitad del daño y evita la condición.  
+- Puedes usar las 3 cargas como acción bonus, liberando la verdadera naturaleza del arma. Las escamas de la Escritura se expanden a tu alrededor, desgarrando a todas las criaturas en un radio de 15 pies. Cada objetivo debe hacer una tirada de salvación de **DES CD 18** o recibir **6d6 de daño cortante** y quedar con la condición de **Sangrado**. Con una salvación exitosa, recibe la mitad del daño y evita la condición.  
 ___
 - Cuando realizas un ataque, puedes elegir hasta **tres** criaturas dentro del rango del mismo ataque y golpearlas simultáneamente. Utilizas una sola tirada de ataque para determinar si impactas y una única tirada de daño para todos los objetivos alcanzados.  
 
@@ -942,15 +966,15 @@ Un arma conceptual desplegable que genera su propia munición en forma de escrit
 ##### **Fragmentos de Furtivo**  
 Al entrar en combate, dos fragmentos del arma orbitan a tu alrededor. Son indestructibles e inseleccionables para cualquier efecto.
 :
-Estos fragmentos disparan automáticamente al primer enemigo que entre en su rango por primera vez en un turno.  
+Cada turno, cuando una criatura entre en rango de los Fragmentos de Furtivo o finalice su turno dentro del rango de los mismos, se realiza un ataque contra ese enemigo automáticamente.
 
-- **Fragmentos de Furtivo:** *1d8+2 de daño perforante*, rango: 80 pies, ataque a distancia +8 al impacto.  
+- **Fragmentos de Furtivo:** *1d8+2 de daño perforante*, rango: 80 pies, ataque de arma a distancia, +8 al impacto.  
 
 ##### **Disparo del Último Amanecer**  
 Una vez por amanecer (*se recarga con cada nueva fase de día*), puedes canalizar toda la fuerza del arma en un único disparo devastador.  
 
 - Como **acción de ronda completa**, obligas a todas las criaturas dentro de un **cubo de 20 pies en un rango de 150 pies** a realizar una **tirada de salvación de SUE CD 18**.  
-- **Las criaturas que fallen reciben 15d8 de daño radiante y quedan cegadas.**  
+- Las criaturas que fallen reciben 15d8 de daño radiante y quedan *cegadas* por 1 minuto., pudiendo repetir su salvación al final de sus turnos para quitarse la ceguera.  
 - Aquellas que superen la salvación **no sufren daño ni quedan cegadas**, pues han sido juzgadas dignas a los ojos de Dios.  
 
 \page
@@ -958,9 +982,9 @@ Una vez por amanecer (*se recarga con cada nueva fase de día*), puedes canaliza
 ### Alquimista de Atlas
 
 #### Sincronía de Atlas
-Has perfeccionado la habilidad de coordinar a tus invocaciones con precisión milimétrica para maximizar el impacto en el campo de batalla. Una vez por descanso, cuando realizas un ataque exitoso, puedes comandar a todas las criaturas invocadas bajo tu control capaces de realizar un ataque, incluidos los Protectores de Atlas, para que ataquen de manera sincronizada contigo, siempre y cuando el objetivo esté dentro de su rango de ataque, y no estén incapacitados.
+Has perfeccionado la habilidad de coordinar a tus invocaciones con precisión para maximizar el impacto en el campo de batalla. Una vez por descanso, cuando realizas un ataque exitoso, puedes comandar a todas las criaturas invocadas bajo tu control capaces de realizar un ataque para que ataquen de manera sincronizada contigo, siempre y cuando el objetivo esté dentro de su rango de ataque y no estén incapacitados.
 :
-En lugar de infligir su daño normal, cada criatura que participe aumenta el daño de tu ataque en 1d6 por cada criatura que forme parte de la sincronía. Este daño adicional no se multiplica si tu ataque resulta ser un golpe crítico. Sin embargo, se aplican todos los efectos de las armas que posean tus invocaciones. Si múltiples criaturas provocan salvaciones del mismo tipo (por ejemplo, varias armas envenenadas), solo se realiza una tirada de salvación, cuyo resultado se aplica a todas las salvaciones del mismo tipo.
+En lugar de infligir su daño normal, cada criatura que participe aumenta el daño de tu ataque en 1d6 por cada criatura que forme parte de la sincronía. Este daño adicional no se multiplica si tu ataque resulta ser un golpe crítico. Sin embargo, se aplican todos los efectos de las armas que posean tus invocaciones. Si múltiples criaturas provocan salvaciones del mismo tipo (por ejemplo, varias armas envenenadas), solo se realiza una tirada de salvación, cuyo resultado se aplica a todas las salvaciones iguales.
 
 ### Alquimista de Praga
 
@@ -968,10 +992,10 @@ En lugar de infligir su daño normal, cada criatura que participe aumenta el da�
 
 El arte de la alquimia no se detiene en la transmutación de metales o la destilación de esencias. Para los verdaderos visionarios, el límite entre lo vivo y lo muerto es solo una barrera temporal, una ecuación a resolver. Con un conocimiento prohibido de la carne y el alma, eres capaz de unir múltiples cuerpos en una sola entidad, creando aberraciones que desafían la naturaleza misma. Ya sea combinando la esencia de seres vivos, moldeando cadáveres recientes en sirvientes insaciables, o forjando horrores impíos con ambos, tu arte ha trascendido la moral y el sentido común.  
 :
-
 Como acción, puedes elegir cualquier número de criaturas voluntarias de tamaño Pequeño o mayor dentro de un cubo de 30 pies, ubicado a un máximo de 120 pies de ti en un punto que puedas ver, y fusionarlas en un solo ser compuesto por múltiples cuerpos.
 :
-Para usar esta habilidad, debes seleccionar al menos dos criaturas dispuestas y/o cadáveres de criaturas que hayan fallecido en las últimas 24 horas, y consumes una cantidad de vapores igual al número que vayas a unir. Esta habilidad no afecta a Servants ni a Masters vivos. 
+Para usar esta habilidad, debes seleccionar al menos dos criaturas dispuestas y/o cadáveres de criaturas que hayan fallecido en las últimas 24 horas, y consumes una cantidad de vapores igual al número que vayas a unir. Esta habilidad no afecta a Servants ni a Masters vivos. Puedes tener una cantidad de Amalgamas bajo tu control igual a tu CON o MNA (lo que sea mayor).
+ 
 :
 El resultado de la fusión es una amalgama, cuyas características dependen de los materiales utilizados:  
 
@@ -1106,7 +1130,6 @@ Con sus habilidades, los Dieftharamantes más ingeniosos son capaces de dar vuel
 Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
 
 ### Competencias
-Armas simples.   
 Hechizos de tipo Encantamiento.  
 Hechizos de tipo Transmutacion.   
 Un tipo de hechizo a elección.
@@ -1145,8 +1168,8 @@ ___
 **Inmunidad a estados** :: Interferencia mental
 ___
 ### Habilidades
-***Apresar.*** Puedes usar tu reacción cuando un objeto o criatura entre o salga de un radio de 10 pies de esta unidad para forzar una tirada de fuerza enfrentada, el objetivo queda apresado y detenido en un fallo o con una reducción de movimiento de 10ft en un éxito.  
-***Atraer.*** Esta criatura puede usar su reacción para traer, puedes atraer una criatura aliada en un radio de 20 pies a una casilla adyacente a esta unidad.
+***Apresar.*** Puedes usar su reacción cuando un objeto o criatura entre o salga de un radio de 10 pies de esta unidad para forzar una tirada de fuerza enfrentada, el objetivo queda apresado en un fallo, en un éxito su movimiento se reduce 10ft.  
+***Atraer.*** Puede usar su reacción para atraer una criatura aliada en un radio de 20ft a una casilla adyacente a esta unidad.
 ___
 ### Acciones
 
@@ -1170,12 +1193,12 @@ ___
 **Inmunidad a estados** :: Interferencia mental
 ___
 ### Habilidades
-***Bloqueo corporal.*** Usando tu reacción, si una de estas criaturas está 5ft de ti o un aliado y son objetivo de un ataque, puedes hacer que esta criatura se convierta en el nuevo objetivo.  
+***Bloqueo corporal.*** Usando su reacción, si una de estas criaturas está 5ft de ti o un aliado y son objetivo de un ataque, puedes hacer que esta criatura se convierta en el nuevo objetivo.  
 ***Atraer.*** Esta criatura puede usar su reacción para traer, puedes atraer una criatura aliada en un radio de 20 pies a una casilla adyacente a esta unidad.
 ___
 ### Acciones
 ***Ataque múltiple.***
-Cuando esta criatura usa su acción para atacar, puede volver a atacar con la misma acción.
+Cuando esta criatura usa su acción para atacar, puede volver a atacar con la misma acción.  
 ***Golpe rotundo.*** *Cuerpo a cuerpo:* 2 + tu FUE a impactar, alcance 5 pies, un objetivo. Impacto: 2d4 + 3 de daño contundente. 
 }}
 
@@ -1313,7 +1336,7 @@ Eres capaz de corromper y transformar objetos mágicos y códigos míticos bajo 
 ### Corruptor Vil
 ¡Esto es! ¡Mi gran creación! ¡Demostremosles a todos de qué estamos hechos!
 :
-Llegando a Nivel 5, el rango de “Crear Monstruo” aumenta a 30ft. Además de que obtienes la capacidad de crear Monstruos Viles. Estos solo pueden ser creados 1 vez cada 24 horas, y sólo puedes tener uno de ellos a la vez. Estos monstruos también cuentan para la cantidad total de monstruos y necesitas gastar 2 de Riqueza además del objeto para ser invocados. La lista de Monstruos viles son los siguientes:
+Al Nivel 5, el rango de “Crear Monstruo” aumenta a 30ft. Además, obtienes la capacidad de crear Monstruos Viles. Estos solo pueden ser creados 1 vez cada 24 horas, y sólo puedes tener uno de ellos a la vez. Estos monstruos también cuentan para la cantidad total de monstruos y necesitas gastar 2 de Riqueza, además del objeto, para ser invocados. La lista de Monstruos viles son los siguientes:
 
 {{monster,frame
 ## Doppelganger
@@ -1333,7 +1356,7 @@ ___
 ___
 ### Habilidades
 ***Mi mejor amigo soy yo.*** Esta criatura es completamente indiferenciable de ti, con la única forma de ser identificado siendo habilidades de Rango B+. Eres capaz de convocar a este monstruo cuando estás por recibir un ataque con una reacción y hacer el Doppelganger el nuevo objetivo del ataque (esto no ignora ninguna restricción de “Crear monstruo”).      
-***Doble problema.*** El Doppelganger es capaz de utilizar tus mismas habilidades. Puedes usar tu Acción, Acción Bonus, Movimiento y Reacción a través de la copia además de lanzar conjuros y usar habilidades siempre y cuando esté en tu rango de visión. Si el monstruo está fuera de esta, solo eres capaz de hablar a través de él y desplazarlo.
+***Doble problema.*** El Doppelganger es capaz de utilizar tus mismas habilidades. Puedes usar tus acciones, Movimeinto, Reacción a través de la copia, además de lanzar conjuros y usar habilidades siempre y cuando esté en tu rango de visión. Si el monstruo está fuera de esta, solo eres capaz de hablar a través de él y desplazarlo.
 ___
 ### Acciones
 ***Usar objeto.*** Además de tus habilidades y conjuros, puedes atacar con cualquier objeto que le hayas dado al doppelganger al ser creado. Si el objeto es un consumible, este puede usarlo cuantas veces se lo hayas dado.   
@@ -1509,7 +1532,160 @@ Por último, haz abandonado completamente tu humanidad para convertirte en la ob
   style='position:absolute; bottom:45px; right:0px; height:1056px; width:816px;' />
   
 
+\page
+
+## Hemomante
+Una extraña rama de taumaturgia dedicada al control y generación de sangre en un ambiente externo del propio sistema circulatorio. Los registros indican que es nativa de Japon pero que luego se dispersó en otras regiones asíaticas.
+:
+Es dicho que es común para usuarios inexperimentados al intentar controlar la sangre dentro de sus cuerpos terminen consiguiendo una trombosis, pero al mismo tiempo, los usuarios más experimentados son extremadamente poderosos debido a sus cualidades con distintos propósitos.
+
+#### Mitad Lanzador de Hechizos
+Ganas una cantidad de ranuras de hechizo y hechizos conocidos igual a la mitad de tu nivel en esta clase redondeado para arriba.
+
+#### Competencias
+Armas cuerpo a cuerpo complejas.  
+1 escuela de hechizo de tu elección.
+
+### Convergencia de Sangre
+En el nivel 1, aprendes a usar tu propia sangre en un entorno externo.
+:
+Puedes almacenar dos puntos de convergencia por cada nivel en esta clase. Recuperas todos tus puntos de convergencia al final de un descanso.
+
+### Manipulación de Convergencia
+En el nivel 1, aprendes a manipular la sangre con técnicas que pueden ser usadas ofensivamente y defensivamente. Cada una de estas técnicas requieren 1 punto de convergencia que es gastado cuando son usadas.
+:
+**Senketsu:** Usando tu acción, puedes disparar una corriente de sangre que tiene la velocidad y precisión de una bala de tus manos juntas. Este ataque tiene un rango de 60/90 y realiza 3d6 de daño perforante mágico a quien golpee. Puedes realizar este ataque con tu modificador de CON o MNA.
+:
+**Keitsujin:** Usando tu acción adicional, puedes cubrir un arma cuerpo a cuerpo que realize daño cortante o perforante con sangre, causando que rote rapidamente en su filo, incrementando el daño del arma. Ataques con esta arma realizan 1d6 daño mágico adicional hasta el final de tu turno.
+:
+**Kesseiseki:** Usando tu acción adicional, puedes liberarte del estado *Envenenado*. Adicionalmente obtienes puntos de vida temporales equivalentes a 2d6 + CON.
+
+\column
+
+### Sangre endurecida
+En el nivel 2, aprendes a endurecer la sangre en tu propio cuerpo para repeler ataques físicos. Cuando te encuentres ensangrentado o con el estado de "Sangrado", ganas un bonificador a tu CA equivalente a la mitad de tu estadística de CON redondeado hacia arriba. Este bono es negado si estas llevando armadura mediana o armadura pesada.
+:
+Adicionalmente, mientras estás ensangrentado, cada 10 hipoints perdidos que pierdas de fuentes externas, ganas 1 punto de convergencia al comienzo de tu turno.
+
+### Doku no Aruchi
+
+En el nivel 3, puedes cambiar las propiedades de tu sangre.
+:
+Después de realizar daño con cualquiera de tus habilidades de clase, puedes gastar 1 punto de convergencia y una ranura de hechizo, para forzar a una criatura golpeada por estas habilidades a hacer una tirada de salvación de CON contra perder una ranura de hechizo en un fallo, y ganando tú una ranura de hechizo en este caso. En caso de tener éxito, no ocurre nada.
+:
+Puedes usar esta característica una cantidad de veces igual a la mitad de modificador de CON redondeado hacia arriba.
+:
+Adicionalmente, puedes elegir tu modificador de CON para tu CD y ataques de hechizos, además para la cantidad de campos delimitados que puedes tener activos y cualquier otro recurso que dependa de tu estadística de MNA.
+
+<img src='https://i.pinimg.com/736x/76/83/3f/76833f48b8113e8f4955e59bc72e7428.jpg' style='position:absolute; bottom:0px; right:0px; width:500px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:230px; right:0px; height:1056px; width:816px;' />
   
+
+
+\page
+### Manipulación de Convergencia Dominada
+En el nivel 4, te vuelves alguien diestro a la hora de manipular sangre, lográndola hacer sin problemas.
+:
+**Senketsu:** Este ataque ahora lanza 3 proyectiles, mejorando su rango a (90/120), y realiza 4d6 de daño mágico perforante. Adicionalmente, puedes gastar 1 punto de convergencia por proyectil haciendo que ignoren el CA aumentado por armadura y escudos.
+:
+**Keitsujin:** Ataques con esta arma ahora realizan 1d8 daño mágico adicional e incrementan su rango en 5 pies por 1 minuto. Adicionalmente, puedes gastar 1 punto de convergencia cuando atacas con el arma encantada para incrementar el rango de esta arma en 5 pies por punto gastado hasta el final de tu turno.
+:
+**Kesseiseki:** Los hitpoints temporales que obtienes se incrementan a 4d6 + CON. 
+
+### Supernova
+En el nivel 5, aprendes a usar una de las técnicas más complicadas en la manipulación de sangre,  una mezcla de los principios físicos de la convergencia y repulsión. Además, siempre se considerará que estas en el estado "Ensangrentado".
+:
+Usando tu acción, 1 punto de convergencia y una ranura de hechizo, converges la sangre en un punto desocupado a 90 pies de ti y causas que la sangre se repele entre sí, explotando en todas las direcciones en un radio de 10 pies. Todas las criaturas en esta área son forzadas a hacer una tirada de salvación de CON contra tu DC de hechizos o recibir 8d8 daño mágico perforante y el estado de sangrado y ralentizado, puediendo repetir las salvaciones al final del turno para quitarse ambos estados. Criaturas que pasen esta salvación solamente reciben la mitad del daño.
+:
+Como tienes control limitado de la sangre de los objetivos que fallaron la salvación, aquellos que sigan con los estados negativos, cuando quieran lanzar un ataque o hechizo deben realizar una salvación de CON CD11, en un fallo el ataque o hechizo se cancela (igual se gastan los respectivos recursos que pudieron utilizarse en dicho ataque o hechizo).
+:
+Solo puedes usar esta habilidad una vez por descanso.
+
+<img src='https://i.redd.it/h9o46pk2rz791.png' style='position:absolute; bottom:0px; right:-230px; width:750px;'/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:-10px; right:60px; height:1056px; width:1156px; transform:rotate(-88deg)' />
+
+
+\page
+## Mago de proyeccion (Rework)
+Magos que pueden crear objetos y armas usando la energía mágica de sus cuerpos. La proyección es un tipo de magia no muy utilizado debido a su ineficiencia y a menudo se usa en combinación con otros tipos de magia, siendo su mayor utilidad utilizarlo para objetos que duren poco tiempo.
+:
+Sin embargo, como los contados que se han especializado en este tipo de hechicería, has aprendido a actuar fuera del sentido común de este mundo.
+
+### Competencias
+Armas complejas.
+
+### Trace On
+Al nivel 1 utilizas una variación de la magia de proyección clásica, lo que te permite proyectar cualquier objeto no mágico que hayas visto y que no sea de categoría Grande o superior utilizando una acción bonus.  
+:
+Todo objeto creado a partir de esta habilidad es considerado mágico, y de ser un arma obtendrá un bonificador mágico de +1. Solo puedes tener una cantidad de proyecciones igual a tu nivel de Mago de Proyección en un momento dado y se mantendrán hasta que las descartes como acción gratuita.
+
+### Air Gradation
+Al nivel 2 encuentras utilidad en el estilo clásico de la magia de proyección: utilizar objetos que desaparecerán poco después para uso rápido. Si alguna de estas proyecciones requiere una tirada de salvación, la CD será igual a 12 + tu FUE o DES (a tu elección).
+
+#### Defensa Instantánea
+Si tú o una criatura entre 30 pies de ti es el objetivo de un ataque o salvación de DES, puedes usar tu reacción para proyectar un escudo que se interpondrá entre el objetivo y el agresor. Este escudo le otorgará +3 al CA y salvación contra ese ataque. El escudo se rompe después de recibir el golpe.
+
+#### Proyección inestable
+Después de atacar puedes realizar una proyección de un arma sobrecargada de energía como acción bonus y hacerla explotar de inmediato, todas las criaturas a 10 pies de ti (excepto tu) deben realizar una salvación de DES, recibiendo 2d6 de daño de fuerza o la mitad en un éxito.
+
+#### Segundo filo
+Cuando realizas un ataque de arma, puedes proyectar un arma pequeña que sigue la trayectoria del ataque original. Si el primer ataque impacta, enflige 1d6 de daño adicional. Si el ataque original tenía la propiedad de *dispersión*, también añade ese 1d6 al daño de dispersión.
+:
+Este daño adicional también puede añadirse a la acción de disparo Automático y Ráfaga.
+
+
+
+<div style='margin-top:540px'></div>
+
+
+### Trace On mejorado
+Al nivel 3, has perfeccionado esta variante, siendo capaz de comprender la estructura de los objetos con solo un vistazo y replicar su historia, lo que te permite mejorarlos ligeramente.
+:
+Las armas proyectadas ahora tienen una bonificación mágica de +2, y toda armadura y escudo una bonificación +1 a su CA.
+
+### Projection Shell (prototipo)
+
+Al nivel 3 mezclas los principios de Proyección y la magia de ilusión, logrando alterar tu realidad en una escala baja. Aprendes un dote a tu elección, el cual puedes cambiar al final de un descanso.
+
+### Ejecución Paralela
+A nivel 4, mientras otros eligen entre atacar o defenderse, tú haces ambas cosas en el mismo tiempo.
+:
+Tienes 2 reacciones en vez de 1, pero una de estas sólo puede usarse con habilidades de tu clase de Proyección. Además, el daño realizado por tus habilidades de Air Gradiaton infligen otros 2d6 de daño adicional.
+
+
+### Duplicación
+Al nivel 5 comienzas a comprender completamente un arma a nivel molecular con solo mirarla.
+:
+Una vez por descanso, puedes usar tu acción para crear cualquier Código Místico o Noble Phantasm que hayas visto.
+:
+El objeto proyectado debe ser un arma. Los Códigos Místicos creados de esta forma no requieren sintonía. Un Noble Phantasm proyectado puede usar su ataque de Nombre Verdadero si conoces dicho nombre; tras hacerlo, el arma se desmorona. Si su rango superior a B, su ataque de Nombre Verdadero sufre una penalización de –2 a la CD y reduce su daño en 3 dados por cada rango por encima de B.
+:
+Solo puedes tener un Noble Phantasm y un Código Místico proyectados mediante esta habilidad al mismo tiempo.
+
+### Barrera de Siete Pétalos
+A nivel 5, cuando tú o una criatura a 10 pies de ti sea objetivo de un ataque o área de efecto que, puedes usar tu reacción para proyectar un muro de siete capas. Tu y las a 10 pies de ti tendrán ventaja en la tirada de salvación y resistencia a ese daño por ese turno. Si hubo un efecto de muerte instantánea, este se anulará.
+:
+Esta habilidad tiene una recarga de 5 - 6.
+
+
+<img src='https://i.redd.it/6jjyf7vol1iz.jpg' style="width:390px;position:absolute;right:0px;bottom:-310px;"/>
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; top:0px; right:105px; height:1056px; width:1056px; transform:rotate(-90deg)' />
+<img 
+  src='https://www.gmbinder.com/images/cPPYV7h.png' 
+  style='position:absolute; bottom:-150px; right:0px; height:1396px; width:816px;' />
+ 
+  
+
+
 \page
 ### Códigos místicos
 Equipo especializado y artículos mágicos diseñados para asistir a los magos en áreas que ni el entrenamiento físico ni la magia convencional pueden alcanzar. Si un Código Místico inflige daño, este es considerado mágico; si se trata de un arma, también se considera mágica junto al daño que realiza.  
@@ -1653,6 +1829,25 @@ El familiar vuelve a su estado de reposo en caso de que sus puntos de vida bajen
 
 \column
 
+ #### Instrumento de Tortura: Dolor virgen.
+*Código Místico, 4 de riqueza. Requisito: clase principal o Trasfondo deben ser de la Iglesia*
+:
+**Especial:** Durante la creación de personaje, si tu clase principal es *Enterrador de la Iglesia*, tienes descuento de 1 Riqueza.
+:
+Un dispositivo conceptual reconvertido en armadura, inspirado en una Doncella de Hierro, un instrumento de tortura creado para identificar brujas. Quienes porten la armadura no pueden quitársela hasta que esta confirme si son brujas o no, ya sea muriendo si confiesa o si se la quitan antes de tiempo. Sin embargo, al mismo tiempo, el portador no puede morir hasta que la armadura haya confirmado su identidad.
+:
+Se comporta como una Armadura Pesada. Quien la lleva tiene la habilidad de *Battle Continuation C*. Los efectos de muerte instantánea pueden ser anulados con esta armadura, contando para la salvación de Battle Continuation. La primera vez que el usuario fuera a morir llevando esta armadura, vuelve a 1 PV. Al hacerlo la armadura se rompe.
+:
+Esta armadura puede ser puesta de manera forzosa en una criatura no voluntaria, contando como 2 objetos de sintonía si fue utilizada de esa manera. Si el usuario que lo lleva puesto una Criatura Hereje los beneficios se pierden y recibe 10 puntos de daño inmitigables al inicio de sus turnos y es incapaz de quitárselo de manera voluntaria, sólo alguien más puede hacerlo.
+:
+*Battle Continuation C:* Cuando fueras a recibir un golpe fatal que te baje a 0 PV, te quedas a 1 PV en su lugar. Este efecto solo ocurre una vez por descanso.
+:
+Cada vez que fueras a caer a 0 PV después de que se active este efecto, pero antes de su siguiente descanso, debe realizar una tirada de salvación de CON CD 14. Si supera esta tirada, quedas a 1 punto de golpe en su lugar y aumenta la CD de esta tirada en 2 (máximo 20).
+
+
+\page
+
+ 
  #### Manto del Inquisidor
 
 *Código Místico, 2 de riqueza. Requisito: Trasfondo de Monje de la Iglesia*
@@ -1678,7 +1873,8 @@ Este traje cuenta como una armadura ligera, con un bonificador de +1 al CA. Mien
 - Hasta dos veces por descanso, cuando fueras a lanzar un hechizo, puedes reducir tus puntos de vida en 10 puntos inmitigables en lugar de gastar una ranura de hechizo.
 
 
-\page
+
+\column
 
 
 #### Recuerdo de Atalanta
@@ -1690,7 +1886,7 @@ Cuando se golpea a una criatura con un ataque de este arco, puedes gastar una ra
 :
 ***Lluvia de estrellas:*** Puedes escuchar brevemente los ecos del pasado y replicar una versión inferior de una proeza de Atalanta. Como acción de ronda completa puedes elegir un punto entre 150 pies de distancia, todas las criaturas en un radio de 30 pies deben hacer una tirada de salvación de DES DC 16 o recibir 15d6 de daño perforante o la mitad en una salvación exitosa. Esta habilidad trata a las resistencias como si no existieran, incluida la resistencia de los Servants proveniente de la Resiliencia Espiritual, y trata inmunidades como resistencia. Sólo puedes usar "Lluvia de Estrellas" una vez por Amanecer (se recarga cada nueva fase de día).
 
-\column
+\page
 
 #### Recuerdos del mañana
 *Código Místico, costo: 3 de Riqueza, tu nivel máximo se reduce en 1. Requisito: Trasfondo de Desconocido, nivel total actual menor a 5.*
@@ -1790,7 +1986,7 @@ Envías un destello de energía protectora a una criatura que puedas tocar. Si e
 *Truco de Evocación*
 :
 **Tiempo de Lanzamiento:** 1 Acción  
-Alcance: 120 pies  
+**Alcance:** 120 pies  
 **Componentes:** V, S  
 **Duración:** Instantánea
 :
@@ -1951,7 +2147,7 @@ Hasta que el hechizo termine, obtienes resistencia al daño por fuego y al comie
 :
 Aparece una barrera translúcida de fuerza mágica en forma de escudo que te protege a ti y a tus aliados.
 :
-Hasta el comienzo de tu siguiente turno, incluyendo contra la tirada de salvación que la activó, siempre que tú o un aliado a 10 pies o menos deban realizar una tirada de salvación, no sufren daño si la tirada tiene éxito y la mitad del daño si falla.
+Hasta el comienzo de tu siguiente turno, incluyendo contra la tirada de salvación que la activó, siempre que tú o un aliado a 10 pies o menos deban realizar una tirada de salvación contra un hechizo, no sufren daño si la tirada tiene éxito y la mitad del daño si falla.
 
 
 #### Escudo distante
@@ -2016,7 +2212,7 @@ El efecto elegido termina cuando vuelves a usar este hechizo.
 \column
 
 
-#### El fiel perro de Rizzvan
+#### Sabueso Leal de Rizzvan
 *Conjuración*
 :
 **Tiempo de lanzamiento:** 1 acción.  
@@ -2024,13 +2220,13 @@ El efecto elegido termina cuando vuelves a usar este hechizo.
 **Componentes:** V, S  
 **Duración:** 8 horas
 :
-Conjuras un perro guardián fantasma en un espacio desocupado que puedas ver dentro del alcance.
+Conjuras un sabueso guardián fantasma en un espacio desocupado que puedas ver dentro del alcance.
 :
-Permanece durante la duración, si lanzas este hechizo de nuevo, hasta que lo desestimes como acción adicional, o hasta que te alejes más de 300 pies de él. Como acción adicional, puedes mover al perro hasta 30 pies.
+Permanece durante la duración, si lanzas este hechizo de nuevo, hasta que lo disipes como acción bonus, o hasta que te alejes más de 300 pies de él. Como acción bonus, puedes mover al sabueso hasta 30 pies.
 :
-Nadie más que tú puede ver al perro, y es intangible e invulnerable. Cuando una criatura Pequeña o más grande se acerca a 30 pies de él sin decir primero la contraseña que especificaste cuando lanzaste este hechizo, el perro comienza a ladrar fuerte. El perro tiene Visión verdadera con un alcance de 30 pies.
+Nadie más que tú puede ver al perro, y es intangible e invulnerable. Cuando una criatura Pequeña o más grande se acerca a 30 pies de él sin decir primero la contraseña que especificaste cuando lanzaste este hechizo, el sabueso comienza a ladrar fuerte. El sabueso tiene visión verdadera con un alcance de 30 pies.
 :
-Al final de tus turnos, el perro intenta morder a un enemigo que esté a 5 pies de él. Ese enemigo debe tener éxito en una tirada de salvación de DES o sufrir 3d6 puntos de daño de fuerza.
+Al final de tus turnos, el sabueso intenta morder a un enemigo que esté a 5 pies de él. Ese enemigo debe tener éxito en una tirada de salvación de DES o sufrir 3d6 puntos de daño de fuerza.
 
 
 
@@ -2070,7 +2266,7 @@ Solo puedes tener un Elemental invocado a la vez.
 ## Elemental de aire
 *Elemental Grande*
 ___
-**Clase de Armadura:** :: 10 + your MNA
+**Clase de Armadura:** :: 10 + tu MNA
 **puntos de vida:**  :: 25
 **Velocidad:**       :: 0 pies, 90 pies de vuelo (flotando)
 ___
@@ -2183,7 +2379,7 @@ ___
 :
 ***Golpe.*** *Ataque de Arma cuerpo a cuerpo:* +6 para golpear, alcance de 5 pies, un objetivo. *Golpe:* 2d6 + 4 de daño contundente.
 :
-***Cañón (Recarga 5 – 6).*** El elemental elige un objetivo a 60 pies, el objetivo debe tener éxito en una tirada de salvación de CON o recibirá 3d10 + 4 de daño contundente y quedará aturdido hasta el final de su turno, recibe la mitad de daño y no quedará aturdido en una salvación exitosa.
+***Cañón (Recarga 5 – 6).*** El elemental elige un objetivo a 60 pies y dispara un proyectil acuoso, el objetivo debe tener éxito en una tirada de salvación de CON o recibirá 3d10 + 4 de daño contundente y quedará aturdido hasta el final de su turno, recibe la mitad de daño y no quedará aturdido en una salvación exitosa.
 :
 ***Torrente (Recarga 5 – 6).*** El elemental se mueve 30 pies en línea recta. Cada criatura en su camino debe realizar una tirada de salvación de FUE. Si falla, la criatura sufre 3d10 puntos de daño cortante y, si su tamaño es Grande o menor, queda agarrada. Si tiene éxito, el objetivo es empujado fuera del espacio del elemental y no recibe daño.
 :
@@ -2275,12 +2471,12 @@ El objetivo debe realizar una tirada de salvación de MNA. Si falla, sufre 3d6 p
 Elige un tipo de daño entre fuego, psíquico, radiante y trueno, el objetivo golpeado recibe 2d6 de daño adicional del tipo de daño seleccionado y debe realizar una salvación de CON, siendo afectado por una habilidad adicional, la cual varía dependiendo del tipo de daño elegido.
 
 - **Fuego:** Llamas envuelven al objetivo, quemando todo objeto inflamable que no esté sostenido ni equipado, además sufre el estado de Quemado.
-___
-- **Psíquico:** Queda con el estado de Atemorizado, puede repetir las salvaciones al final de su turno para quitarse este estado.
-___
+
++ **Psíquico:** Queda con el estado de Atemorizado, puede repetir las salvaciones al final de su turno para quitarse este estado.
+
 - **Radiante:** Hasta el final de su siguiente turno todos los ataques son con ventaja contra esta criatura e irradia una luz que evita que pueda beneficiarse de invisibilidad y huye con desventaja.
-___
-- **Trueno:** El objetivo es empujado 10 pies en línea recta y queda con el estado de Tumbado.
+
++ **Trueno:** El objetivo es empujado 10 pies en línea recta y queda con el estado de Tumbado.
 
 #### Eco arcano 
 *Evocación*   
@@ -2405,7 +2601,7 @@ Si el daño recibido supera los puntos de vida del escudo, el exceso se transfie
 * Enorme – 20 pies  
 * Gigante – 30 pies
 ___
-Independientemente del resultado, una vez el ataque concluye, el escudo se desintegra y la criatura usada muere de forma irreversible. Esta muerte no puede evitarse por ningún medio, y la criatura no puede lanzar hechizos ni usar habilidades mientras actúe como escudo.
+Independientemente del resultado, una vez inicia tu siguiente turno o los puntos de vida del escudo bajen a 0, el escudo se desintegra y la criatura usada muere de forma irreversible. Esta muerte no puede evitarse por ningún medio, y la criatura no puede lanzar acciones, hechizos ni usar habilidades mientras actúe como escudo.
 
 
 
@@ -2473,8 +2669,8 @@ Un objetivo maldito puede repetir esta tirada de salvación al final de cada uno
 Elige a una criatura o a un objeto que no esté siendo llevado ni sujetado. Si el objetivo no es voluntario, puede realizar una tirada de salvación de CON, el hechizo no tiene efecto en un éxito. Si el objetivo es una criatura, todo lo que lleve puesto y esté sujetando cambia de tamaño junto a ella. Cualquier objeto soltado por una criatura afectada vuelve inmediatamente a su tamaño normal.
 
 * **Agrandar.** El objetivo aumenta su tamaño en una categoría (por ejemplo, de Mediano a Grande). Si no hay suficiente espacio para que el objetivo duplique su tamaño, la criatura u objeto alcanza el máximo tamaño posible en el espacio disponible. Hasta que el hechizo termine, el objetivo también tiene ventaja en las tiradas de habilidad y salvación de FUE. Las armas del objetivo también crecen para igualar su nuevo tamaño, infligiendo un dado de daño adicional.
-___
-* **Reducir.** El tamaño del objetivo disminuye su tamaño en una categoría (por ejemplo, de Mediano a Pequeño). Hasta que el hechizo termine, el objetivo también tiene desventaja en las tiradas de habilidad y salvación de FUE. Las armas del objetivo también encogen para igualar su nuevo tamaño, infligiendo un dado de daño menos. Si sólo tenía un dado de daño, se reduce su categoría de daño en una categoría.
+
++ **Reducir.** El tamaño del objetivo disminuye su tamaño en una categoría (por ejemplo, de Mediano a Pequeño). Hasta que el hechizo termine, el objetivo también tiene desventaja en las tiradas de habilidad y salvación de FUE. Las armas del objetivo también encogen para igualar su nuevo tamaño, infligiendo un dado de daño menos. Si sólo tenía un dado de daño, se reduce su categoría de daño en una categoría.
 
 \page
 
@@ -2483,8 +2679,8 @@ ___
 :
 **Tiempo de lanzamiento:** 1 Acción bonus  
 **Alcance:** 30 pies   
-**Componentes:** S, V  
-**Duración:** Toque
+**Componentes:** V, S  
+**Duración:** 1 minuto
 :
 Apuntas a una criatura voluntaria y eliges un tipo de daño elemental o Veneno. Hasta que el hechizo termine, el objetivo puede utilizar una Acción para exhalar un cono de 30 pies. Cada criatura en esa área realiza una tirada de salvación de DES, recibiendo 3d6 de daño del tipo elegido si falla o la mitad si tiene éxito.
 
@@ -2496,7 +2692,7 @@ Apuntas a una criatura voluntaria y eliges un tipo de daño elemental o Veneno. 
 **Componentes:** S  
 **Duración:** 1 ronda
 :
-Elige un tipo de daño entre fuego, perforante y rayo, la pieza de munición queda encantada. Falle o acierte el ataque, tanto el objetivo original como las criaturas a 10 pies de este reciben 2d6 de daño adicional del tipo de daño seleccionado. Sólo el objetivo original, de ser golpeado con éxito, debe hacer una salvación de CON, si falla subre uno de los siguientes efectos adicionales, que dependen del tipo de daño elegido y duran hasta el final de su siguiente turno:
+Elige un tipo de daño entre fuego, perforante y rayo, la pieza de munición queda encantada. Falle o acierte el ataque, tanto el objetivo original como las criaturas a 10 pies de este reciben 2d6 de daño adicional del tipo de daño seleccionado. Sólo el objetivo original, de ser golpeado con éxito, debe hacer una salvación de CON, si falla sufre uno de los siguientes efectos adicionales, que dependen del tipo de daño elegido y duran hasta el final de su siguiente turno:
 
 - **Fuego:** Queda envuelto en llamas que se reavivan con el fulgor de la batalla, cada vez que es dañado recibe 1d6 de daño de fuego adicional.
 ___
@@ -2578,7 +2774,7 @@ Al lanzar este hechizo, puedes designar cualquier cantidad de criaturas que veas
 :
 Tu toque otorga a la criatura elegida una capacidad sobrehumana para atacar a sus enemigos.
 :
-El objetivo gana +2 a sus tiradas de ataque y daño con armas y el daño infligido con estas pasa a ser daño radiante. Si el objetivo es una criatura con el atributo Divino o tiene alineación buena, las armas que empuñe se consideran mágicas.
+El objetivo gana +2 a sus tiradas de ataque y daño con armas y el daño infligido con estas pasa a ser daño radiante. Si el objetivo es una criatura con el atributo Divino o tiene de alineamiento bueno, las armas que empuñe se consideran mágicas.
 
 #### Manto del cruzado  
 *Sacramento*   
@@ -2778,8 +2974,7 @@ Toda el área de este campo se considera terreno difícil.
 :
 Una vez por turno, como acción bonus, puedes seleccionar una criatura que veas dentro del campo y que esté en contacto con el suelo, forzándola a realizar una tirada de salvación de FUE. Si falla, el suelo bajo ella se convierte en un sumidero, haciéndola caer Tumbada y recibir 2d6 de daño contundente.  
 
-
-<div style='margin-top:450px'></div>
+\column
 
 #### Campo de tierra sagrada
 *Campo delimitado*

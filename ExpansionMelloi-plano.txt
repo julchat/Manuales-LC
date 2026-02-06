@@ -561,10 +561,10 @@ Pisotear Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, una cria
 
 11
 
-Astralopitecus
+Astraprimante
 Magos que atraen la llamada de la tormenta, manejan el poder del rayo y lo infunden en sus circuitos mágicos para alterar sus habilidades físicas y su hechicería.
 
-Los mosquitos rivalizan con los piromantes en el puro poder destructivo de sus hechizos.
+Los astraprimantes rivalizan con los piromantes en el puro poder destructivo de sus hechizos.
 
 Lanzador de hechizos
 Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
@@ -1062,8 +1062,8 @@ Magos que practican la manipulación de metales que a menudo son pasados por alt
 
 Estos magos se han entrenado para equilibrar tanto su destreza física con su destreza mágica, de manera que puedan estar al frente en el campo de batalla.
 
-Medio lanzador de hechizos
-Tu primer nivel de esta clase te da una ranura y un hechizo conocidos, después de este primer nivel, cada dos niveles obtienes una ranura de hechizo y un hechizo conocido.
+Lanzador de hechizos
+Por cada nivel en esta clase obtienes ranuras de hechizos adicionales, así como hechizos conocidos.
 
 Competencias
 Armas complejas
@@ -1118,7 +1118,7 @@ Cuando realizas un ataque cuerpo a cuerpo, puedes gastar cualquier número de pu
 21
 
 Soldado
-Magos que dejadon de lado temas de magia para convertirse en guerreros que se enfocan en la mejora bruta de su cuerpo.
+Magos que dejaron de lado temas de magia para convertirse en guerreros que se enfocan en la mejora bruta de su cuerpo.
 
 Se entrenán a sí mismos en lugar de utilizar sus circuitos mágicos, y usando solo su ingenio se mantienen a la par de aquellos que lanzan hechizos o se mejoran con maná.
 
@@ -1128,13 +1128,12 @@ Armas simples y complejas.
 Potencial latente
 Al nivel 1 tu potencial te posiciona sobre tus compañeros y oponentes por igual.
 
-Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica mientras que esta no sea SUE o MNA.
+Si tu clase principal es Soldado ganas 2 puntos adicionales que puedes distribuir en una sola estadistica, pero no puedes superar el límite de 5.
 
 Maestro de armas
 Al nivel 1 comienzas con cualquier arma mientras que seas competente con ella.
 
-Si elige un arma de fuego, esta comienza con un accesorio
-de tu eleccion. Mientras empuñas un arma con la que eres competente, tu dado de daño aumenta en una categoría.
+Si elige un arma compleja a disancia, esta comienza con un accesorio de tu eleccion. Mientras empuñas un arma con la que eres competente, tu dado de daño aumenta en una categoría.
 
 Estilo de lucha
 Al nivel 2 obtienes un estilo de lucha. Elige una opción de la lista a continuación, obteniendo la siguiente función.

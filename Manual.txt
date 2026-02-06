@@ -43,6 +43,28 @@ theme: 5ePHB
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 
@@ -100,7 +122,7 @@ Debido a la amplitud de D&D5E y la inclusión de elementos de otra franquicia, s
 
 * **Bonificador Mágico:** Toda arma con esto es considerada mágica y suma el bono a sus tiradas de ataque y daño.
 * **Categoría de dado:** Representa los niveles de dados de daño (d4, d6, etc.). Aumentar una categoría significa subir al siguiente dado (por ejemplo, d4 a d6), el máximo es d12.
-* **Criatura Hereje:** Toda criatura que sea Demonio, Espíritu, no-muerto o vampiro.
+* **Criatura Hereje:** Toda criatura que sea Aberración, Demonio, Espíritu, no-muerto o vampiro.
 * **Daño Elemental:** Es un grupo de tipos de daño, siendo estos: daño por ácido, frío, fuego, rayo y trueno.
 * **Daño Físico:** Daño contundente, cortante y perforante de procedencia no mágica.
 * **Dolencia Física:** Incluye los estados de Sangrado, Ralentizado, Quemado y cualquier otro que afecte al cuerpo, como Perdición o el Aturdimiento por balas o una granada. No aplica a estados como Agarrado o Tumbado.
@@ -431,7 +453,7 @@ Todos los Servants necesitan la energía mágica que les proporcionan sus Master
 ___
 Asesinar a los vivos y permitir que tu Servant consuma sus almas es una de esas formas. Aunque este es un proceso muy dudoso debido a la atención que en definitiva atraerá hacia ti y tu Servant, puede ser una alternativa a la que recurrir si llegas a necesitarla.
 ___
-Tanto Magos como Servants tienen la capacidad de acabar con la vida de civiles en cuestion de segundos. No habrá ningún combate involucrado aquí. En cambio, mientras estás fuera de combate, puedes pasar 8 horas en una sola área del mapa recolectando almas. Después de hacerlo, cualquier drenaje de estadísticas que tengas se anulará durante 24 horas y se obtiene un uso de Noble Phantasm adicional. También fortaleces a tu Servant por la misma duración: obtendrá puntos de vida temporal igual a 50 + su CON x 10, acumulable con otras fuentes y +3 a sus tiradas de ataque y daño. 
+Tanto Magos como Servants tienen la capacidad de acabar con la vida de civiles en cuestion de segundos. No habrá ningún combate involucrado aquí. En cambio, mientras estás fuera de combate, puedes dedicar 8 horas para potenciar a un Servant, de esta manera eliminará los efectos de Drenaje de Estadística durante 24 horas y podrá liberar un Ataque de Nombre Verdadero adicional. Si el Servant no imponía Drenaje de Estadística al hacerlo, o si pasa otras 8 horas adicionales recolectando almas, el beneficio será mayor, lo que le otorgará 50 + su CON x 10 (acumulable con otras fuentes) y +5 a sus tiradas de ataque y daño o +2 a todas las salvaciones que imponga por habilidades y hechizos (pero no la dificultad de su noble phantasm). 
 ___
 Ten en cuenta que, aunque los beneficios obtenidos a través del consumo de alma son muy buenos, matar a inocentes siendo un mago es extremadamente divisivo. Si otros magos se enteran de tales actos, tendrán una razón para ir tras de ti. Si se informa a la Iglesia, esta le otorgará una recompensa a los otros Masters participantes si se encargan de ti.
 
@@ -723,13 +745,11 @@ Tus puños infligen 1d6 de daño contundente y puedes atacar con ellos usando FU
 
 #### Respirar y caminar
 
-Tu cuerpo permanece en un estado de armonía, lo que te permite combatir hechizos hasta cierto punto. Tienes una bonificación de +2 a todas las tiradas de salvación frente a hechizos o efectos similares.
-___
-Si eres el objetivo de un hechizo, puedes usar tu reacción para ganar resistencia al daño que haga. Solo puedes tomar esta reacción una vez por descanso.
+Tu cuerpo permanece en un estado de armonía, lo que te permite combatir hechizos hasta cierto punto. Tienes una bonificación de +2 a todas las tiradas de salvación frente a hechizos o efectos similares. Una vez por descanzo, cuando fueras a ser dañado por un hechizo, puedes usar tu reacción para reducir el daño a la mitad.
 
 #### Supremacia marcial
 
-Aprendes 6 maniobras a elección y tienes 5 dados (d6) de maniobra que se gastan al ser usadas y que recuperas luego de un descanso. Muchas maniobras mejoran tus ataques de alguna manera y solo puedes usar una  por ataque.
+Obtienes +1 a tu FUE, DES y CON (sigues sin poder superar el límite de 5). También aprendes 6 maniobras a elección y tienes 5 dados (d6) de maniobra que se gastan al ser usadas y que recuperas luego de un descanso. Muchas maniobras mejoran tus ataques de alguna manera y solo puedes usar una  por ataque.
 ___
 Algunas de tus maniobras requieren que tu objetivo realice una tirada de salvación. La CD de estas tiradas de salvacion es igual a 12 + FUE o DES (A tu elección)
 
@@ -1076,7 +1096,7 @@ Comienzas con 8 de riqueza.
 
 #### Cazador de herejes
 
-Cada hechizo, habilidad de clase o ataque exitoso realizado contra una Criatura Hereje o constructo, inflige 1d8 de daño radiante adicional. Ademas, si fuerza una salvación, los objetivos la realizan con desventaja, esto también es aplicable con tus habilidades de clase que fuercen una salvación.
+Cada hechizo, habilidad de clase y ataque exitoso realizado contra una Criatura Hereje o constructo, inflige 1d8 de daño radiante adicional. Ademas, si fuerzan una salvación, los objetivos la realizan con desventaja. También empiezas con un Vestido Bendecido, que te da resistencia al daño físico y 6 llaves negras.
 
 #### Sanación divina
 
@@ -1509,13 +1529,12 @@ Al nivel 2, entiendes que jugar con la mente de las personas es mas fácil de lo
 ___
 **Agobiar la mente:** Cuando una criatura a 60 pies o menos que puedas ver falla una salvación contra una Interferencia Mental, puedes infligirle 3d6 de daño psíquico. Este daño no termina ni hace repetir la salvación de hechizos o habilidades similares a hechizos que podrían terminar al sufrir daño, como tu Oleada Emocional o Sugestión. Si esa salvación fue impuesta por ti, puedes hacerlo sin importar la distancia.
 ___
-**Contagio emocional:** Cuando lances un hechizo o habilidad de clase que cause una Interferencia Mental y tenga como objetivo a una sola criatura puedes alterarlo y, en vez de un solo objetivo, eliges un cubo de 10 pies de radio centrado en un punto que puedas ver a 120 pies de ti. Todas las criaturas dentro de esa área válidas para el efecto se convierten en objetivos del mismo.
+**Contagio emocional:** Cuando lances un hechizo o habilidad de Hidromante que cause una Interferencia Mental y tenga como objetivo a una sola criatura puedes alterarlo y, en vez de un solo objetivo, eliges un cubo de 20 pies cada lado en un punto que puedas ver a 120 pies de ti. Todas las criaturas dentro de esa área válidas para el efecto se convierten en objetivos del mismo.
 
 
 
 ### Mente líquida
-Al nivel 3 obtienes resistencia al daño psíquico y ventaja en tiradas de salvación contra Interferencia Mental. Además, la CD de tus hechizos de Encantamiento e Ilusión y similares aumentan su salvación en +1.
-
+Al nivel 3 obtienes resistencia al daño psíquico y ventaja en tiradas de salvación contra Interferencia Mental. Además, la CD de tu *Oleada Emocional*, así como tus hechizos de Encantamiento e Ilusión y similares aumentan su salvación en +1.
 
 
 
@@ -2454,7 +2473,7 @@ ___
 La mayoría de los Códigos Místicos requieren sintonización, pero solo puedes sintonizarte con un máximo de 3 a la vez.
 
 #### Amuleto etéreo
-*Código Místico, 2 de riqueza*
+*Código Místico, 1 de riqueza*
 ___
 Se dice que este amuleto fue creado por un antiguo mago que buscaba atravesar los planos con mayor facilidad. No lo logró, pero sus estudios lograron la creación de un objeto valioso para los magos que estudian las fluctuaciones del éter: un amuleto hecho de cristal pulido, con una neblina espesa que se mueve en su interior. Este Código Místico no requiere sintonía.
 ___
@@ -2476,12 +2495,16 @@ Si el objetivo es un lanzador de hechizos, recibe 3d6 de daño necrótico extra 
 ___
 Los objetivos que han logrado superar la tirada de salvación de la bala origen se vuelven inmunes hasta el final de su próximo descanso. Los objetivos que fallan se vuelven inmunes a los efectos de las balas origen posteriores.
 
+
 #### Bastón de fuerza
-Código Místico, 2 de riqueza
+Código Místico, 1 de riqueza
 ___
 Un bastón imbuido con el poder del viento que puedes liberar para moverte. Este Código Místico no requiere sintonía.
 ___
 Este bastón tiene un máximo de 5 cargas, cada nueva fase recarga 1. Mientras lo lleves contigo tienes +1 en tus tiradas de ataques de hechizo, y si un enemigo termina su turno a 5 pies de ti puedes gastar una carga para moverte hasta 15 pies lejos sin provocar ataque de oportunidad.
+___
+Puedes usar tu MNA en vez de tu FUE para las tiradas de ataque y daño con este bastón.
+
 
 <img src='https://i.ibb.co/3Cx4b5x/263.jpg' style='width:500px;position:absolute;right:-70px;bottom:0px;' />
 <img 
@@ -2535,21 +2558,19 @@ ___
 Cualquier estructura que el tornado atraviese será destruida, convirtiendo el área en terreno difícil. Además, puedes redirigir cualquier proyectil que cruce el tornado hacia un objetivo de tu elección.
 
 #### Dragón de bolsillo
-*Código Místico, 5 de riqueza*
+*Código Místico, 2 de riqueza*
 ___
-Un pequeño familiar pseudo-dragón. Cuando elijas este Código Místico debes escoger un tipo de daño elemental, el cual será el elemento que utilizará tu dragon de bolsillo para sus habilidades.
+Un pequeño familiar pseudo-dragón. Cuando elijas este Código Místico debes escoger un tipo de daño elemental, necrótico o radiante, el cual será el que utilizará tu dragon de bolsillo para sus habilidades. Este Código Místico no requiere sintonía.
 ___
-Mientras el dragon de bolsillo está montado en tu hombro, te otorga lo siguiente.
+El dragón tiene resistencia al daño elegido y mientras esté montado en tu hombro es inmune al daño en área, además te otorgará los siguientes beneficios.
 
-* Obtienes resistencia al tipo de daño elemental escogido para el dragon de bolsillo.
+* Obtienes resistencia al tipo escogido para el dragón de bolsillo.
 
-
-* Puedes ordenar al dragon de bolsillo que haga un ataque de aliento usando tu acción bonus. Todas las criaturas en un cono de 15 pies frente a ti son obligadas a realizar una tirada de salvación de DES CD 15, recibiendo 3d6 de daño  elemental del dragon de bolsillo en caso de fallar o la mitad si tienen éxito. Este ataque de aliento tiene una recarga de 5-6.
-
+* Puedes ordenar al dragón de bolsillo que haga un ataque de aliento usando tu acción bonus. Todas las criaturas en un cono de 15 pies frente a ti son obligadas a realizar una tirada de salvación de DES CD 15, recibiendo 3d6 del tipo escogido para el dragón de bolsillo, en caso tener éxito en la salvación reciben la mitad de daño.
 ___
-Puedes ordenar a tu dragon de bolsillo que se desmonte de tu hombro como acción gratuita en tu turno. Mientras está desmontado, tiene una velocidad de vuelo de 20 pies, y  puede explorar por sí solo, usando tu SUE.
+Puedes ordenar a tu dragon de bolsillo que se desmonte de tu hombro como acción gratuita en tu turno. Mientras está desmontado, tiene una velocidad de vuelo de 20 pies, y puede explorar por sí solo usando tu SUE.
 ___
-Durante un combate, el dragon de bolsillo tiene 15 puntos de vida y su CA es 12. Puedes ordenarle que realice la acción de Ayudar con tu acción bonus. Si tu dragon de bolsillo muere, se volvera cenizas dejando atras un huevo del cual emergera luego de 24 horas.
+Durante un combate, el dragon de bolsillo tiene 25 puntos de vida y su CA es 12. Puedes ordenarle que realice la acción de Ayudar con tu acción bonus. Si tu dragon de bolsillo muere, se volvera cenizas dejando atras un huevo del cual emergerá nuevamente luego de 8 horas.
 
 
 
@@ -2561,11 +2582,15 @@ Durante un combate, el dragon de bolsillo tiene 15 puntos de vida y su CA es 12.
 #### Eco de los ancestros
 *Código Místico, 3 de riqueza, Requisito: Tu Trasfondo debe ser Adepto Marcial*
 ___
-Un arco corto, legado de un antiguo clan, diseñado para canalizar la energía del usuario y empujarlo más allá de sus propios límites. El dado de daño de este arco es igual al de los golpes desarmados del usuario, y puedes utilizar tu FUE en lugar de DES para las tiradas de ataque y daño.
+Un arco corto, legado de un antiguo clan, diseñado para canalizar la energía del usuario y empujarlo más allá de sus propios límites. Al estar estar vinculado a clanes guerreros, aún y cuando no es un ataque cuerpo a cuerpo, puedes sumar el bonificador de ataque de **Mano Firme** a su tirada de ataque. El dado de daño de este arco es igual al de los golpes desarmados del usuario, y puedes utilizar tu FUE en lugar de DES para las tiradas de ataque y daño.
+___
+Tiene bonificador mágico de +1.
+___
+Mientras estés sintonizado a esta arma, incrementa la categoría de tus dados de maniobra en 1 nivel. Esto puede superar el líme te d8 del dote de Iniciado Marcial.
 ___
 Una vez por descanso, puedes pronunciar la palabra clave para activar las propiedades mágicas del arco, revitalizando tu cuerpo agotado. Durante el siguiente minuto, al inicio de cada uno de tus turnos, recuperas un dado de maniobra.
 ___
-Además, las maniobras que normalmente se utilizan en ataques cuerpo a cuerpo pueden ser aplicadas a los ataques a distancia realizados con este arco.
+Además, puedes aplicar maniobras que normalmente solo funcionan en ataques cuerpo a cuerpo a los ataques a distancia realizados con este arco.
 
 
 #### Escudo del retorno
@@ -2584,6 +2609,19 @@ Un par de cimitarras gemelas con los 12 signos del zodiaco grabados en las hojas
 ___
 Cuando realizas un ataque con éxito usando estas armas, puedes gastar una tirada de predicción para hacer que el ataque haga 3d6 daño de fuerza adicional.
 
+<div style='margin-top:250px'></div>
+#### Espada del discípulo
+*Código Místico, 2 de riqueza, Requisito: Tu Trasfondo debe ser Adepto Marcial*
+___
+Una espada de bambú que se le da a los estudiantes más adeptos y es usada por algunos maestros para enseñar a los novatos lo básico. Este Código Místico no requiere sintonía.
+___
+Usa las estadísticas de una Espada Larga, con la propiedad de Sutil y Ligera. Realiza daño contundente en vez de cortante.
+
+___
+Mientras portes esta arma, incrementa la categoría de tus dados de maniobra en 1 nivel. Esto puede superar el líme te d8 del dote de Iniciado Marcial.
+___
+Hasta 3 veces por descanso, cuando impactas con un golpe crítico con un ataque utilizando esta arma, recuperas un dado de superioridad.
+
 #### Estrella fugaz
 *Código Místico, 4 de riqueza*
 ___
@@ -2601,6 +2639,11 @@ ___
 Como reacción mientras empuñas a Gamaliel, puedes crear una barrera mágica, todas las criaturas aliadas a 10 pies obtienen +5 CA y +5 a todas las tiradas de salvacion contra hechizos o similares hasta el inicio de tu siguiente turno.
 
 
+
+
+
+\page
+
 #### Guante de piel de salamandra
 *Código Místico, 3 de riqueza*
 ___
@@ -2616,11 +2659,8 @@ El guante tiene un maximo de 6 cargas y el usuario puede gastarlas chasqueando l
 
 * **3 Cargas.** Rayo abrasador
 ___
-El guante comienza con 6 cargas y recupera 1d4 de cargas al comienzo de cada fase.
+El guante comienza con 6 cargas y recupera 1d6 de cargas al comienzo de cada fase.
 
-
-
-\page
 
 #### Guanteletes energizados
 *Código Místico, 3 de riqueza, Requisito: Debes tener al menos una ranura de hechizo*
@@ -2631,15 +2671,26 @@ Los hechizos lanzados a traves de los guanteletes tienen su tipo de daño reempl
 ___
 Mientras empuñas los guanteletes, el usuario puede usar una ranura de hechizo y su reacción cuando recibe daño para teletransportarse a una nueva ubicación dentro de 60 pies que pueda ver, provocando que todas las criaturas que esten en un radio de 5 pies de la nueva ubicación reciban 3d6 de daño por rayo.
 
+<div style='margin-top:380px'></div>
+
+
 #### Hoja de Azoth
 *Código Místico, 3 de riqueza, Requisito: Tu trasfondo debe ser
 Heredero de una familia de magos*
 ___
-Una daga ceremonial utilizada como canalizador para lanzar hechizos. La hoja tiene hasta un maximo de 3 cargas que se pueden gastar cuando el usuario lanza un hechizo.
+Una daga ceremonial utilizada como canalizador para lanzar hechizos. La hoja puede almacenar un máximo de 3 cargas, que se pueden gastar al lanzar un hechizo.  
+___  
+Si el hechizo inflige daño, añade 1d6 de daño adicional por cada carga gastada. Si el hechizo restaura puntos de vida, aumenta la curación en 2d6 de dados adicionales por cada carga gastada.
 ___
-Los hechizos infligen 1d6 de daño adicional del mismo tipo por cada carga gastada. Los hechizos que fuerzan a superar una tiradas de salvación tienen su CD aumentada en 1 por cada carga gastada. Si el hechizo hace daño y obliga a hacer una tirada de salvacion, puedes elegir qué aspecto se mejora.
+Si el hechizo requiere una tirada de ataque o fuerza a los objetivos a realizar una tirada de salvación: 
+
+- **Tirada de salvación:** El DC del hechizo aumenta en 1 por cada carga gastada.  
+- **Tirada de ataque:** Obtienes un bono a la tirada igual al número de cargas gastadas.  
 ___
-Puedes recuperar cargas de la hoja otorgándole espacios de hechizo con una acción en tu turno, recuperando dos cargas por cada ranura de hechizo utilizado. La hoja comienza con 3 cargas y recupera 1 carga al comienzo de cada fase.
+Si el hechizo involucra tanto una tirada de ataque como una tirada de salvación, eliges cuál de los dos aspectos mejorar.  
+___  
+Puedes recuperar cargas de la hoja otorgándole ranuras de hechizo como acción, restaurando dos cargas por cada ranura utilizada. La hoja comienza con 3 cargas y recupera 1 carga al inicio de cada fase.  
+
 
 #### Inhibidor de ojos misticos
 *Código Místico, 2 de riqueza*
@@ -2650,7 +2701,6 @@ Si el usuario posee Ojos Místicos, estos quedarán sellados mientras este Códi
 ___
 El usuario realiza tiradas de salvación con ventaja contra efectos de área generados por Ojos Místicos o cualquier efecto que se origine a partir de ellos.
 
-<div style='margin-top:380px'></div>
 
 
 #### Insignia del valor
@@ -2660,12 +2710,14 @@ Una pequeña insignia dorada que tiene forma de la cabeza de un leon que mejora 
 ___
  Mientras tengas esta insignia, obtienes una bonificación de +2 al AC. Como acción gratuita durante tu turno puedes renunciar a la bonificación para dársela a una criatura voluntaria a 30 pies de ti durante 1 minuto, regresando a ti una vez el tiempo acaba. Además, la criatura que tiene la bonificación de AC obtiene una bonificacion de +2 a las tiradas de salvacion de muerte.
 
+\page
+
 #### Marca del renegado
 *Código Místico, 3 de riqueza*
 ___
 Un tatuaje que, una vez hecho, el usuario no se podra quitar de ninguna manera.
 ___
-Mientras lo tenga, el usuario gana resistencia a todo el daño causado por hechizos u otros efectos mágicos, sin embargo, también sella sus circuitos mágicos volviéndolo incapaz de lanzar hechizos de manera permanente.
+Mientras lo tenga, el usuario gana resistencia a todo el daño causado por hechizos u otros efectos mágicos y salvaciones a toda tirada de ataque que estos impongan, sin embargo, también sella sus circuitos mágicos volviéndolo incapaz de lanzar hechizos de manera permanente.
 
 
 #### My Wonderland
@@ -2677,18 +2729,16 @@ ___
 ___
 Dentro del campo, tus hechizos de reacción no consumirán ranuras de hechizo, pero debes tener ranuras de hechizos para poder lanzarlos. Además, cada vez que lances un hechizo de reacción, tus criaturas invocadas comparten los beneficios de este, pero no ocasionan daño (si era parte del hechizo) y puedes manifestar esos hechizos a través de tus criaturas invocadas, como si estuvieras en su posición. Hacerlo de esta forma hace que la criatura desde la que se originó el hechizo pueda activar **Desde el Vacío** en tu lugar.
 
-
-
-
-<div class='pageNumber'>41</div>
-
-\page
 #### Pestilencia de Sandor
 *Código Místico, 3 de riqueza*
 ___
 Una maltratada ballesta pesada con una mira telescopica.
 ___
 La munición que se cargue en esta ballesta obtiene el efecto de los virotes envenenados. Además, el usuario obtiene inmunidad al daño de veneno y al estado de Envenenado.
+
+<div style='margin-top:380px'></div>
+
+
 
 #### Piedra de viaje
 *Código Místico, 1 de riqueza*
@@ -2719,7 +2769,10 @@ Al crear un arma con tu habilidad de Proyección, puedes agregar y/o eliminar un
 * **Versátil:** Si atacas con esta arma a una mano, obtienes +1 a tu CA hasta el inicio de tu próximo turno si la sigues empuñando. Cuando la usas a dos manos y golpeas a una criatura, esta tiene Desventaja en su siguiente ataque de arma antes del final de su próximo turno.
 
 
-<div style='margin-top:1000px'></div>
+
+
+\page
+
 
 #### Rompe maldiciones
 *Código Místico, 4 de riqueza, Requisito: Tu clase principal deber ser Nigromante*
@@ -2733,32 +2786,49 @@ Las municiones de esta escopeta están malditas. Cuando dañas a una criatura co
 
 * El daño infligido aumenta en 2d6 de daño necrótico adicional.
 
-* Los objetivos dañados por tu arma deben superar una tirada de salvación de MNA contra tu CD de hechizos. Si fallan, ganan vulnerabilidad a un tipo de daño elemental que elijas y el siguiente ataque contra ellos se realiza con ventaja. Estos efectos duran hasta el final de tu próximo turno.
+* Los objetivos dañados por tu arma deben superar una tirada de salvación de MNA contra tu CD de hechizos. Si fallan, ganan vulnerabilidad a un tipo de daño elemental que elijas o daño necrótico y el siguiente ataque contra ellos se realiza con ventaja. Estos efectos duran hasta el final de tu próximo turno.
+
+<div style='margin-top:1000px'></div>
+
+#### Semilla de la nada
+*Código Místico, 2 de Riqueza. Requisito: Tu clase principal debe ser Ethermante.*
+___
+Tus habilidades para controlar el Vacío siempre fueron refinadas… pero ahora, das un paso más allá. Un catalizador te ha sido otorgado. No descubierto, no creado, sino *entregado*. A través de él, una conexión más profunda con lo que yace más allá de la mortalidad se manifiesta.
+La Nada responde. Y tú, por primera vez, la escuchas mejor que nunca y mejor que siempre. Este Código Místico no requiere sintonía.
+___
+Cuando fueras a lanzar un hechizo puedes puedes también teletransportarte hasta 10 pies antes o después de lanzar el hechizo (tu decides).
+___
+Tu habilidad **Desde el Vacío** se mejora.
+___
+Al lanzar un hechizo de **Conjuración**, creas 2 zarcillos en vez de 1 y tienen 10 pies de flote. Les ordenas telepáticamente que deben hacer y actúan después de ti. Si no reciben orden actúan atacando lo que está mas cerca de ellos.
+___
+Puedes usar tu acción para sacrificar tantos zarcillos que controles como puedas y quieras en un radio de 60 pies alrededor tuyo e invoca una diminuta parte de un ser del Vacío superior; un gran tentáculo que aparece de una grieta en el espacio que actúa después de ti, le puedes ordenar que hacer telepáticamente. Tiene un CA de 14 + 1 por cada Zarcillo sacrificado (CA máximo de 25), tamaño Enorme (15x15), Puntos de Vida de 20 por cada Zarcillo sacrificado y un rango de ataque de 30 pies. Realiza un ataque de hechizo cuerpo a cuerpo usando tu MNA + 1 por cada zarcillo sacrificado (máximo de bono por zarcillo sacrificado +11). El tentáculo inflige 4d8 + tu MNA de daño contundente, si el golpe impacta puede optar por *Agarrar a un objetivo golpeado*, si lo hace no puede agarrar otro objetivo. Si decide atacar al objetivo agarrado no necesita hacer tirada de ataque, y si ataca a otro objetivo mientras tiene agarrada una criatura, ambos reciben el daño. Un objetivo agarrado por el tentáculo puede optar por hacer una prueba de FUE contra tu CD de hechizos, en un éxito se libera del agarre. El tentáculo se puede mover hasta 30 pies teletransportándose, pero si se separa a más 120 pies de ti desaparece de este plano y debes invocar otro.
 
 
-
-
-
-
-
-<div class='pageNumber'>42</div>
 \page
-
-
 
 #### Séptima Sagrada Escritura
 *Código Místico, 5 de riqueza, Requisitos: Tu clase principal debe ser Ejecutor de la Iglesia, 5 de Fuerza*
 ___
-Un arma conceptual, uno de los artefactos más poderosos que posee la Santa Iglesia. Un clavador de estacas de metal extremadamente grande y pesado, creada para evitar que seres inmortales reencarnen. Tiene una bonificación mágica de +3. Pesado, A dos manos, 3d8 de daño contundente. 
+Un arma conceptual que, a pesar de su impresión de arma de guerra, es muy compacta y ligera para aquellos que juraron su fe a la Iglesia, volviéndose imposible de levantar para criaturas no humanas.
 ___
-
-Esta arma es la ruina definitiva para constructos, vampiros, demonios y espíritus, por lo que gana un bono de +5 a las tiradas de ataque y daño contra estas criaturas, y les impide recuperar puntos de vida después de recibir daño hasta el final de su siguiente descanso. Además, si reduces a 0 los puntos de vida de un vampiro, demonio o espíritu con esta arma, mueren instantáneamente, esta muerte no puede ser evitada de ninguna manera y las criaturas que fueron asesinada por esta arma pueden revivir por ningún medio.
+El arma conceptual puede llevarse consigo en todo momento, volviéndose compacta para ser portátil y cambiando a la forma de batalla como acción gratuita en cualquier momento.
 ___
-Si un ataque cuerpo a cuerpo con esta arma acierta, ganas 1 carga de Conscripción, hasta un maximo de 3. Siendo capaz de gastar cargas de Conscripción de las siguientes maneras:
+Si bien se puede utilizar como arma cuerpo a cuerpo con su punta como una lanza, esta fue diseñada para ser un arma versátil a distancia que dispara sagradas escrituras que vaporizan a sus enemigos en cuestión de segundos.
+___
+Esta arma tiene un bonificador mágico de +3, además de obtener un bonificador mágico adicional de +5 si el objetivo es una Criatura Hereje.
 
-* Cuando golpeas a un objetivo usando tu acción de Ataque usando esta arma, puedes gastar 1 punto para disparar una gran estaca para perforar a tu objetivo, lo que inflige 3d8 de daño perforante adicional.
+* **Daño cuerpo a cuerpo:** 3d8 + FUE Perforante.
 
-* Puedes gastar 3 puntos como acción bonus para extender una gran cantidad de páginas doradas en un área de 10 pies a tu alrededor. Tú y tus aliados en esa área recuperan 20 puntos de vida. Los no muertos, espíritus, vampiros o demonios no pueden ingresar a esta área. Si ya están en esta área, son arrojados al borde de la misma, quedando Tumbados y recibiendo 5d8 de daño radiante. Esta área permanece activa durante 3 rondas, a menos que sea el objetivo de un efecto mágico que la destruya.
+* **Daño a distancia:** 2d8 + FUE Perforante. Rango 60/120
+___
+El arma obtiene **cargas de Fe** con cada ataque realizado, hasta un máximo de 3. Obtiene las cargas, acierte o no en dichos ataques 
+___
+Toda criatura que caiga a 0 puntos de vida por resultado de un golpe de esta arma, muere instantáneamente No hay manera de revivir después de morir por esta arma. 
+
+* Cuando golpeas a un objetivo  usando esta arma, puedes gastar 1 carga de Fe para disparar una gran estaca para perforar a tu objetivo, lo que inflige 3d8 de daño perforante adicional.
+
+* Como acción bonus, puedes gastar 3 cargas de Fe y activar un campo de luz que repele y daña al instante a todo espíritu, vampiro, no muerto y demonio. Toda criatura que se encuentre hasta a 15 pies de ti, deben hacer una tirada de salvación de CON DC 17, recibiendo 5d8 de daño radiante, la mitad si tienen éxito. Sin importar el resultado, son repelidos al límite del campo. Esta área permanece activa durante 3 rondas, repeliendo a toda criatura hostil hacia ti que quiera entrar y dañando a las criaturas antes mencionadas que intenten entrar.
 
 #### Sin empuñadura
 *Código Místico, 4 de riqueza.*
@@ -2784,11 +2854,11 @@ La usuaria puede arrastrar con fuerza al objetivo a cualquier lugar dentro de lo
 ___
 Una figura de piedra que se asemeja a la de una cabeza cortada, atada a una extraña cuerda con consistencia de acero.
 ___
-Cuando fueras a recibir daño a tus puntos de vida temporales, puedes usar tu reacción para activar el talismán y utilizar tus puntos de vida temporales, obteniendo uno de los siguientes efectos elegidos:
+Puedes activar el talismán  como Acción o como reacción cuando tus puntos de vida temporales fueran a ser dañados y utilizarlos, usando uno de los siguientes efectos a elección:
 
-* Convierte tus puntos de vida temporales en curación, gastando estos puntos de vida y ganando la mitad de la cantidad. La curación excesiva se convierte nuevamente en puntos de vida temporales.
+* Convierte tus puntos de vida temporales en curación, ganando la mitad de la cantidad. La curación excesiva se convierte nuevamente en puntos de vida temporales.
 
-* Usa tus puntos de vida temporales en piedras de referencia. Realiza un ataque con hechizo a distancia contra una criatura que puedas ver, causando una cantidad de daño contundente igual a la mitad de tus puntos de vida temporales.
+* Convierte tus puntos de vida temporales en piedras de referencia. Realiza un ataque con hechizo a distancia contra una criatura a elección a 120 pies, o la criatura que intentó dañarte si fue como reacción y está dentro del rango, causando una cantidad de daño contundente igual a la mitad de tus puntos de vida temporales.
 
 #### Tomo del falso asistente
 *Código Místico, 2 de riqueza*
@@ -2812,7 +2882,7 @@ Esta salvación solo se realiza si el Sirviente desobedece el comando, o si se e
 
 
 #### Vaina desgastada
-*Código Místico, 5 de riqueza, Requisito: 5 de Agilidad*
+*Código Místico, 5 de riqueza, Requisito: 5 de Destreza*
 ___
 Una vaina de madera extremadamente desgastada que contiene una espada larga oriental con una borla roja unida a la parte inferior de la empuñadura. La espada no puede ser desenvainada normalmente.
 ___
@@ -2852,7 +2922,7 @@ ___
 > ___
 > ***Apuñalar.*** *Ataque cuerpo a cuerpo:* +5 a impactar, alcance de 10 pies, un objetivo. Impacto: 2d6+5 de daño perforante.
 >
-> ***Defender.*** El mercurio se transforma de manera automática alrededor de un objetivo cuando este es atacado, volviéndose el nuevo objetivo de todos los ataques hasta el comienzo de su próximo turno. Los ataques que pueden anular la magia pasan por alto esta defensa.
+> ***Defender.*** El mercurio se transforma de manera automática alrededor de un objetivo cuando este es atacado, volviéndose el nuevo objetivo de todos los ataques  y daño en área, el usuario del Mercurio no realiza la salvación, sino que la realiza el Mercurio. En caso de que el Mercurio sea destruido, el daño residual se traspasa al usuario, quien podrá repetir la salvación. Esto dura hasta el comienzo de su próximo turno. Los ataques y efectos que pueden anular la magia pasan por alto esta defensa. 
 >
 > ***Detectar.*** El mercurio se propaga en forma de una enorme red que llega a abarcar un área de 120 pies alrededor del usuario. Todas las criaturas ocultas en esta área se revelan al usuario.
 
@@ -3124,7 +3194,7 @@ El daño necrótico recibido por la manipulación del tiempo no puede reducirse 
 ___
 Tienes un increible talento para la hechicería curativa, siendo capaz de reparar heridas que normalmente son imposibles de curar sin el uso de magia.
 ___
-Tienes una reserva de 25 puntos de vida que, mediante tu accion bonus, puedes usar para restaurarte a ti o a una criatura de tu eleccion que puedas tocar hasta la cantidad máxima restante en tu reserva. Tu reserva de vida se rellena cuando terminas un descanso.
+Tienes una reserva de 30 puntos de vida que, mediante tu accion bonus, puedes usar para restaurarte a ti o a una criatura de tu eleccion que puedas tocar hasta la cantidad máxima restante en tu reserva. Tu reserva de vida se rellena cuando terminas un descanso.
 ___
 Cuando uno de tus hechizos recupera vida a una criatura, recupera 2d6 puntos de vida extra. Además, toda sanación que realices limpiará a los objetivos de cualquier **debilidad física**.
 
@@ -3133,25 +3203,25 @@ Cuando uno de tus hechizos recupera vida a una criatura, recupera 2d6 puntos de 
 ___
 Algunos magos cuyos ancestros pertenecían a un clan hereje pueden poseer este lamentable y mal visto rasgo: la sangre de un demonio. Tu tipo pasa a ser Demonio.
 ___
-Como acción bonus una vez por descanso, puedes elegir activar tu sangre de demonio, obteniendo los siguientes beneficios durante 1 minuto o hasta que estés incapacitado:
+Una vez por descanso puedes usar tu acción bonus o como acción gratuita al iniciar tu primer turno en un combate, activar tu sangre de demonio, obteniendo los siguientes beneficios durante 1 minuto o hasta que estés incapacitado:
 
 * Tienes una Acción adicional en cada uno de tus turnos. Si realizas la acción de Ataque, sólo puedes atacar una vez.
 
 * Haces todas las pruebas y tiradas de salvación de FUE, DES y MNA con ventaja.
 
-* Obtienes una bonificación de +3 al daño de todos ataques y hechizos que realices.
+* Obtienes una bonificación de +3 al daño de todos ataques y hechizos que realices y +10 pies de movimiento.
 ___
 Cuando activas esta habilidad, todas las criaturas a 60 pies de ti que pueden verte se ven obligadas a hacer una tirada de salvación MNA CD 15, quedando asustadas de ti si fallan hasta que la habilidad termine. Los objetivos pueden repetir esta salvación al final de cada uno de sus turnos.
 ___
 Cuando termina la habilidad ganas 3 niveles de agotamiento, los cuales solamente desaparecen si pasas una fase completa fuera de combate consumiendo almas humanas como si fueras un Servant.
 
-<img src='https://cdn.donmai.us/original/7b/9b/7b9b036243136166a640c30ebafa7bd4.jpg' style='position:absolute; bottom:-60px; right:-30px; width:450px;'/>
+<img src='https://cdn.donmai.us/original/7b/9b/7b9b036243136166a640c30ebafa7bd4.jpg' style='position:absolute; bottom:-60px; right:0px; width:420px;'/>
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
   style='position:absolute; top:0px; right:130px; height:1056px; width:1056px; transform:rotate(-90deg)' />
 <img 
   src='https://www.gmbinder.com/images/cPPYV7h.png' 
-  style='position:absolute; bottom:35px; right:0px; height:1056px; width:816px;' />
+  style='position:absolute; bottom:5px; right:0px; height:1056px; width:816px;' />
 
 
 
@@ -3181,11 +3251,11 @@ Obtienen la capacidad de alterar los hechizos que lanzan, como parte de la acci�
 #### Transferencia de maná
 *Rasgo Magico, 1 nivel de clase*
 ___
-Algunos magos manipulan la energía mágica extrayéndola de otros o compartiendo la suya para potenciar hechizos. En lugar de gastar ranuras de hechizo, puedes reducir 10 puntos de vida maximo por cada ranura que desees reemplazar, esta reducción dura hasta el final de tu siguiente descanso.
-___  
-Como acción, puedes tocar a una criatura voluntaria o incapacitada para transferirle tus ranuras no utilizadas. Por cada ranura transferida, la criatura puede recuperar una propia, sanar 10 puntos de vida o restaurar una habilidad o uso de una habilidad que normalmente requiere un descanso para recargar. También puedes absorber las ranuras de otra criatura mediante una prueba enfrentada de MNA, obteniendo los mismos beneficios.  
-___  
-Alternativamente, puedes canalizar gran parte de tu poder hacia un Servant. Al hacerlo, pierdes 3 ranuras y obtienes 2 niveles de agotamiento. A cambio, el Servant puede usar su Noble Phantasm una vez más antes de descansar y recibe un bono de +5 a sus tiradas de ataque y daño hasta el final de su próximo combate.
+Algunos magos manipulan la energía mágica extrayéndola de otros o compartiendo la suya para potenciar hechizos. En lugar de usar ranuras de hechizo puedes reducir 10 puntos de vida máxima por cada ranura que fueras a reemplazar, esta reducción dura hasta el final de tu siguiente descanso.
+___
+Como acción, puedes tocar a otra criatura que sea voluntaria o esté incapacitada para transferirle tus ranuras no utilizadas. Por cada ranura transferida, la criatura puede recuperar una propia, sanar 10 puntos de vida o restaurar una habilidad o uso de una habilidad que normalmente requiere un descanso para recargar. También puedes absorber las ranuras de otra criatura mediante una prueba enfrentada de MNA, obteniendo los mismos beneficios.
+___
+Alternativamente, puedes canalizar gran parte de tu poder hacia un Servant. Al hacerlo, pierdes 3 ranuras y obtienes 2 niveles de agotamiento. A cambio, el Servant tiene un uso adicional de su Noble Phantasm y recibe un bono de +3 a sus tiradas de ataque y daño hasta el final de su próximo combate
 
 <div style='margin-top:140px'></div>
 
@@ -3254,19 +3324,16 @@ Esta habilidad tiene una recarga de 5 - 6.
 #### Ojo místico de percepción de la vida
 *Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase*
 ___
-A las criaturas dañadas por tus ataques cuerpo a cuerpo se les agota una parte de su fuerza vital.
-___
-Cada vez que una criatura a la que hayas dañado con un ataque cuerpo a cuerpo en este encuentro recupere puntos de vida, debe tener éxito en una tirada de salvación de CON CD 17 o se le negará la curación. Esta aflicción persiste en tus objetivos hasta el final de su próximo descanso.
-___
-Además, tus ataques cuerpo a cuerpo ignoran los puntos de vida temporales e infligen daño directamente a los puntos de vida del objetivo.
+Tus ataques cuerpo a cuerpo se ven mejorados: Cada vez que una criatura a la que hayas dañado intente recuperar puntos de vida, debe superar una tirada de salvación de CON CD 17; de fallar, la curación no surtirá efecto. Esta aflicción permanece activa en la criatura hasta que finalice su próximo descanso. Tus ataques tienen un un margen de crítico mejorado de 19 - 20, acumulable con otras fuente que reduzcan el margen de crítico. Tus ataques ignoran puntos de vida temporales.
 
-#### Ojo místico de premonición
-*Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase*
+#### Ojo místico de premonición  
+*Rail Zeppelin Costo: 4 de riqueza o 1 nivel de clase*  
 ___
-Mediante tu reaccion obtienes ventaja en una tirada de tu eleccion. Debes gastar tu reaccion antes de que se sepa el resultado de la tirada.
-___
-Ademas, cuando recibes daño de una fuente que puedes ver, tambien puedes usar tu reacción para reducir la cantidad total de daño recibido a la mitad.
-___
+Cuando tú o un aliado a 60 pies deban realizar una tirada de salvación o sean el objetivo de un ataque, puedes realiza una prueba de DES o SUE antes de que se realice la tirada de salvación o antes de lanzar el daño (en caso de un ataque):
+
+* Si el resultado es igual o superior a la CD de la salvación, la criatura tiene éxito automáticamente.
+* Si el resultado es igual o superior a la tirada de ataque del oponente, el ataque falla.
+
 Esta habilidad tiene una recarga de 5 - 6.
 
 #### Ojo místico de sensación
@@ -5611,7 +5678,7 @@ Este hechizo no puede restaurar las partes del cuerpo que haya perdido en vida. 
 ## Campos delimitados
 Radios activos de energía mágica que dotan al área que cubren de un efecto mágico constante.
 ___
-Puedes tener una cantidad maxima de campos limitados activos igual a tu MNA, pero no puedes hacer que sus áreas se superpongan a menos que indiquen lo contrario.
+Puedes tener una cantidad maxima de campos limitados activos igual a tu MNA (mínimo 1), pero no puedes hacer que sus áreas se superpongan a menos que indiquen lo contrario.
 ___
 Estos campos están estáticos y en caso de que el campo se mueva mas de 30 pies, estos son destruidos.
 ___
